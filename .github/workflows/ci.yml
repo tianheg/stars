@@ -2,7 +2,7 @@ name: update stars
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '00 0 * * *'
 jobs:
   awesome-stars:
     name: update awesome-stars
