@@ -13,6 +13,7 @@
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
+  - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
@@ -108,6 +109,10 @@
 
 - [lucky](https://github.com/luckyframework/lucky) - A full-featured Crystal web framework that catches bugs for you, runs incredibly fast, and helps you write code that lasts.
 
+## Dockerfile 
+
+- [serverless-action](https://github.com/cloudflare/serverless-action) - 
+
 ## Elixir 
 
 - [lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -151,6 +156,7 @@
 
 ## HTML 
 
+- [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
 - [nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
 - [hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
@@ -213,6 +219,7 @@
 
 ## JavaScript 
 
+- [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [wujr5.github.io](https://github.com/wujr5/wujr5.github.io) - 
 - [webbew](https://github.com/tianheg/webbew) - A visual overview of useful skills to learn as a web developer
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
@@ -359,8 +366,10 @@
 
 ## Others 
 
+- [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo?
+- [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
-- [jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated list of my GitHub stars! ⭐
 - [plan](https://github.com/tianheg/plan) - All my work will start here
 - [goal](https://github.com/rbew/goal) - ToDoLists
 - [nonsense.fun_tasker](https://github.com/jimlee2002/nonsense.fun_tasker) - 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024
@@ -456,6 +465,7 @@
 
 ## Python 
 
+- [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
@@ -493,7 +503,7 @@
 - [pythontools](https://github.com/liuhao326/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号
 - [douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 富有体系且实用的小例子、小案例。
+- [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
 - [examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 - [python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
@@ -503,6 +513,7 @@
 
 ## R 
 
+- [jimsghstars](https://github.com/jimbrig/jimsghstars) - A curated list of my GitHub stars! ⭐ https://jimbrig.github.io/jimsghstars/
 - [bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
 
 ## Rich Text Format 
@@ -527,6 +538,7 @@
 
 ## SCSS 
 
+- [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
@@ -541,6 +553,8 @@
 
 ## Shell 
 
+- [gh-actions-hugo-deploy-gh-pages](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) - Github Actions : Hugo static site generator
+- [hugo-deploy-gh-org-pages](https://github.com/StevenACoffman/hugo-deploy-gh-org-pages) - Github Action to Automate Hugo for an Organization Github Page
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
 - [config](https://github.com/tianheg/config) - config files about git, zsh, vscode, and so on
 - [standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
@@ -586,6 +600,7 @@
 
 ## TypeScript 
 
+- [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
