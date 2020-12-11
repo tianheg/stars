@@ -156,6 +156,8 @@
 
 ## HTML 
 
+- [site](https://github.com/tianheg/site) - watch one site
+- [olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
 - [nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
 - [resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
@@ -366,7 +368,7 @@
 
 ## Others 
 
-- [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo?
+- [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
