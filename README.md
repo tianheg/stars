@@ -132,6 +132,7 @@
 
 ## Go 
 
+- [twtxt](https://github.com/jointwt/twtxt) - 📕 twtxt is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
 - [Timimi](https://github.com/ibnishak/Timimi) - Webextension to save Tiddlywiki
 - [docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker technologies, with real DevOps practice!
 - [todo-cli](https://github.com/yuzuy/todo-cli) - A TUI todo app
@@ -221,6 +222,7 @@
 
 ## JavaScript 
 
+- [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [wujr5.github.io](https://github.com/wujr5/wujr5.github.io) - 
 - [webbew](https://github.com/tianheg/webbew) - A visual overview of useful skills to learn as a web developer
@@ -368,6 +370,7 @@
 
 ## Others 
 
+- [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -467,6 +470,9 @@
 
 ## Python 
 
+- [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
+- [rank4douban](https://github.com/bimzcy/rank4douban) - CC, MOC, FIB, all kinds of billboard that connect the item title with douban ID.
 - [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
@@ -602,6 +608,7 @@
 
 ## TypeScript 
 
+- [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
