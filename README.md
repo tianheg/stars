@@ -85,6 +85,7 @@
 
 ## CSS 
 
+- [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
@@ -222,6 +223,8 @@
 
 ## JavaScript 
 
+- [china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
+- [query-nownownow](https://github.com/haroldtreen/query-nownownow) - Search profiles on http://nownownow.com
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [wujr5.github.io](https://github.com/wujr5/wujr5.github.io) - 
@@ -370,13 +373,13 @@
 
 ## Others 
 
+- [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [plan](https://github.com/tianheg/plan) - All my work will start here
-- [goal](https://github.com/rbew/goal) - ToDoLists
 - [nonsense.fun_tasker](https://github.com/jimlee2002/nonsense.fun_tasker) - 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
@@ -470,6 +473,7 @@
 
 ## Python 
 
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [rank4douban](https://github.com/bimzcy/rank4douban) - CC, MOC, FIB, all kinds of billboard that connect the item title with douban ID.
@@ -608,6 +612,7 @@
 
 ## TypeScript 
 
+- [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
