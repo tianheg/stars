@@ -104,6 +104,7 @@
 
 ## CoffeeScript 
 
+- [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 
 ## Crystal 
@@ -211,6 +212,7 @@
 
 ## Java 
 
+- [Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
@@ -223,6 +225,9 @@
 
 ## JavaScript 
 
+- [wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
+- [lvv2-feed](https://github.com/ruanyf/lvv2-feed) - 
+- [motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
 - [china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
 - [query-nownownow](https://github.com/haroldtreen/query-nownownow) - Search profiles on http://nownownow.com
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
@@ -373,6 +378,9 @@
 
 ## Others 
 
+- [traffic-badge](https://github.com/tianheg/traffic-badge) - 
+- [build-my-first-app](https://github.com/tianheg/build-my-first-app) - WIP Create a RSS reading android app
+- [project-based-learning](https://github.com/tianheg/project-based-learning) - Learn by a project
 - [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
