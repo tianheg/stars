@@ -37,6 +37,7 @@
   - [SCSS](#scss)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Stylus](#stylus)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VBScript](#vbscript)
@@ -54,6 +55,7 @@
 
 ## C 
 
+- [ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
 - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
 - [book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
@@ -159,6 +161,7 @@
 
 ## HTML 
 
+- [fortran-lang.org](https://github.com/fortran-lang/fortran-lang.org) - Fortran website
 - [site](https://github.com/tianheg/site) - watch one site
 - [olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
@@ -225,6 +228,10 @@
 
 ## JavaScript 
 
+- [wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
+- [fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
+- [vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
+- [Happy-Birthday](https://github.com/rbew/Happy-Birthday) - Happy birthday page for someone
 - [wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
 - [lvv2-feed](https://github.com/ruanyf/lvv2-feed) - 
 - [motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
@@ -378,8 +385,11 @@
 
 ## Others 
 
+- [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
+- [graph](https://github.com/shfshanyue/graph) - awesome-graph
+- [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [traffic-badge](https://github.com/tianheg/traffic-badge) - 
-- [build-my-first-app](https://github.com/tianheg/build-my-first-app) - WIP Create a RSS reading android app
+- [RSS-reader](https://github.com/tianheg/RSS-reader) - WIP Create a  android RSS reader
 - [project-based-learning](https://github.com/tianheg/project-based-learning) - Learn by a project
 - [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
@@ -558,6 +568,7 @@
 
 ## SCSS 
 
+- [nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
@@ -613,6 +624,10 @@
 - [githug](https://github.com/Gazler/githug) - Git your game on!
 - [android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+## Stylus 
+
+- [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - A VuePress theme inspired by Gitbook
 
 ## TeX 
 
