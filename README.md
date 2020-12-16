@@ -215,6 +215,16 @@
 
 ## Java 
 
+- [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) - 🔥一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库（小红书）
+- [security-certification-resources](https://github.com/android/security-certification-resources) - Android Certification Tools
+- [news-android](https://github.com/nextcloud/news-android) - 📱:newspaper: Android client for the Nextcloud news/feed reader app
+- [Android](https://github.com/hmkcode/Android) - Android related examples
+- [Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
+- [smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin 使用 SpringBoot和Vue，前后端分离，我们希望用一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱生活。SmartAdmin 让你从认识到忘不了，绝对是你最想要的！
+- [media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
+- [Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+- [termux-app](https://github.com/termux/termux-app) - Android terminal and Linux environment - app repository.
+- [about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
 - [Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
 - [leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
@@ -228,6 +238,8 @@
 
 ## JavaScript 
 
+- [hugo-waline](https://github.com/Qraffa/hugo-waline) - 
+- [waline](https://github.com/lizheming/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
 - [wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
 - [fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
 - [vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
@@ -373,6 +385,7 @@
 
 ## Kotlin 
 
+- [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Makefile 
@@ -385,6 +398,8 @@
 
 ## Others 
 
+- [review](https://github.com/tianheg/review) - Act, think, summarize
+- [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
@@ -617,7 +632,7 @@
 - [antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
-- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
@@ -635,6 +650,7 @@
 
 ## TypeScript 
 
+- [mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
@@ -687,6 +703,7 @@
 
 ## Vim script 
 
+- [til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [vim](https://github.com/skywind3000/vim) - Personal Vim Profile
 
 ## Vue 
