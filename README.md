@@ -87,6 +87,7 @@
 
 ## CSS 
 
+- [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
@@ -162,7 +163,6 @@
 ## HTML 
 
 - [fortran-lang.org](https://github.com/fortran-lang/fortran-lang.org) - Fortran website
-- [site](https://github.com/tianheg/site) - watch one site
 - [olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
 - [nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
@@ -360,7 +360,7 @@
 - [TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [July](https://github.com/madawei2699/July) - 简单的小博客仓库
 - [markdown-it-latex2img](https://github.com/MakerGYT/markdown-it-latex2img) - LaTex plugin for markdown-it markdown parser,Place LaTeX Math equation on anywhere as &lt;img&gt; tag.
-- [MrDoc](https://github.com/zmister2016/MrDoc) - 基于Python开发的在线文档系统，适合作为个人和小型团队的文档、笔记、知识管理工具。a online document system developed based on python. It is suitable for individuals and small teams to manage documents, knowledge and notes.
+- [MrDoc](https://github.com/zmister2016/MrDoc) - 基于Python开发的在线文档系统，支持 Markdown 和所见即所得的富文本编辑，适合作为个人和小型团队的文档、笔记、知识管理工具。a online document system developed based on python. It is suitable for individuals and small teams to manage documents, knowledge and notes.
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -398,6 +398,8 @@
 
 ## Others 
 
+- [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [things](https://github.com/tianheg/things) - 备忘用过的、感兴趣的事物
 - [review](https://github.com/tianheg/review) - Act, think, summarize
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
@@ -650,6 +652,7 @@
 
 ## TypeScript 
 
+- [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [code-server](https://github.com/cdr/code-server) - VS Code in the browser
