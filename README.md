@@ -238,6 +238,8 @@
 
 ## JavaScript 
 
+- [nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+- [yrm](https://github.com/i5ting/yrm) - YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [hugo-waline](https://github.com/Qraffa/hugo-waline) - 
 - [waline](https://github.com/lizheming/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
 - [wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
@@ -512,7 +514,7 @@
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
 - [rank4douban](https://github.com/bimzcy/rank4douban) - CC, MOC, FIB, all kinds of billboard that connect the item title with douban ID.
-- [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine
+- [whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
 - [EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
