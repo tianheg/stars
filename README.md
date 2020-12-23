@@ -35,6 +35,7 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
+  - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stylus](#stylus)
@@ -62,7 +63,7 @@
 - [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
 - [open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
@@ -243,6 +244,7 @@
 
 ## JavaScript 
 
+- [devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
 - [nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [yrm](https://github.com/i5ting/yrm) - YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao
@@ -604,8 +606,13 @@
 - [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 - [io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
+## Sass 
+
+- [alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
+
 ## Scala 
 
+- [source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
 - [shadowsocksr-v2ray-trojan-android](https://github.com/xxf098/shadowsocksr-v2ray-trojan-android) - A ShadowsocksR, V2Ray and Trojan client for Android
 
 ## Shell 
