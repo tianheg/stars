@@ -176,7 +176,6 @@
 - [hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
 - [jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
 - [nietzsche](https://github.com/mahavivo/nietzsche) - 尼采文集电子版
-- [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [podcast](https://github.com/tianheg/podcast) - collect podcasts I'll listen oneday
@@ -244,6 +243,9 @@
 
 ## JavaScript 
 
+- [OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
+- [listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
+- [FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
 - [devdocs-desktop](https://github.com/egoist/devdocs-desktop) - 🗂 A full-featured desktop app for DevDocs.io.
 - [svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
 - [nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
@@ -598,6 +600,7 @@
 
 - [nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
 - [cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
