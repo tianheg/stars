@@ -56,6 +56,7 @@
 
 ## C 
 
+- [ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
 - [repo](https://github.com/kisslinux/repo) - KISS - Official Repositories
 - [ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
 - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
@@ -77,6 +78,7 @@
 
 ## C++ 
 
+- [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
 - [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -89,6 +91,8 @@
 
 ## CSS 
 
+- [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
@@ -154,7 +158,7 @@
 - [waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。
 - [frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [perkeep](https://github.com/perkeep/perkeep) - Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
 - [algorithm-pattern](https://github.com/greyireland/algorithm-pattern) - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -164,6 +168,7 @@
 
 ## HTML 
 
+- [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [time](https://github.com/tianheg/time) - Develop a small habit of reading
 - [Daydayup](https://github.com/owlling/Daydayup) - read notes
@@ -178,7 +183,6 @@
 - [nietzsche](https://github.com/mahavivo/nietzsche) - 尼采文集电子版
 - [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [podcast](https://github.com/tianheg/podcast) - collect podcasts I'll listen oneday
 - [ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
 - [personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
 - [zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
@@ -220,6 +224,8 @@
 
 ## Java 
 
+- [PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler) - A GeekTime course about constructing a compiler.
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [MeiWidgetView](https://github.com/HpWens/MeiWidgetView) - 🔥一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库（小红书）
 - [security-certification-resources](https://github.com/android/security-certification-resources) - Android Certification Tools
 - [news-android](https://github.com/nextcloud/news-android) - 📱:newspaper: Android client for the Nextcloud news/feed reader app
@@ -232,6 +238,7 @@
 - [about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
 - [Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
+- [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
 - [leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
@@ -243,6 +250,11 @@
 
 ## JavaScript 
 
+- [github-issue-tracker](https://github.com/M0nica/github-issue-tracker) - UI to allow users to view all issues associated with their GitHub repositories in a single view
+- [foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template) - Foam workpace template
+- [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
+- [security-checklist](https://github.com/brianlovin/security-checklist) - A checklist for staying safe on the internet
+- [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
 - [listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
 - [FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
@@ -264,7 +276,6 @@
 - [drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
 - [wujr5.github.io](https://github.com/wujr5/wujr5.github.io) - 
-- [webbew](https://github.com/tianheg/webbew) - A visual overview of useful skills to learn as a web developer
 - [web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
@@ -274,10 +285,8 @@
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
-- [develop](https://github.com/tianheg/develop) - List of resources collected for front-end and back-end development
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
 - [how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -324,7 +333,6 @@
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
 - [docute](https://github.com/egoist/docute) - 📚 Effortless documentation, done right.
 - [NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 10 + React Hooks
-- [ideas](https://github.com/tianheg/ideas) - Ideas of Jimgao
 - [hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [MetingJS](https://github.com/metowolf/MetingJS) - :cake: A powerful plugin connect APlayer and Meting
@@ -397,6 +405,7 @@
 
 ## Kotlin 
 
+- [PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 - [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
@@ -410,8 +419,8 @@
 
 ## Others 
 
+- [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [things](https://github.com/tianheg/things) - 备忘用过的、感兴趣的事物
 - [review](https://github.com/tianheg/review) - Act, think, summarize
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
@@ -434,13 +443,10 @@
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
 - [upptime](https://github.com/tianheg/upptime) - 📈 Uptime monitor and status page for Jimgao, powered by @upptime
 - [our](https://github.com/tianheg/our) - Often used repositories
-- [friends](https://github.com/tianheg/friends) - 理想主义
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
-- [learn-english](https://github.com/tianheg/learn-english) - way to learn English
-- [doc-rules](https://github.com/tianheg/doc-rules) - How to write great documents? I'll write and collect these rules for us
 - [note](https://github.com/tianheg/note) - think | read | watch | listen
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
@@ -520,6 +526,7 @@
 
 ## Python 
 
+- [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [BlogArchives](https://github.com/miaotony/BlogArchives) - Archives of MiaoTony's Blog. 博客文章归档，基于 GitHub Action 定期自动更新。
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
@@ -671,6 +678,7 @@
 
 ## TypeScript 
 
+- [designdetails](https://github.com/designdetails/designdetails) - A weekly conversation about design process and culture
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
 - [react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
