@@ -91,6 +91,8 @@
 
 ## CSS 
 
+- [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
+- [kiss](https://github.com/tianheg/kiss) - keep blog simple, stupid
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
 - [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -250,6 +252,7 @@
 
 ## JavaScript 
 
+- [DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
 - [producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
 - [Mirror](https://github.com/upupming/Mirror) - Deploy Google and Wikipedia mirror with one command using now.sh.
 - [github-issue-tracker](https://github.com/M0nica/github-issue-tracker) - UI to allow users to view all issues associated with their GitHub repositories in a single view
@@ -421,6 +424,7 @@
 
 ## Others 
 
+- [public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
 - [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -444,7 +448,6 @@
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
-- [upptime](https://github.com/tianheg/upptime) - 📈 Uptime monitor and status page for Jimgao, powered by @upptime
 - [our](https://github.com/tianheg/our) - Often used repositories
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
