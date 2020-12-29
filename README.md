@@ -91,6 +91,7 @@
 
 ## CSS 
 
+- [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
 - [kiss](https://github.com/tianheg/kiss) - keep blog simple, stupid
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
@@ -115,6 +116,7 @@
 
 ## CoffeeScript 
 
+- [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 
@@ -252,6 +254,7 @@
 
 ## JavaScript 
 
+- [talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
 - [DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
 - [producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
 - [Mirror](https://github.com/upupming/Mirror) - Deploy Google and Wikipedia mirror with one command using now.sh.
@@ -305,7 +308,7 @@
 - [opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [chrome-extension-demo](https://github.com/ruanyf/chrome-extension-demo) - how to create a Chrome extension
 - [github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
-- [wereader](https://github.com/liuhao326/wereader) - 一个 Chrome / Firefox 插件：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
+- [wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 插件：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
 - [react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
 - [simple-react-js-weather-app](https://github.com/konstantinmuenster/simple-react-js-weather-app) - A simple weather app that allows you to get current weather information, based on the city you enter.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -424,6 +427,7 @@
 
 ## Others 
 
+- [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
 - [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
@@ -447,7 +451,7 @@
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub
+- [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
 - [our](https://github.com/tianheg/our) - Often used repositories
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
@@ -573,7 +577,7 @@
 - [practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [163MusicSpider](https://github.com/NacedWang/163MusicSpider) - 一个获取网易云音乐歌手、专辑、歌曲、评论、歌词等数据的Python爬虫
-- [pythontools](https://github.com/liuhao326/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号
+- [pythontools](https://github.com/Higurashi-kagome/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号
 - [douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
 - [Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子
