@@ -93,7 +93,7 @@
 
 - [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
-- [kiss](https://github.com/tianheg/kiss) - keep blog simple, stupid
+- [tringle](https://github.com/tianheg/tringle) - keep blog simple, stupid
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
 - [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
@@ -172,6 +172,7 @@
 
 ## HTML 
 
+- [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [time](https://github.com/tianheg/time) - Develop a small habit of reading
@@ -432,7 +433,7 @@
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
 - [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [review](https://github.com/tianheg/review) - Act, think, summarize
+- [review](https://github.com/tianheg/review) - Study, Think, Act
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
@@ -689,6 +690,8 @@
 
 ## TypeScript 
 
+- [turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
+- [IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [designdetails](https://github.com/designdetails/designdetails) - A weekly conversation about design process and culture
 - [web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
@@ -752,7 +755,7 @@
 - [douban-book-wall](https://github.com/sinchang/douban-book-wall) - 把你阅读过的图书生成图书墙
 - [portfolio](https://github.com/tianheg/portfolio) - home
 - [portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
-- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 100k+ developers. https://hoppscotch.io
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 A free, fast and beautiful API request builder used by 120k+ developers. https://hoppscotch.io
 - [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
