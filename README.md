@@ -91,6 +91,7 @@
 
 ## CSS 
 
+- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
 - [tringle](https://github.com/tianheg/tringle) - keep blog simple, stupid
@@ -172,6 +173,7 @@
 
 ## HTML 
 
+- [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
