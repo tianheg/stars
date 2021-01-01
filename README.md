@@ -91,6 +91,8 @@
 
 ## CSS 
 
+- [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+- [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
@@ -257,6 +259,7 @@
 
 ## JavaScript 
 
+- [Telegram-Channel-Mirror](https://github.com/miaotony/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
 - [talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
 - [DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
 - [producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
@@ -400,7 +403,7 @@
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
 - [zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
 - [How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。    阿里招 Python P6/P7 上海张江, gaojunqi@outlook.com
+- [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [hexo-theme-tree](https://github.com/wujun234/hexo-theme-tree) - 
 - [listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
@@ -529,6 +532,7 @@
 
 ## PHP 
 
+- [LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
 
