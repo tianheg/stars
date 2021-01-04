@@ -96,7 +96,7 @@
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
-- [tringle](https://github.com/tianheg/tringle) - keep blog simple, stupid
+- [me](https://github.com/tianheg/me) - triangle --&gt; tringle --&gt; tmgle --&gt; me
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
@@ -174,6 +174,7 @@
 
 ## HTML 
 
+- [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
@@ -259,6 +260,12 @@
 
 ## JavaScript 
 
+- [cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
+- [weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
+- [05-day-planner](https://github.com/travis-john/05-day-planner) - A meeting scheduler for to plan work days
+- [mergemp4](https://github.com/maple3142/mergemp4) - 
+- [lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+- [Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now) - 自动跳转某些网站不希望用户直达的外链
 - [bookmarkleter](https://github.com/chriszarate/bookmarkleter) - You have JavaScript. You need a bookmarklet. This does that.
 - [Telegram-Channel-Mirror](https://github.com/miaotony/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
 - [talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
@@ -306,7 +313,7 @@
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
 - [github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
-- [Wiki-book](https://github.com/linyuxuanlin/Wiki-book) - 个人知识库
+- [Wiki_VuePress](https://github.com/linyuxuanlin/Wiki_VuePress) - 基于 VuePress 的个人知识库（已弃用，仅供参考）
 - [react-blog-github](https://github.com/saadpasta/react-blog-github) - 🔥 React + Github Issues    👉 Your Personal Blog
 - [es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [github-trending-api](https://github.com/huchenme/github-trending-api) - :octocat: The missing APIs for GitHub trending projects and developers 📈
@@ -434,6 +441,7 @@
 
 ## Others 
 
+- [historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [public](https://github.com/busterbenson/public) - My public self and book of beliefs.
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
@@ -459,12 +467,11 @@
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-- [our](https://github.com/tianheg/our) - Often used repositories
 - [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
-- [note](https://github.com/tianheg/note) - think | read | watch | listen
+- [note](https://github.com/tianheg/note) - read | watch | listen
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
@@ -504,7 +511,7 @@
 - [semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
@@ -539,11 +546,13 @@
 
 ## PowerShell 
 
+- [ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 
 ## Python 
 
+- [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [BlogArchives](https://github.com/miaotony/BlogArchives) - Archives of MiaoTony's Blog. 博客文章归档，基于 GitHub Action 定期自动更新。
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
