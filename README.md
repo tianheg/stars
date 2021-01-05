@@ -178,7 +178,6 @@
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [time](https://github.com/tianheg/time) - Develop a small habit of reading
 - [Daydayup](https://github.com/owlling/Daydayup) - read notes
@@ -260,6 +259,7 @@
 
 ## JavaScript 
 
+- [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) - A markdown-it plugin to create GitHub-style task lists
 - [cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
 - [weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
 - [05-day-planner](https://github.com/travis-john/05-day-planner) - A meeting scheduler for to plan work days
@@ -277,6 +277,7 @@
 - [foamy-nextjs](https://github.com/yenly/foamy-nextjs) - Basic Foam + NextJS with MDX starter for building a digital garden
 - [security-checklist](https://github.com/brianlovin/security-checklist) - A checklist for staying safe on the internet
 - [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
 - [OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
 - [listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
 - [FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
@@ -461,7 +462,7 @@
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [stars](https://github.com/tianheg/stars) - All my stars repositories
-- [plan](https://github.com/tianheg/plan) - All my work will start here
+- [plan](https://github.com/tianheg/plan) - It has been moved to https://github.com/tianheg/review/blob/main/docs/plan/README.md
 - [nonsense.fun_tasker](https://github.com/jimlee2002/nonsense.fun_tasker) - 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
