@@ -35,7 +35,6 @@
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
-  - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stylus](#stylus)
@@ -174,6 +173,7 @@
 
 ## HTML 
 
+- [project](https://github.com/tianheg/project) - 
 - [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -259,6 +259,7 @@
 
 ## JavaScript 
 
+- [v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
 - [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) - A markdown-it plugin to create GitHub-style task lists
 - [cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
 - [weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
@@ -442,6 +443,7 @@
 
 ## Others 
 
+- [career-guide-for-cs-graduate](https://github.com/easychen/career-guide-for-cs-graduate) - 计算机系应届生求职指北
 - [historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [public](https://github.com/busterbenson/public) - My public self and book of beliefs.
@@ -644,10 +646,6 @@
 - [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 - [io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
-## Sass 
-
-- [alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
-
 ## Scala 
 
 - [source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
@@ -656,6 +654,7 @@
 ## Shell 
 
 - [leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
+- [alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
 - [gh-actions-hugo-deploy-gh-pages](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) - Github Actions : Hugo static site generator
 - [hugo-deploy-gh-org-pages](https://github.com/StevenACoffman/hugo-deploy-gh-org-pages) - Github Action to Automate Hugo for an Organization Github Page
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
