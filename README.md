@@ -90,6 +90,7 @@
 
 ## CSS 
 
+- [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on GitHub with machine learning for fun and profit"
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
@@ -173,6 +174,7 @@
 
 ## HTML 
 
+- [static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
 - [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
@@ -245,7 +247,6 @@
 - [about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
 - [Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
 - [leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
 - [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
@@ -257,7 +258,9 @@
 
 ## JavaScript 
 
-- [project](https://github.com/tianheg/project) - 
+- [issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. 一个轻松帮你自动管理 issues 的 GitHub Action，欢迎使用~
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
 - [markdown-it-task-lists](https://github.com/revin/markdown-it-task-lists) - A markdown-it plugin to create GitHub-style task lists
 - [cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
@@ -310,6 +313,7 @@
 - [changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
 - [how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -473,7 +477,7 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
-- [note](https://github.com/tianheg/note) - read | watch | listen
+- [note](https://github.com/tianheg/note) - 搬到这里 https://github.com/tianheg/wiki read | watch | listen
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
@@ -706,6 +710,7 @@
 
 ## TypeScript 
 
+- [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
 - [IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
@@ -739,7 +744,7 @@
 - [Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
 - [foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
-- [vue-next](https://github.com/vuejs/vue-next) - Repo for Vue 3
+- [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
 - [actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
