@@ -24,6 +24,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Less](#less)
   - [Makefile](#makefile)
   - [Open Policy Agent](#open-policy-agent)
   - [Others](#others)
@@ -101,6 +102,7 @@
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
+- [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
@@ -191,7 +193,6 @@
 - [hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
 - [jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
 - [nietzsche](https://github.com/mahavivo/nietzsche) - 尼采文集电子版
-- [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
 - [personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
@@ -258,7 +259,7 @@
 
 ## JavaScript 
 
-- [issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. 一个轻松帮你自动管理 issues 的 GitHub Action，欢迎使用~
+- [lipk.org](https://github.com/zsdycs/lipk.org) - 基于 hugo 的博客网站，包括源代码及站点文件。
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
@@ -311,6 +312,7 @@
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
+- [develop](https://github.com/tianheg/develop) - List of resources collected for front-end and back-end development
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
@@ -436,6 +438,10 @@
 - [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
+## Less 
+
+- [issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. 一个轻松帮你自动管理 issues 的 GitHub Action，欢迎使用~
+
 ## Makefile 
 
 - [open_source_trainning_undergraduate](https://github.com/kaiyuanshe/open_source_trainning_undergraduate) - 针对大学生（国内）的开源教程。
@@ -446,6 +452,7 @@
 
 ## Others 
 
+- [minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader) - 极简主义团队管理操作手册
 - [career-guide-for-cs-graduate](https://github.com/easychen/career-guide-for-cs-graduate) - 计算机系应届生求职指北
 - [historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
 - [learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
@@ -710,6 +717,9 @@
 
 ## TypeScript 
 
+- [beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
+- [beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+- [rick-love-master](https://github.com/ricklove/rick-love-master) - A Mono Repo for Everything cool
 - [marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
