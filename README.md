@@ -91,6 +91,7 @@
 
 ## CSS 
 
+- [static](https://github.com/eallion/static) - jsDelivr CDN statics
 - [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on GitHub with machine learning for fun and profit"
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
@@ -176,6 +177,7 @@
 
 ## HTML 
 
+- [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 - [static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
 - [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
 - [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
@@ -227,6 +229,7 @@
 - [JueJin-Search](https://github.com/poozhu/JueJin-Search) - 🔍 掘金搜索，搜索结果二次过滤
 - [hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
 - [doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
+- [io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
 ## Haml 
 
@@ -655,7 +658,6 @@
 - [docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
 - [foam-template](https://github.com/foambubble/foam-template) - Foam workpace template
 - [hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
-- [io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
 ## Scala 
 
