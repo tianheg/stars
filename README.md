@@ -103,7 +103,6 @@
 - [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
-- [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
@@ -195,6 +194,7 @@
 - [hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
 - [jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
 - [nietzsche](https://github.com/mahavivo/nietzsche) - 尼采文集电子版
+- [blog](https://github.com/tianheg/blog) - Blog Source Files
 - [content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
 - [personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
@@ -262,6 +262,11 @@
 
 ## JavaScript 
 
+- [gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for 🚀🔥
+- [BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
+- [gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
+- [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
+- [rss-parser](https://github.com/FeedsPub/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [lipk.org](https://github.com/zsdycs/lipk.org) - 基于 hugo 的博客网站，包括源代码及站点文件。
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
@@ -469,7 +474,6 @@
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [traffic-badge](https://github.com/tianheg/traffic-badge) - 
-- [RSS-reader](https://github.com/tianheg/RSS-reader) - WIP Create a  android RSS reader
 - [project-based-learning](https://github.com/tianheg/project-based-learning) - Learn by a project
 - [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
@@ -600,7 +604,7 @@
 - [mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 - [loconotion](https://github.com/leoncvlt/loconotion) - Turn Notion pages into lightweight, customizable static websites
-- [oh-my-rss](https://github.com/richshaw2015/oh-my-rss) - 开源的在线 RSS 服务——支持 RSS、公众号、播客
+- [oh-my-rss](https://github.com/richshaw2015/oh-my-rss) - A online RSS service
 - [bilingual-pdf](https://github.com/kingbase/bilingual-pdf) - 由英文PDF生成双语PDF，回归母语加速长篇英文阅读！
 - [beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [face-mask](https://github.com/Prodesire/face-mask) - Wear face masks in the given picture.
