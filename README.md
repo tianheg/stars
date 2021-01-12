@@ -24,7 +24,6 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
-  - [Less](#less)
   - [Makefile](#makefile)
   - [Open Policy Agent](#open-policy-agent)
   - [Others](#others)
@@ -176,6 +175,7 @@
 
 ## HTML 
 
+- [webring](https://github.com/XXIIVV/webring) - Make yourself a website
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 - [static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
 - [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
@@ -262,12 +262,14 @@
 
 ## JavaScript 
 
+- [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for 🚀🔥
 - [BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
 - [gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
 - [gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 - [rss-parser](https://github.com/FeedsPub/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [lipk.org](https://github.com/zsdycs/lipk.org) - 基于 hugo 的博客网站，包括源代码及站点文件。
+- [issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. 一个轻松帮你自动管理 issues 的 GitHub Action，欢迎使用~
 - [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
@@ -446,10 +448,6 @@
 - [sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
-## Less 
-
-- [issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. 一个轻松帮你自动管理 issues 的 GitHub Action，欢迎使用~
-
 ## Makefile 
 
 - [open_source_trainning_undergraduate](https://github.com/kaiyuanshe/open_source_trainning_undergraduate) - 针对大学生（国内）的开源教程。
@@ -460,6 +458,7 @@
 
 ## Others 
 
+- [flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlugin
 - [minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader) - 极简主义团队管理操作手册
 - [career-guide-for-cs-graduate](https://github.com/easychen/career-guide-for-cs-graduate) - 计算机系应届生求职指北
 - [historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
@@ -707,7 +706,7 @@
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
+- [emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [githug](https://github.com/Gazler/githug) - Git your game on!
 - [android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -758,7 +757,7 @@
 - [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
 - [Copycat](https://github.com/BlackGlory/Copycat) - Copy content from web powerful than ever before.
 - [Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-- [incubator-echarts](https://github.com/apache/incubator-echarts) - Apache ECharts (incubating) is a powerful, interactive charting and data visualization library for browser
+- [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
 - [vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
