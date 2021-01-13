@@ -38,7 +38,6 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stylus](#stylus)
-  - [TeX](#tex)
   - [TypeScript](#typescript)
   - [VBScript](#vbscript)
   - [Vim script](#vim-script)
@@ -262,6 +261,7 @@
 
 ## JavaScript 
 
+- [wasedatime-web](https://github.com/wasedatime/wasedatime-web) - An unofficial web app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.
 - [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for 🚀🔥
 - [BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
@@ -318,6 +318,7 @@
 - [APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
 - [asciiflow2](https://github.com/lewish/asciiflow2) - ASCIIFlow Infinity
+- [algorithm](https://github.com/tianheg/algorithm) - Algorithm and data structure
 - [x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
@@ -325,7 +326,7 @@
 - [develop](https://github.com/tianheg/develop) - List of resources collected for front-end and back-end development
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [wiki](https://github.com/tianheg/wiki) - Wiki based on vuepress
+- [wiki](https://github.com/tianheg/wiki) - wiki based on vuepress
 - [how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -490,7 +491,7 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
-- [note](https://github.com/tianheg/note) - 搬到这里 https://github.com/tianheg/wiki read | watch | listen
+- [note](https://github.com/tianheg/note) - read | watch | listen
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
@@ -568,6 +569,7 @@
 - [ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+- [emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 
 ## Python 
 
@@ -706,7 +708,6 @@
 - [Hack](https://github.com/source-foundry/Hack) - A typeface designed for source code
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. Includes nearly 300 optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-- [emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [githug](https://github.com/Gazler/githug) - Git your game on!
 - [android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
@@ -715,10 +716,6 @@
 ## Stylus 
 
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - A VuePress theme inspired by Gitbook
-
-## TeX 
-
-- [ads](https://github.com/tianheg/ads) - Algorithm and data structure
 
 ## TypeScript 
 
