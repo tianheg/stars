@@ -174,6 +174,7 @@
 
 ## HTML 
 
+- [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 - [notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
 - [simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
@@ -264,6 +265,7 @@
 
 ## JavaScript 
 
+- [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
 - [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
 - [stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
@@ -473,6 +475,8 @@
 
 ## Others 
 
+- [til](https://github.com/tianheg/til) - 📝 Today I Learned
+- [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
 - [articles](https://github.com/tianheg/articles) - Collect articles that I think good or I can use latter
 - [the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 - [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
@@ -497,13 +501,13 @@
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
 - [traffic-badge](https://github.com/tianheg/traffic-badge) - 
+- [RSS-reader](https://github.com/tianheg/RSS-reader) - WIP Create a  android RSS reader
 - [project-based-learning](https://github.com/tianheg/project-based-learning) - Learn by a project
 - [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
 - [everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 - [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [stars](https://github.com/tianheg/stars) - All my stars repositories
 - [plan](https://github.com/tianheg/plan) - It has been moved to https://github.com/tianheg/review/blob/main/docs/plan/README.md
 - [nonsense.fun_tasker](https://github.com/jimlee2002/nonsense.fun_tasker) - 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
@@ -596,6 +600,7 @@
 
 ## Python 
 
+- [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 - [BlogArchives](https://github.com/miaotony/BlogArchives) - Archives of MiaoTony's Blog. 博客文章归档，基于 GitHub Action 定期自动更新。
@@ -694,6 +699,8 @@
 
 ## Shell 
 
+- [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
+- [jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
 - [leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 - [alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
