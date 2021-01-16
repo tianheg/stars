@@ -174,6 +174,7 @@
 
 ## HTML 
 
+- [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
 - [notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
@@ -265,6 +266,7 @@
 
 ## JavaScript 
 
+- [get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
 - [ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - :cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。
@@ -337,7 +339,6 @@
 - [develop](https://github.com/tianheg/develop) - List of resources collected for front-end and back-end development
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [wiki](https://github.com/tianheg/wiki) - wiki based on vuepress
 - [how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
 - [wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -477,7 +478,6 @@
 
 - [til](https://github.com/tianheg/til) - 📝 Today I Learned
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
-- [articles](https://github.com/tianheg/articles) - Collect articles that I think good or I can use latter
 - [the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 - [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
 - [awesome-essence](https://github.com/tom0li/awesome-essence) - 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些历史、医学、生活健康、物理学、数学等。
@@ -518,7 +518,8 @@
 - [awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
-- [note](https://github.com/tianheg/note) - read | watch | listen
+- [wiki](https://github.com/tianheg/wiki) - Collect something that I think good or I can use latter
+- [note](https://github.com/tianheg/note) - think | read | watch | listen
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
