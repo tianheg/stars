@@ -90,6 +90,18 @@
 
 ## CSS 
 
+- [glass-website](https://github.com/developedbyed/glass-website) - 
+- [web](https://github.com/IgnacioPrados/web) - My Website - Dev. Portfolio
+- [Google-Web-Design](https://github.com/shatabdichakraborty/Google-Web-Design) - 
+- [sunset.css](https://github.com/philippwilhelm/sunset.css) - This library offers a collection of different CSS-powered transitions.
+- [simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [advanced-course-css-sass](https://github.com/Matheus-Oliveira-Pereira/advanced-course-css-sass) - 
+- [calendar](https://github.com/deryadenizballi/calendar) - 
+- [Todo-List](https://github.com/Alefiya-J/Todo-List) - A simple todo list made using ReactJS
+- [Developers-fact-card](https://github.com/DeveloperAspire/Developers-fact-card) - 
+- [confetti](https://github.com/gabrieldejesus/confetti) - 🎉 Happy new year with this confetti effect.
+- [github-animated-corners](https://github.com/eugena/github-animated-corners) - Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
+- [bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [static](https://github.com/eallion/static) - jsDelivr CDN statics
 - [Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on GitHub with machine learning for fun and profit"
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -266,6 +278,8 @@
 
 ## JavaScript 
 
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
 - [get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
@@ -476,6 +490,10 @@
 
 ## Others 
 
+- [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
+- [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
+- [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
+- [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - :boom: Listing some playful open-source's challenges of jobs to test your knowledge
 - [til](https://github.com/tianheg/til) - 📝 Today I Learned
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
 - [the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
@@ -495,7 +513,7 @@
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
 - [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [review](https://github.com/tianheg/review) - Study, Think, Act
+- [review](https://github.com/tianheg/review) - review
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
@@ -508,7 +526,6 @@
 - [logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [awesome-privacy](https://github.com/pluja/awesome-privacy) - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [plan](https://github.com/tianheg/plan) - It has been moved to https://github.com/tianheg/review/blob/main/docs/plan/README.md
 - [nonsense.fun_tasker](https://github.com/jimlee2002/nonsense.fun_tasker) - 在Android上向废话胶囊（b言b语）发送内容的简单 Tasker 工程。https://sspai.com/post/60024
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [awesome-quant](https://github.com/thuquant/awesome-quant) - 中国的Quant相关资源索引
@@ -519,7 +536,7 @@
 - [hub-mirror](https://github.com/yi-Xu-0100/hub-mirror) - 使用 github action - hub-mirror-action 的模板仓库，可以管理当前 GitHub 与其他的 hub 的存储库(当前仅包含 Gitee)的镜像同步。
 - [traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
 - [wiki](https://github.com/tianheg/wiki) - Collect something that I think good or I can use latter
-- [note](https://github.com/tianheg/note) - think | read | watch | listen
+- [note](https://github.com/tianheg/note) - 想 | 读 | 看 | 听
 - [cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [Reflection_Summary](https://github.com/sladesha/Reflection_Summary) - 算法理论基础知识应知应会
@@ -594,6 +611,7 @@
 
 ## PowerShell 
 
+- [virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
 - [posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
@@ -601,6 +619,7 @@
 
 ## Python 
 
+- [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 - [h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
