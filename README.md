@@ -90,6 +90,7 @@
 
 ## CSS 
 
+- [Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
 - [glass-website](https://github.com/developedbyed/glass-website) - 
 - [web](https://github.com/IgnacioPrados/web) - My Website - Dev. Portfolio
 - [Google-Web-Design](https://github.com/shatabdichakraborty/Google-Web-Design) - 
@@ -279,8 +280,8 @@
 
 - [harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
 - [harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
-- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days
-- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.
+- [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, follow your own pace.
+- [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React.  If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.  This challenge may take up to 100 days, follow your own pace.
 - [get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
 - [actions](https://github.com/r-lib/actions) - GitHub Actions for the R community
 - [awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
@@ -514,7 +515,6 @@
 - [Workers-Proxy](https://github.com/yenpou/Workers-Proxy) - Cloudflare Workers平台镜像网站的部署脚本
 - [ebook-c](https://github.com/auspbro/ebook-c) - ebooks about c programing language.
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [review](https://github.com/tianheg/review) - review
 - [Android](https://github.com/open-android/Android) - GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
