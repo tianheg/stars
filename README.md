@@ -186,6 +186,7 @@
 
 ## HTML 
 
+- [til](https://github.com/simonw/til) - Today I Learned
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -291,7 +292,6 @@
 - [gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
 - [wasedatime-web](https://github.com/wasedatime/wasedatime-web) - An unofficial web app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.
-- [travellings](https://github.com/volfclub/travellings) - 开往-友链接力
 - [gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for 🚀🔥
 - [BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
 - [gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
@@ -618,6 +618,7 @@
 
 ## Python 
 
+- [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
@@ -770,6 +771,7 @@
 
 ## TypeScript 
 
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [vscode-memo](https://github.com/svsool/vscode-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
