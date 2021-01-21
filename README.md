@@ -72,15 +72,16 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
 ## C++ 
 
+- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
 - [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
@@ -148,6 +149,7 @@
 
 ## Emacs Lisp 
 
+- [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [emacs.d](https://github.com/tianheg/emacs.d) - 
 - [emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 - [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
