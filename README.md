@@ -43,7 +43,6 @@
   - [VBScript](#vbscript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
-  - [XSLT](#xslt)
 
 ## Assembly 
 
@@ -72,7 +71,6 @@
 
 ## C# # 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
@@ -82,6 +80,7 @@
 - [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
 - [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
@@ -487,6 +486,7 @@
 
 - [articles](https://github.com/phodal/articles) - Article Publish in Wechat & Toutiao
 - [open_source_trainning_undergraduate](https://github.com/kaiyuanshe/open_source_trainning_undergraduate) - 针对大学生（国内）的开源教程。
+- [http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
 ## Open Policy Agent 
 
@@ -853,10 +853,6 @@
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
 - [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [md](https://github.com/doocs/md) - ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-
-## XSLT 
-
-- [http2-spec](https://github.com/httpwg/http2-spec) - Working copy of the HTTP/2 Specification
 
 
 ## License
