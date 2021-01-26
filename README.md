@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 
@@ -80,7 +81,6 @@
 - [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
 - [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
@@ -101,7 +101,7 @@
 - [Todo-List](https://github.com/Alefiya-J/Todo-List) - A simple todo list made using ReactJS
 - [Developers-fact-card](https://github.com/DeveloperAspire/Developers-fact-card) - 
 - [confetti](https://github.com/gabrieldejesus/confetti) - 🎉 Happy new year with this confetti effect.
-- [github-animated-corners](https://github.com/eugena/github-animated-corners) - Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
+- [github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
 - [bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [static](https://github.com/eallion/static) - jsDelivr CDN statics
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -204,7 +204,7 @@
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 - [time](https://github.com/tianheg/time) - Develop a small habit of reading
 - [Daydayup](https://github.com/owlling/Daydayup) - read notes
-- [LGBTQIA-in-China](https://github.com/LGBT-CN/LGBTQIA-in-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
+- [LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 - [fortran-lang.org](https://github.com/fortran-lang/fortran-lang.org) - Fortran website
 - [olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
 - [what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
