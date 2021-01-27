@@ -54,6 +54,7 @@
 
 ## C 
 
+- [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
 - [repo](https://github.com/kisslinux/repo) - KISS - Official Repositories
 - [ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
@@ -141,6 +142,7 @@
 
 ## Dockerfile 
 
+- [action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
 - [serverless-action](https://github.com/cloudflare/serverless-action) - 
 
 ## Elixir 
@@ -188,6 +190,7 @@
 
 ## HTML 
 
+- [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
@@ -281,6 +284,8 @@
 
 ## JavaScript 
 
+- [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
 - [harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
@@ -622,6 +627,8 @@
 
 ## Python 
 
+- [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+- [zhaoolee](https://github.com/zhaoolee/zhaoolee) - Github自定义展示页面
 - [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
 - [best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
 - [datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -774,6 +781,7 @@
 
 ## TypeScript 
 
+- [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
 - [vscode-memo](https://github.com/svsool/vscode-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
