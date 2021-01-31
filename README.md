@@ -102,7 +102,6 @@
 - [Todo-List](https://github.com/Alefiya-J/Todo-List) - A simple todo list made using ReactJS
 - [Developers-fact-card](https://github.com/DeveloperAspire/Developers-fact-card) - 
 - [confetti](https://github.com/gabrieldejesus/confetti) - 🎉 Happy new year with this confetti effect.
-- [github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
 - [bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [static](https://github.com/eallion/static) - jsDelivr CDN statics
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -192,6 +191,7 @@
 
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
+- [note](https://github.com/tianheg/note) - Notes about everything
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -505,7 +505,6 @@
 ## Others 
 
 - [3rd-party-tools](https://github.com/flomoapp/3rd-party-tools) - 
-- [note](https://github.com/tianheg/note) - Notes about everything
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -786,7 +785,7 @@
 ## TypeScript 
 
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [vscode-memo](https://github.com/svsool/vscode-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
 - [refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
@@ -857,6 +856,7 @@
 
 ## Vue 
 
+- [github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
 - [douban-book-wall](https://github.com/sinchang/douban-book-wall) - 把你阅读过的图书生成图书墙
 - [portfolio](https://github.com/tianheg/portfolio) - home
 - [portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
