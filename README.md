@@ -475,6 +475,7 @@
 
 ## Jupyter Notebook 
 
+- [knowledge](https://github.com/ryan4yin/knowledge) - Everything I know: DevOps & CloudNative, etc...
 - [craft-of-selfteaching](https://github.com/tianheg/craft-of-selfteaching) - Copy from https://github.com/selfteaching/the-craft-of-selfteaching
 - [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [google-research](https://github.com/google-research/google-research) - Google Research
