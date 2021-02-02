@@ -93,7 +93,7 @@
 
 - [Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
 - [glass-website](https://github.com/developedbyed/glass-website) - 
-- [web](https://github.com/IgnacioPrados/web) - My Website - Dev. Portfolio
+- [web](https://github.com/IgnacioPrados/web) - Dev. Portfolio - Ignacio Prados
 - [Google-Web-Design](https://github.com/shatabdichakraborty/Google-Web-Design) - 
 - [sunset.css](https://github.com/philippwilhelm/sunset.css) - This library offers a collection of different CSS-powered transitions.
 - [simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
@@ -426,7 +426,7 @@
 - [octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
 - [cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
-- [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），4000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [weixin-archive-action](https://github.com/duty-machine/weixin-archive-action) - 将微信文章保存为jpg和mht格式的github action
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
@@ -513,7 +513,7 @@
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
 - [the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 - [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
-- [awesome-essence](https://github.com/tom0li/awesome-essence) - 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些历史、医学、生活健康、物理学、数学等。
+- [awesome-essence](https://github.com/tom0li/awesome-essence) - 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些历史、医学、生活健康、物理学、数学、金融、职场、艺术、心理学、箴言等。
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
@@ -842,7 +842,7 @@
 - [TiddlyServer](https://github.com/Arlen22/TiddlyServer) - v2 - A static file server that can also save files and mount TiddlyWiki folders
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 
 ## VBScript 
