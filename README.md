@@ -201,7 +201,7 @@
 - [webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
 - [static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
 - [css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
-- [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - Hugo Theme PaperMod
+- [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme
 - [awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
 - [JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
@@ -284,6 +284,7 @@
 
 ## JavaScript 
 
+- [cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
@@ -785,6 +786,7 @@
 
 ## TypeScript 
 
+- [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [vscode-memo](https://github.com/svsool/vscode-memo) - Markdown knowledge base with bidirectional [[link]]s built on top of VSCode
