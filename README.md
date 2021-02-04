@@ -78,6 +78,7 @@
 
 ## C++ 
 
+- [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
 - [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
 - [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
@@ -189,6 +190,7 @@
 
 ## HTML 
 
+- [site](https://github.com/tianheg/site) - Site navigation
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
 - [note](https://github.com/tianheg/note) - Notes about everything
