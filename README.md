@@ -193,7 +193,6 @@
 - [site](https://github.com/tianheg/site) - Site navigation
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
-- [note](https://github.com/tianheg/note) - Notes about everything
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -509,6 +508,7 @@
 ## Others 
 
 - [3rd-party-tools](https://github.com/flomoapp/3rd-party-tools) - 
+- [note](https://github.com/tianheg/note) - Notes about everything
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -634,6 +634,8 @@
 
 ## Python 
 
+- [v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
+- [actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [zhaoolee](https://github.com/zhaoolee/zhaoolee) - Github自定义展示页面
 - [py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
@@ -788,6 +790,7 @@
 
 ## TypeScript 
 
+- [podsheets](https://github.com/crablar/podsheets) - Podsheets is a set of open source tools for podcast hosting, ad management, community engagement, and more.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
