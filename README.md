@@ -634,6 +634,7 @@
 
 ## Python 
 
+- [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
 - [actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
