@@ -86,7 +86,6 @@
 - [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
-- [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
@@ -290,7 +289,6 @@
 - [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s developer docs.
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
@@ -509,7 +507,6 @@
 
 ## Others 
 
-- [3rd-party-tools](https://github.com/flomoapp/3rd-party-tools) - 
 - [note](https://github.com/tianheg/note) - Notes about everything
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
@@ -518,7 +515,7 @@
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
 - [the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
 - [collection-document](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles.
-- [awesome-essence](https://github.com/tom0li/awesome-essence) - 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些历史、医学、生活健康、物理学、数学、金融、职场、艺术、心理学、箴言等。
+- [awesome-essence](https://github.com/tom0li/awesome-essence) - 本仓库展示一些事物的本质、原理、奇奇怪怪的和安全相关的东西。可能有些形式科学（如数学）, 研究抽象概念; 自然科学（如生物学、物理学、医学）, 在最宽泛的意义上研究自然; 以及社会科学（如经济学、心理学、社会学）, 研究个体与社会.
 - [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - Flight rules for git
 - [coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 - [foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template) - using mkdocs / mkdocs-material / mkdocs-roamlinks-plugin
@@ -537,7 +534,6 @@
 - [365-days-get-xuanwulab-job](https://github.com/Vancir/365-days-get-xuanwulab-job) - Get a job from Xuanwu Lab in 365 days
 - [graph](https://github.com/shfshanyue/graph) - awesome-graph
 - [Projects](https://github.com/karan/Projects) - :page_with_curl: A list of practical projects that anyone can solve in any programming language.
-- [traffic-badge](https://github.com/tianheg/traffic-badge) - 
 - [RSS-reader](https://github.com/tianheg/RSS-reader) - WIP Create a  android RSS reader
 - [project-based-learning](https://github.com/tianheg/project-based-learning) - Learn by a project
 - [javascript-code-challenges](https://github.com/sadanandpai/javascript-code-challenges) - A collection of JavaScript modern interview code challenges for beginners to experts
@@ -831,7 +827,7 @@
 - [markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
 - [surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
 - [vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
-- [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :octocat: :rocket: GitHub action for deploying a project to GitHub pages.
+- [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - :rocket: GitHub action for deploying a project to GitHub pages.
 - [Copycat](https://github.com/BlackGlory/Copycat) - Copy content from web powerful than ever before.
 - [Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
