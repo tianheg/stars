@@ -91,6 +91,7 @@
 
 ## CSS 
 
+- [producthunt-project](https://github.com/zappycode/producthunt-project) - 
 - [hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
 - [glass-website](https://github.com/developedbyed/glass-website) - 
@@ -285,6 +286,11 @@
 
 ## JavaScript 
 
+- [phunt](https://github.com/Kristories/phunt) - Product Hunt Command Line Interface
+- [weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
+- [producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
+- [metrics](https://github.com/lowlighter/metrics) - 📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere!
+- [producthunt-trending](https://github.com/xiaomingplus/producthunt-trending) - ProductHunt Trending
 - [cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
@@ -507,7 +513,6 @@
 
 ## Others 
 
-- [note](https://github.com/tianheg/note) - Notes about everything
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -746,7 +751,6 @@
 - [gh-actions-hugo-deploy-gh-pages](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) - Github Actions : Hugo static site generator
 - [hugo-deploy-gh-org-pages](https://github.com/StevenACoffman/hugo-deploy-gh-org-pages) - Github Action to Automate Hugo for an Organization Github Page
 - [javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
-- [config](https://github.com/tianheg/config) - config files about git, zsh, vscode, and so on
 - [standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [dotfiles](https://github.com/SukkaW/dotfiles) - 🔧 My development environment and config
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
@@ -789,6 +793,7 @@
 
 ## TypeScript 
 
+- [pub-apis](https://github.com/sozonome/pub-apis) - Find public APIs, powered by https://api.publicapis.org/
 - [podsheets](https://github.com/crablar/podsheets) - Podsheets is a set of open source tools for podcast hosting, ad management, community engagement, and more.
 - [qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
