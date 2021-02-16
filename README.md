@@ -286,6 +286,7 @@
 
 ## JavaScript 
 
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [phunt](https://github.com/Kristories/phunt) - Product Hunt Command Line Interface
 - [weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
 - [producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
