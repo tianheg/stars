@@ -192,6 +192,7 @@
 
 ## HTML 
 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [site](https://github.com/tianheg/site) - Site navigation
 - [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
@@ -286,6 +287,10 @@
 
 ## JavaScript 
 
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
+- [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [phunt](https://github.com/Kristories/phunt) - Product Hunt Command Line Interface
 - [weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
@@ -514,6 +519,7 @@
 
 ## Others 
 
+- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -638,6 +644,7 @@
 
 ## Python 
 
+- [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
 - [actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python.
@@ -744,6 +751,7 @@
 
 ## Shell 
 
+- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
 - [jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
