@@ -192,10 +192,8 @@
 
 ## HTML 
 
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [site](https://github.com/tianheg/site) - Site navigation
-- [ecma262](https://github.com/tc39/ecma262) - Status, process, and documents for ECMA-262
 - [til](https://github.com/simonw/til) - Today I Learned
+- [site](https://github.com/tianheg/site) - Site navigation
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -287,8 +285,6 @@
 
 ## JavaScript 
 
-- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Materials to help you rock your next coding interview
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
@@ -301,7 +297,6 @@
 - [chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
 - [harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
 - [harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
@@ -463,7 +458,6 @@
 - [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
 - [trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
-- [Web](https://github.com/qianguyihao/Web) - 前端入门到进阶图文教程，超详细的Web前端学习笔记。从零开始学前端，做一名精致优雅的前端工程师。公众号「千古壹号」作者。
 - [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
 - [tw5-telmiger-plugins](https://github.com/rimi/tw5-telmiger-plugins) - 
@@ -488,7 +482,6 @@
 
 ## Jupyter Notebook 
 
-- [knowledge](https://github.com/ryan4yin/knowledge) - Everything I know: DevOps & CloudNative, etc...
 - [craft-of-selfteaching](https://github.com/tianheg/craft-of-selfteaching) - Copy from https://github.com/selfteaching/the-craft-of-selfteaching
 - [fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [google-research](https://github.com/google-research/google-research) - Google Research
@@ -519,7 +512,6 @@
 
 ## Others 
 
-- [javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -646,7 +638,6 @@
 
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
-- [v2ex-action](https://github.com/yanglbme/v2ex-action) - 🔝 自动发送 V2EX 热门内容到企业微信、钉钉等，可自定义发送周期
 - [actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python.
 - [pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [zhaoolee](https://github.com/zhaoolee/zhaoolee) - Github自定义展示页面
@@ -751,7 +742,6 @@
 
 ## Shell 
 
-- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
 - [jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
