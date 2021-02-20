@@ -580,7 +580,6 @@
 - [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) - Various cheat sheets on CS stuff
 - [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
-- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [ideas](https://github.com/samsquire/ideas) - a hundred ideas for computing - a record of ideas - https://samsquire.github.io/ideas/
