@@ -14,6 +14,7 @@
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
+  - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
@@ -147,6 +148,10 @@
 - [action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
 - [serverless-action](https://github.com/cloudflare/serverless-action) - 
 
+## EJS 
+
+- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
 ## Elixir 
 
 - [lifelong-learning](https://github.com/daryllxd/lifelong-learning) - ✅ ✅ ✅ A massive repo filled with notes on everything from coding to philosophy to psychology to marketing to product
@@ -193,6 +198,7 @@
 
 ## HTML 
 
+- [nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [til](https://github.com/simonw/til) - Today I Learned
 - [site](https://github.com/tianheg/site) - Site navigation
 - [HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
@@ -241,7 +247,6 @@
 - [milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [hackerschoice.github.io](https://github.com/hackerschoice/hackerschoice.github.io) - The Hacker's Choice
 - [qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [gohugo.org](https://github.com/coderzh/gohugo.org) - Site for http://www.gohugo.org/
@@ -758,7 +763,7 @@
 - [dotfiles](https://github.com/SukkaW/dotfiles) - 🔧 My development environment and config
 - [winapps](https://github.com/Fmstrat/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [fq-book](https://github.com/hoochanlon/fq-book) - :open_book: 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
+- [fq-book](https://github.com/hoochanlon/fq-book) - 📖《这本书能让你连接互联网 》详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
 - [alynx-zsh-config](https://github.com/AlynxZhou/alynx-zsh-config) - Alynx's zsh configuration files.
 - [n](https://github.com/tj/n) - Node version management
