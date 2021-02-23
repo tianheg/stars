@@ -718,6 +718,7 @@
 
 ## Ruby 
 
+- [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
 - [til](https://github.com/daryllxd/til) - 👊👊👊 Today I Learned: To get better, I write down bugfixes, musings and small smidgets of my work day here. 250+ entries. Access it at https://til.daryll.codes.
