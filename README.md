@@ -504,7 +504,6 @@
 ## Others 
 
 - [good](https://github.com/tianheg/good) - Something good
-- [best-chinese-front-end-blogs](https://github.com/FrankFang/best-chinese-front-end-blogs) - 收集优质的中文前端博客
 - [ssh-tutorial](https://github.com/wangdoc/ssh-tutorial) - SSH 教程
 - [lecture_notes](https://github.com/popgenmethods/lecture_notes) - Lecture Notes on Computational and Mathematical Population Genetics
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -570,7 +569,6 @@
 - [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English) - 专为程序员编写的英语学习指南 v1.2。在线版本请点 -&gt;
 - [nodeys-zsh-theme](https://github.com/marszall87/nodeys-zsh-theme) - Just ys zsh theme with NodeJS version.
 - [coding-cheat-sheets](https://github.com/aspittel/coding-cheat-sheets) - Various cheat sheets on CS stuff
-- [handbook](https://github.com/jaywcjlove/handbook) - 放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。
 - [awesome-comment](https://github.com/Blankj/awesome-comment) - :boom: Funny comments
 - [material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
 - [iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
@@ -584,7 +582,6 @@
 - [semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [welcome-to-open](https://github.com/appacademy/welcome-to-open) - Overview of App Academy Open
 - [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects.
 - [Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
