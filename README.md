@@ -5,18 +5,15 @@
 
 ## Contents
 
-  - [Assembly](#assembly)
   - [AutoHotkey](#autohotkey)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
   - [CSS](#css)
-  - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
-  - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
   - [Haml](#haml)
@@ -44,10 +41,6 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
-## Assembly 
-
-- [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-
 ## AutoHotkey 
 
 - [FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter (WAV FLAC MP3 OGG APE M4A AAC) for Windows
@@ -55,20 +48,8 @@
 ## C 
 
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [ucore](https://github.com/kiukotsu/ucore) - 清华大学操作系统课程实验 (OS Kernel Labs)
-- [repo](https://github.com/kisslinux/repo) - KISS - Official Repositories
-- [ShiYanLou](https://github.com/Ewenwan/ShiYanLou) - 学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试
-- [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
 - [book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
-- [git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
-- [WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
-- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
 - [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
-- [Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) - Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net
-- [linux](https://github.com/raspberrypi/linux) - Kernel source tree for Raspberry Pi Foundation-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://www.raspberrypi.org/forum
-- [pelagia](https://github.com/surparallel/pelagia) - Automatic parallelization (lock-free multithreading thread) tool developed by Surparallel Open Source.Pelagia is embedded key value database that implements a small, fast, high-reliability on ANSI C.
 
 ## C# # 
 
@@ -79,42 +60,20 @@
 ## C++ 
 
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-- [openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.
-- [CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard) - 船长关于机器学习、计算机视觉和工程技术的总结和分享
-- [LearningNote](https://github.com/szza/LearningNote) - C++和Linux学习笔记
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
-- [conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-- [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Commandline Task Management
-- [USTC-Course](https://github.com/USTC-Resource/USTC-Course) - :heart:中国科学技术大学课程资源
-- [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 
 ## CSS 
 
-- [producthunt-project](https://github.com/zappycode/producthunt-project) - 
-- [hackerweb](https://github.com/cheeaun/hackerweb) - A simply readable Hacker News web app
 - [Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
-- [glass-website](https://github.com/developedbyed/glass-website) - 
-- [web](https://github.com/IgnacioPrados/web) - Dev. Portfolio - Ignacio Prados
-- [Google-Web-Design](https://github.com/shatabdichakraborty/Google-Web-Design) - 
-- [sunset.css](https://github.com/philippwilhelm/sunset.css) - This library offers a collection of different CSS-powered transitions.
-- [simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
-- [advanced-course-css-sass](https://github.com/Matheus-Oliveira-Pereira/advanced-course-css-sass) - 
-- [calendar](https://github.com/deryadenizballi/calendar) - 
-- [Todo-List](https://github.com/Alefiya-J/Todo-List) - A simple todo list made using ReactJS
-- [Developers-fact-card](https://github.com/DeveloperAspire/Developers-fact-card) - 
-- [confetti](https://github.com/gabrieldejesus/confetti) - 🎉 Happy new year with this confetti effect.
 - [bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
-- [static](https://github.com/eallion/static) - jsDelivr CDN statics
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [hugo-theme-zozo](https://github.com/varkai/hugo-theme-zozo) - :star2: A simple and beautiful theme for Hugo
 - [kiss](https://github.com/ribice/kiss) - Stupidly simple Hugo blogging theme
 - [online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
-- [awesome-programmers](https://github.com/rekihattori/awesome-programmers) - A list of history's greatest software engineers and tech pioneers
 - [50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [hangzhou_house_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I hope that it would be useful to everyone.
 - [foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
 - [most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) - 程序员工作中常见的英语词汇
 - [architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
@@ -124,16 +83,8 @@
 - [css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
-- [china_school_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
-- [100-days-website](https://github.com/muchirijane/100-days-website) - A 100 days of code website
 - [whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 - [hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
-
-## CoffeeScript 
-
-- [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
-- [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - Chinese copywriting guidelines for better written communication／中文文案排版指北
-- [wiki](https://github.com/fedwiki/wiki) - Federated Wiki - node server as npm package
 
 ## Crystal 
 
@@ -143,7 +94,6 @@
 
 - [Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
 - [action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
-- [serverless-action](https://github.com/cloudflare/serverless-action) - 
 
 ## Elixir 
 
@@ -154,27 +104,9 @@
 - [org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 - [emacs.d](https://github.com/tianheg/emacs.d) - 
 - [emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
-- [melpa](https://github.com/melpa/melpa) - Recipes and build machinery for the biggest Emacs package repo
-- [emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [configure](https://github.com/jinzhu/configure) - My dot files for Emacs, Openbox, XMonad, VIM, Golang, Zsh/Bash, tmux, URXVT, ArchLinux, Git, Ruby/Rails, Xbindkey, Vrome...
-- [deepin-emacs](https://github.com/martyr-deepin/deepin-emacs) - Customized emacs for deepin.
-
-## Erlang 
-
-- [ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 
 ## Go 
 
-- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-- [twtxt](https://github.com/jointwt/twtxt) - 📕 twtxt is a Self-Hosted, Twitter™-like Decentralised microBlogging platform. No ads, no tracking, your content, your data!
-- [Timimi](https://github.com/ibnishak/Timimi) - Webextension to save Tiddlywiki
-- [todo-cli](https://github.com/yuzuy/todo-cli) - A TUI todo app
-- [lazyhub](https://github.com/ryo-ma/lazyhub) - :octocat: lazyhub - Terminal UI Client for GitHub using gocui.
-- [clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [history](https://github.com/golang-design/history) - 📝  Go: A Documentary | https://golang.design/history
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 - [waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。
@@ -282,6 +214,7 @@
 
 ## JavaScript 
 
+- [useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome Extension.
 - [git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
 - [phunt](https://github.com/Kristories/phunt) - Product Hunt Command Line Interface
@@ -360,7 +293,6 @@
 - [wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
 - [APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 - [RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
-- [asciiflow2](https://github.com/lewish/asciiflow2) - ASCIIFlow Infinity
 - [algorithm](https://github.com/tianheg/algorithm) - Algorithm and data structure
 - [x](https://github.com/DustinBrett/x) - Desktop environment in the browser.
 - [starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
@@ -796,6 +728,7 @@
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [asciiflow2](https://github.com/lewish/asciiflow2) - ASCIIFlow Infinity
 - [gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [brian-lovin-next](https://github.com/brianlovin/brian-lovin-next) - My personal site
 - [iloveworks](https://github.com/sorcererxw/iloveworks) - I ❤ working, working makes me happy!
