@@ -49,7 +49,7 @@
 
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
-- [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 从容翻越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 惟务翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
 
 ## C# # 
 
