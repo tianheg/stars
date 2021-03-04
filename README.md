@@ -36,6 +36,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [Stylus](#stylus)
+  - [Svelte](#svelte)
   - [TypeScript](#typescript)
   - [VBScript](#vbscript)
   - [Vim script](#vim-script)
@@ -47,6 +48,7 @@
 
 ## C 
 
+- [GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
 - [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 惟务翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
@@ -364,7 +366,7 @@
 - [vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
 - [toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
-- [highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+- [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
@@ -560,6 +562,7 @@
 
 ## Ruby 
 
+- [devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
 - [githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
@@ -638,6 +641,10 @@
 ## Stylus 
 
 - [vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - A VuePress theme inspired by Gitbook
+
+## Svelte 
+
+- [editor](https://github.com/plastic-editor/editor) - 
 
 ## TypeScript 
 
@@ -721,13 +728,9 @@
 ## Vue 
 
 - [github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [wujr5.github.io](https://github.com/wujr5/wujr5.github.io) - 
-- [douban-book-wall](https://github.com/sinchang/douban-book-wall) - 把你阅读过的图书生成图书墙
 - [portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
-- [cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [webgems](https://github.com/webgems/webgems) - A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :)
-- [PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 
 
 ## License
