@@ -51,7 +51,7 @@
 - [GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
 - [sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 - [book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
-- [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 惟务翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
 
 ## C# # 
 
@@ -433,6 +433,7 @@
 
 ## Others 
 
+- [wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
 - [flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlugin
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
@@ -645,6 +646,8 @@
 
 ## Svelte 
 
+- [plastic-editor](https://github.com/djyde/plastic-editor) - A block-based editor
+- [plastic](https://github.com/djyde/plastic) - Another note app. Block based, bi-directional link, works on local.
 - [editor](https://github.com/plastic-editor/editor) - 
 
 ## TypeScript 
