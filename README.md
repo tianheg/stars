@@ -61,6 +61,7 @@
 
 ## C++ 
 
+- [OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
@@ -677,7 +678,7 @@
 - [actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [lit-html](https://github.com/Polymer/lit-html) - An efficient, expressive, extensible HTML templating library for JavaScript.
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow Infinity
+- [asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
 - [brian-lovin-next](https://github.com/brianlovin/brian-lovin-next) - My personal site
 - [iloveworks](https://github.com/sorcererxw/iloveworks) - I ❤ working, working makes me happy!
