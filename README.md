@@ -211,7 +211,6 @@
 
 ## JavaScript 
 
-- [code-snippets](https://github.com/nhcarrigan/code-snippets) - Just some important code snippets I want to save
 - [useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -435,6 +434,7 @@
 ## Others 
 
 - [wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
+- [code-snippets](https://github.com/nhcarrigan/code-snippets) - Just some important code snippets I want to save
 - [flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlugin
 - [best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [github-actions](https://github.com/tianheg/github-actions) - GitHub Actions I always use
