@@ -69,6 +69,7 @@
 
 ## CSS 
 
+- [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox) - A minimal, yet functional Firefox userChrome configuration.
 - [Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
 - [bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
@@ -211,6 +212,7 @@
 
 ## JavaScript 
 
+- [lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - An elegant and minimalist WebKit2 theme, based on lightdm-gab-gradient and Nord color scheme.
 - [useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
@@ -494,6 +496,7 @@
 
 ## Python 
 
+- [qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
 - [archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
