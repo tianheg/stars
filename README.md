@@ -372,7 +372,6 @@
 - [highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 - [electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
 - [pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
-- [lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
 - [blank-html5](https://github.com/huijing/blank-html5) - :construction: Blank HTML5 template for experiments and stuff
 - [slides](https://github.com/huijing/slides) - :movie_camera: Slides for talks and stuff
 - [Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -604,6 +603,7 @@
 
 ## Shell 
 
+- [n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
 - [jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
 - [DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
@@ -719,6 +719,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
 - [TiddlyServer](https://github.com/Arlen22/TiddlyServer) - v2 - A static file server that can also save files and mount TiddlyWiki folders
+- [lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
 - [foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
