@@ -279,7 +279,6 @@
 - [wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
 - [fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
 - [vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
-- [Happy-Birthday](https://github.com/rbew/Happy-Birthday) - Happy birthday page for someone
 - [wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
 - [lvv2-feed](https://github.com/ruanyf/lvv2-feed) - 
 - [motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
@@ -494,6 +493,7 @@
 
 ## Python 
 
+- [anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
 - [public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
@@ -657,6 +657,7 @@
 
 ## TypeScript 
 
+- [issues-translate-action](https://github.com/tomsun28/issues-translate-action) - The action for translating Non-English issues content to English.
 - [github-search-rss](https://github.com/azu/github-search-rss) - GitHub Search Results as RSS Feeds via GitHub Actions.
 - [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
