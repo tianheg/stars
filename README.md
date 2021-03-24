@@ -124,11 +124,11 @@
 
 ## HTML 
 
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
 - [KaiOrange/web-effect-favorites](https://github.com/KaiOrange/web-effect-favorites) - 网页特效收藏馆，收集各种牛逼的网页特效。
 - [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
 - [simonw/til](https://github.com/simonw/til) - Today I Learned
-- [tianheg/site](https://github.com/tianheg/site) - Site navigation
 - [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
 - [tianheg/simply-jekyll](https://github.com/tianheg/simply-jekyll) - 
 - [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
@@ -213,6 +213,7 @@
 
 ## JavaScript 
 
+- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [AlphaNecron/lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - An elegant and minimalist WebKit2 theme, based on lightdm-gab-gradient and Nord color scheme.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
@@ -498,7 +499,7 @@
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [qtile/qtile](https://github.com/qtile/qtile) - :cookie: A full-featured, hackable tiling window manager written and configured in Python
 - [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
 - [yanglbme/actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
@@ -659,7 +660,8 @@
 
 ## TypeScript 
 
-- [tomsun28/issues-translate-action](https://github.com/tomsun28/issues-translate-action) - The action for translating Non-English issues content to English.
+- [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！
+- [usthe/issues-translate-action](https://github.com/usthe/issues-translate-action) - The action for translating Non-English issues content to English.
 - [azu/github-search-rss](https://github.com/azu/github-search-rss) - GitHub Search Results as RSS Feeds via GitHub Actions.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
