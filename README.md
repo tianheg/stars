@@ -213,6 +213,9 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+- [egoist/codepan](https://github.com/egoist/codepan) - Like codepen and jsbin but works offline.
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [AlphaNecron/lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - An elegant and minimalist WebKit2 theme, based on lightdm-gab-gradient and Nord color scheme.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
