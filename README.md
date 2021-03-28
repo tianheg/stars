@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
@@ -213,9 +214,9 @@
 
 ## JavaScript 
 
+- [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [egoist/codepan](https://github.com/egoist/codepan) - Like codepen and jsbin but works offline.
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
 - [AlphaNecron/lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - An elegant and minimalist WebKit2 theme, based on lightdm-gab-gradient and Nord color scheme.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
@@ -440,7 +441,7 @@
 - [Leask/Battery-Hive](https://github.com/Leask/Battery-Hive) - 🔋 A tray to arrange all your batteries.
 - [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
 - [nhcarrigan/code-snippets](https://github.com/nhcarrigan/code-snippets) - Just some important code snippets I want to save
-- [it5200/flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlugin
+- [it5200/flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlus
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [changhuixu/historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
 - [tianheg/logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
