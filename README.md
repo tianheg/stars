@@ -108,11 +108,11 @@
 ## Emacs Lisp 
 
 - [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [tianheg/emacs.d](https://github.com/tianheg/emacs.d) - 
 - [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -189,7 +189,6 @@
 
 ## Java 
 
-- [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper) - 必应每日超清壁纸（4K）
 - [RichardGong/PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler) - A GeekTime course about constructing a compiler.
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [HpWens/MeiWidgetView](https://github.com/HpWens/MeiWidgetView) - 🔥一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库（小红书）
@@ -214,6 +213,7 @@
 
 ## JavaScript 
 
+- [ruanyf/hn](https://github.com/ruanyf/hn) - A personalized Hacker News
 - [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
@@ -301,7 +301,6 @@
 - [sinchang/starred](https://github.com/sinchang/starred) - Show one random repo from your starred repos on the GitHub homepage
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
-- [tianheg/develop](https://github.com/tianheg/develop) - List of resources collected for front-end and back-end development
 - [M0nica/how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
 - [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
 - [kamranahmedse/githunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub
@@ -408,12 +407,10 @@
 
 ## Jupyter Notebook 
 
-- [tianheg/craft-of-selfteaching](https://github.com/tianheg/craft-of-selfteaching) - Copy from https://github.com/selfteaching/the-craft-of-selfteaching
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
-- [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 
 ## Kotlin 
 
@@ -588,6 +585,7 @@
 
 ## Rust 
 
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
