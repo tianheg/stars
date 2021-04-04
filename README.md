@@ -218,6 +218,7 @@
 
 ## JavaScript 
 
+- [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
 - [ruanyf/hn](https://github.com/ruanyf/hn) - A personalized Hacker News
 - [chromium/permission.site](https://github.com/chromium/permission.site) - A site to test the interaction of web APIs and browser permissions.
@@ -334,7 +335,6 @@
 - [adlered/punctuationCheck](https://github.com/adlered/punctuationCheck) - :art: 修正中英文标点语法混用的句子 | 干掉中英文标点混用，是十分明智且正确的做法。 | Bootstrap
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 - [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
-- [yi-Xu-0100/repo-list-generator](https://github.com/yi-Xu-0100/repo-list-generator) - The GitHub action that generate repository list for user.
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
@@ -377,7 +377,7 @@
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
 - [jgallen23/toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [huijing/blank-html5](https://github.com/huijing/blank-html5) - :construction: Blank HTML5 template for experiments and stuff
@@ -453,7 +453,6 @@
 - [tianheg/logo-design](https://github.com/tianheg/logo-design) - How to Design My logo? Continuous design logo
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
-- [yi-Xu-0100/traffic2badge](https://github.com/yi-Xu-0100/traffic2badge) - Traffic to badge action usage template. Use repositories Insights/traffic data to generate badges that include views and clones.
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [shadowsocksrr/shadowsocksr-android](https://github.com/shadowsocksrr/shadowsocksr-android) - A ShadowsocksR client for Android
 - [marszall87/nodeys-zsh-theme](https://github.com/marszall87/nodeys-zsh-theme) - Just ys zsh theme with NodeJS version.
