@@ -64,6 +64,7 @@
 
 ## C++ 
 
+- [e-maxx-eng/e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng) - Translation of http://e-maxx.ru into English
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -620,7 +621,7 @@
 - [mklement0/n-install](https://github.com/mklement0/n-install) - Installs n, the Node.js version manager, without needing to install Node.js first: curl -L https://git.io/n-install | bash
 - [BryanSchuetz/jekyll-deploy-gh-pages](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages) - A GitHub Action for building a Jekyll site (with custom plugins) and deploying it back to your gh-pages branch.
 - [helaili/jekyll-action](https://github.com/helaili/jekyll-action) - A GitHub Action to publish Jekyll based content as a GitHub Pages site
-- [ameizi/DevArticles](https://github.com/ameizi/DevArticles) - Develop Articles
+- [ameizi/notes](https://github.com/ameizi/notes) - notes
 - [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
 - [khanhicetea/gh-actions-hugo-deploy-gh-pages](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) - Github Actions : Hugo static site generator
