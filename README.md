@@ -237,6 +237,7 @@
 
 ## JavaScript 
 
+- [danny0838/content-farm-terminator](https://github.com/danny0838/content-farm-terminator) - 「終結內容農場」瀏覽器套件 / Content Farm Terminator browser extension
 - [GalleriaJS/galleria](https://github.com/GalleriaJS/galleria) - The JavaScript Image Gallery
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
@@ -532,7 +533,6 @@
 - [zhiwehu/Python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises) - 100+ Python challenging programming exercises
 - [datasciencemasters/go](https://github.com/datasciencemasters/go) - The Open Source Data Science Masters
 - [jaap-karssenberg/zim-wiki](https://github.com/jaap-karssenberg/zim-wiki) - This repository is a placeholder so we can use the asociated wiki for community documentation.
-- [fat-garage/how-to-get-rich-without-getting-lucky](https://github.com/fat-garage/how-to-get-rich-without-getting-lucky) - 
 - [husanfeng/hsf_blog](https://github.com/husanfeng/hsf_blog) - 小程序，云开发，此博客小程序使用的是腾讯的云开发技术，没有繁琐的后台配置，只需操作云数据库就可以对数据进行增删改查。 这个小程序主要为了总结和记录前端一些比较前沿的技术，纯属个人爱好。。。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
@@ -598,7 +598,6 @@
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
-- [bimzcy/rank4douban](https://github.com/bimzcy/rank4douban) - CC, MOC, FIB, all kinds of billboard that connect the item title with douban ID.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
