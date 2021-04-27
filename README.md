@@ -19,6 +19,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haml](#haml)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -56,6 +57,7 @@
 
 ## C 
 
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
 - [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
@@ -227,6 +229,10 @@
 
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 
+## Haskell 
+
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+
 ## Java 
 
 - [RichardGong/PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler) - A GeekTime course about constructing a compiler.
@@ -253,6 +259,7 @@
 
 ## JavaScript 
 
+- [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [danny0838/content-farm-terminator](https://github.com/danny0838/content-farm-terminator) - 「終結內容農場」瀏覽器套件 / Content Farm Terminator browser extension
 - [GalleriaJS/galleria](https://github.com/GalleriaJS/galleria) - The JavaScript Image Gallery
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
@@ -588,6 +595,7 @@
 
 ## Python 
 
+- [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
@@ -693,6 +701,7 @@
 
 ## SCSS 
 
+- [olOwOlo/hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) - 🚀 A super concise theme for Hugo https://hugo-theme-even.netlify.app
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on GitHub with machine learning for fun and profit"
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
@@ -777,6 +786,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [azu/hubmemo](https://github.com/azu/hubmemo) - Private/Public Memo system based on GitHub.
 - [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
