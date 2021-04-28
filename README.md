@@ -259,6 +259,8 @@
 
 ## JavaScript 
 
+- [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [danny0838/content-farm-terminator](https://github.com/danny0838/content-farm-terminator) - 「終結內容農場」瀏覽器套件 / Content Farm Terminator browser extension
 - [GalleriaJS/galleria](https://github.com/GalleriaJS/galleria) - The JavaScript Image Gallery
@@ -655,7 +657,7 @@
 - [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 - [Prodesire/face-mask](https://github.com/Prodesire/face-mask) - Wear face masks in the given picture.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目（5 周年）
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
 - [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
@@ -786,6 +788,7 @@
 
 ## TypeScript 
 
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
 - [azu/hubmemo](https://github.com/azu/hubmemo) - Private/Public Memo system based on GitHub.
