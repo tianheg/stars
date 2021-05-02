@@ -166,6 +166,7 @@
 
 ## HTML 
 
+- [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [mateogianolio/issuance](https://github.com/mateogianolio/issuance) - Blogging with Github Issues.
 - [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [stone0090/javascript-lessons](https://github.com/stone0090/javascript-lessons) - 本课程之所以叫做《JavaScript 闯关记》，是因为部分章节精心设计了挑战关卡，通过提供更多的实战机会，让大家可以循序渐进地、有目的地、有挑战地开展学习。
@@ -789,6 +790,7 @@
 
 ## TypeScript 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - A web-based RSS reader running entirely from your GitHub repo.
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
