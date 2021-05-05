@@ -790,7 +790,7 @@
 
 ## TypeScript 
 
-- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - A web-based RSS reader running entirely from your GitHub repo.
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
 - [transitive-bullshit/nextjs-notion-starter-kit](https://github.com/transitive-bullshit/nextjs-notion-starter-kit) - Deploy your own Notion-powered website in minutes with Next.js and Vercel.
 - [YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner) - ❄️ 云空调，便携小空调，为你的夏日带去清凉！
