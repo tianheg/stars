@@ -265,6 +265,7 @@
 
 ## JavaScript 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [greglobinski/gatsby-starter-kit-docs](https://github.com/greglobinski/gatsby-starter-kit-docs) - Docs for Gatsby Starter Kit
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -737,6 +738,7 @@
 
 ## Shell 
 
+- [TencentCloudBase/cloudbase-action](https://github.com/TencentCloudBase/cloudbase-action) - 云开发 Tencent CloudBase Github Action 可以将 Github 项目自动部署到云开发环境，基于 CloudBase Framework，支持静态网站、云函数、云托管、小程序等项目
 - [repo-sync/github-sync](https://github.com/repo-sync/github-sync) - ⤵️ A GitHub Action for syncing current repository with remote
 - [cfenollosa/bashblog](https://github.com/cfenollosa/bashblog) - A single Bash script to create blogs. Download, run, write, done!
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
@@ -900,6 +902,7 @@
 
 ## Vue 
 
+- [xugaoyi/vuepress-plugin-thirdparty-search](https://github.com/xugaoyi/vuepress-plugin-thirdparty-search) - vuepress插件，可以添加第三方搜索链接的搜索框
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 - [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
 - [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
