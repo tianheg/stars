@@ -400,7 +400,7 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [ruanyf/chrome-extension-demo](https://github.com/ruanyf/chrome-extension-demo) - how to create a Chrome extension
 - [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
-- [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 插件：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
+- [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
 - [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
 - [konstantinmuenster/simple-react-js-weather-app](https://github.com/konstantinmuenster/simple-react-js-weather-app) - A simple weather app that allows you to get current weather information, based on the city you enter.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -899,6 +899,7 @@
 
 ## Vim script 
 
+- [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [skywind3000/vim](https://github.com/skywind3000/vim) - Personal Vim Profile
 
