@@ -171,6 +171,7 @@
 
 ## HTML 
 
+- [anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books) - Learn books from TCP/IP | HTTP(s) | HTML、JS、JQuery | PHP | Web
 - [Ovilia/omynote](https://github.com/Ovilia/omynote) - 众山小笔记 - 集中管理你的读书笔记
 - [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [mateogianolio/issuance](https://github.com/mateogianolio/issuance) - Blogging with Github Issues.
@@ -285,7 +286,7 @@
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [googlecreativelab/chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
@@ -299,7 +300,6 @@
 - [Tsuk1ko/SS-Collection](https://github.com/Tsuk1ko/SS-Collection) - 常用资源汇集，仅个人收集向
 - [SaekiRaku/vscode-rainbow-fart](https://github.com/SaekiRaku/vscode-rainbow-fart) - 一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.
 - [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) - An opinionated collection of ESLint rules used by GitHub.
 - [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
 - [ruanyf/hn](https://github.com/ruanyf/hn) - A personalized Hacker News
@@ -307,7 +307,7 @@
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening
 - [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
 - [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-- [AlphaNecron/lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - An elegant and minimalist WebKit2 theme, based on lightdm-gab-gradient and Nord color scheme.
+- [AlphaNecron/lightdm-gab-nord](https://github.com/AlphaNecron/lightdm-gab-nord) - A fork of lightdm-gab-gradient with custom theme.
 - [useful-forks/useful-forks.github.io](https://github.com/useful-forks/useful-forks.github.io) - Improving GitHub's Forks list discoverability through automatic filtering. The project offers a website and a Chrome extension.
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea
 - [kamidox/weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
