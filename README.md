@@ -338,7 +338,7 @@
 - [brainhubeu/gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
 - [FeedsPub/rss-parser](https://github.com/FeedsPub/rss-parser) - A lightweight RSS parser, for Node and the browser
-- [zsdycs/lipk.org](https://github.com/zsdycs/lipk.org) - 基于 hugo 的博客网站，包括源代码及站点文件。
+- [zsdycs/lipk.org](https://github.com/zsdycs/lipk.org) - 李鹏坤的个人网站。基于 hugo 的博客网站，包括源代码及站点文件。
 - [actions-cool/issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.
 - [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
 - [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
@@ -373,7 +373,7 @@
 - [fengerzh/fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
 - [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
 - [hongyangAndroid/wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
-- [ruanyf/lvv2-feed](https://github.com/ruanyf/lvv2-feed) - 
+- [ruanyf/lvv2-feed](https://github.com/ruanyf/lvv2-feed) - Lvv2.com's RSS feed
 - [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
 - [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
 - [haroldtreen/query-nownownow](https://github.com/haroldtreen/query-nownownow) - Search profiles on http://nownownow.com
