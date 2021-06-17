@@ -526,7 +526,7 @@
 
 ## Others 
 
-- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives or complements to common unix commands.
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
@@ -790,7 +790,6 @@
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial) - Bash 教程
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [jakewies/dotfiles](https://github.com/jakewies/dotfiles) - My dotfiles 🐱‍👤
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
