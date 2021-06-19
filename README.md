@@ -9,10 +9,10 @@
   - [TypeScript](#typescript)
   - [Python](#python)
   - [Shell](#shell)
-  - [C](#c)
   - [JavaScript](#javascript)
   - [C++](#c++)
   - [HTML](#html)
+  - [C](#c)
   - [Java](#java)
   - [SCSS](#scss)
   - [Emacs Lisp](#emacs-lisp)
@@ -351,26 +351,6 @@
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
-## C 
-
-- [geany/geany](https://github.com/geany/geany) - A fast and lightweight IDE
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [TheAlgorithms/C](https://github.com/TheAlgorithms/C) - Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
-- [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
-
 ## JavaScript 
 
 - [javierbyte/pintr](https://github.com/javierbyte/pintr) - Create single line SVG illustrations from your pictures
@@ -508,7 +488,6 @@
 - [cblgh/monotome](https://github.com/cblgh/monotome) - a personal knowledge base system. markdown markup, runs in the browser
 - [chinese-poetry/poetry-calendar](https://github.com/chinese-poetry/poetry-calendar) - ✨🗓✨一个美炸天的诗词周历 ， 52个周给你新的体验。
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-- [ruanyf/chrome-extension-demo](https://github.com/ruanyf/chrome-extension-demo) - how to create a Chrome extension
 - [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
 - [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
@@ -680,6 +659,24 @@
 - [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
 - [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 - [reuixiy/io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
+
+## C 
+
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
+- [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
+- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
 
 ## Java 
 
