@@ -48,6 +48,7 @@
 
 ## C 
 
+- [halfer53/winix](https://github.com/halfer53/winix) - A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
 - [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
@@ -198,7 +199,7 @@
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
 - [Leask/Battery-Hive](https://github.com/Leask/Battery-Hive) - 🔋 A tray to arrange all your batteries.
-- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - 给微信公众号生成 RSS 订阅源
+- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [nhcarrigan/notes](https://github.com/nhcarrigan/notes) - Just some important code snippets I want to save
 - [it5200/flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlus
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
