@@ -624,7 +624,6 @@
 - [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
 - [anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books) - Learn books from TCP/IP | HTTP(s) | HTML、JS、JQuery | PHP | Web
 - [Ovilia/omynote](https://github.com/Ovilia/omynote) - 众山小笔记 - 集中管理你的读书笔记
-- [sarabander/sicp](https://github.com/sarabander/sicp) - HTML5/EPUB3 version of SICP
 - [mateogianolio/issuance](https://github.com/mateogianolio/issuance) - Blogging with Github Issues.
 - [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
 - [stone0090/javascript-lessons](https://github.com/stone0090/javascript-lessons) - 本课程之所以叫做《JavaScript 闯关记》，是因为部分章节精心设计了挑战关卡，通过提供更多的实战机会，让大家可以循序渐进地、有目的地、有挑战地开展学习。
