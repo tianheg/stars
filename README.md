@@ -48,6 +48,8 @@
 
 ## JavaScript 
 
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [soyaine/jocker-chrome-extension](https://github.com/soyaine/jocker-chrome-extension) - 即刻抽屉
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech.
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
