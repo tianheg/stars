@@ -401,6 +401,7 @@
 - [geekplux/douban_read_download](https://github.com/geekplux/douban_read_download) - Download your book reading records from douban to a CSV file.
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
 - [zhuwenxing/daily_arxiv](https://github.com/zhuwenxing/daily_arxiv) - Generate a list of papers with publicly available source code in the daily arxiv
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [jarun/googler](https://github.com/jarun/googler) - :mag: Google from the terminal
@@ -503,7 +504,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [rhelmstedter/Zettelkasten](https://github.com/rhelmstedter/Zettelkasten) - My personal zettelkasten.
 - [fhoehl/awesome-zettelkasten](https://github.com/fhoehl/awesome-zettelkasten) - A list of awesome Zettelkasten resources.
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios) - A list of developer portfolios for your inspiration
