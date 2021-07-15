@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [HTML](#html)
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
   - [Go](#go)
@@ -13,7 +14,6 @@
   - [Others](#others)
   - [Shell](#shell)
   - [C++](#c++)
-  - [HTML](#html)
   - [Java](#java)
   - [Emacs Lisp](#emacs-lisp)
   - [Rust](#rust)
@@ -45,6 +45,69 @@
   - [AutoHotkey](#autohotkey)
   - [Roff](#roff)
   - [VBScript](#vbscript)
+
+## HTML 
+
+- [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
+- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+- [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+- [anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books) - Learn books from TCP/IP | HTTP(s) | HTML、JS、JQuery | PHP | Web
+- [Ovilia/omynote](https://github.com/Ovilia/omynote) - 众山小笔记 - 集中管理你的读书笔记
+- [mateogianolio/issuance](https://github.com/mateogianolio/issuance) - Blogging with Github Issues.
+- [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
+- [stone0090/javascript-lessons](https://github.com/stone0090/javascript-lessons) - 本课程之所以叫做《JavaScript 闯关记》，是因为部分章节精心设计了挑战关卡，通过提供更多的实战机会，让大家可以循序渐进地、有目的地、有挑战地开展学习。
+- [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
+- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+- [KaiOrange/web-effect-favorites](https://github.com/KaiOrange/web-effect-favorites) - 网页特效收藏馆，收集各种牛逼的网页特效。
+- [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
+- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+- [simonw/til](https://github.com/simonw/til) - Today I Learned
+- [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
+- [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
+- [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
+- [raghuveerdotnet/simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
+- [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
+- [TopVitamin/static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
+- [changhuixu/css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
+- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
+- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [owlling/olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
+- [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
+- [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
+- [zmf963/hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
+- [jsonsite/jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
+- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
+- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
+- [zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
+- [huijing/personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
+- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
+- [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
+- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [lmm214/hugo-theme-webstack](https://github.com/lmm214/hugo-theme-webstack) - 
+- [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
+- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
+- [jekyller/TravelMap](https://github.com/jekyller/TravelMap) - Minimal Jekyll plugin for your traveling experience
+- [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css) - A CSS-only, resolution-independent "Fork me on GitHub" ribbon.
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+- [hackerschoice/hackerschoice.github.io](https://github.com/hackerschoice/hackerschoice.github.io) - The Hacker's Choice
+- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+- [coderzh/gohugo.org](https://github.com/coderzh/gohugo.org) - Site for http://www.gohugo.org/
+- [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
+- [bryanbraun/poor-mans-styleguide](https://github.com/bryanbraun/poor-mans-styleguide) - A frontend styleguide for the pragmatic.
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
+- [poozhu/JueJin-Search](https://github.com/poozhu/JueJin-Search) - 🔍 掘金搜索，搜索结果二次过滤
+- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
+- [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
+- [reuixiy/io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
 ## JavaScript 
 
@@ -569,7 +632,7 @@
 - [Fndroid/clash_for_windows_pkg](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows/macOS GUI based on Clash
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [TwoWater/Python](https://github.com/TwoWater/Python) - 最良心的 Python 教程：
+- [walter201230/Python](https://github.com/walter201230/Python) - 最良心的 Python 教程：
 - [keithnull/TeachYourselfCS-CN](https://github.com/keithnull/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [redguardtoo/mastering-emacs-in-one-year-guide](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide) - Be great at emacs in one year
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
@@ -649,68 +712,6 @@
 - [doxygen/doxygen](https://github.com/doxygen/doxygen) - Official doxygen git repository
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
-## HTML 
-
-- [WeeJeWel/wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-- [madrobby/zepto](https://github.com/madrobby/zepto) - Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-- [anzhihe/Free-Web-Books](https://github.com/anzhihe/Free-Web-Books) - Learn books from TCP/IP | HTTP(s) | HTML、JS、JQuery | PHP | Web
-- [Ovilia/omynote](https://github.com/Ovilia/omynote) - 众山小笔记 - 集中管理你的读书笔记
-- [mateogianolio/issuance](https://github.com/mateogianolio/issuance) - Blogging with Github Issues.
-- [AmazingRise/hugo-theme-diary](https://github.com/AmazingRise/hugo-theme-diary) - Moments piled up. A Hugo theme ported from SumiMakito/hexo-theme-Journal.
-- [stone0090/javascript-lessons](https://github.com/stone0090/javascript-lessons) - 本课程之所以叫做《JavaScript 闯关记》，是因为部分章节精心设计了挑战关卡，通过提供更多的实战机会，让大家可以循序渐进地、有目的地、有挑战地开展学习。
-- [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
-- [KaiOrange/web-effect-favorites](https://github.com/KaiOrange/web-effect-favorites) - 网页特效收藏馆，收集各种牛逼的网页特效。
-- [wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka) - Eureka is a feature-rich and highly customizable Hugo theme.
-- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
-- [simonw/til](https://github.com/simonw/til) - Today I Learned
-- [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
-- [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
-- [Maxence-L/notenote.link](https://github.com/Maxence-L/notenote.link) - A Jekyll digital garden template, optimized for integration with Obsidian. It aims to enhance discoverability and help you build a personal knowledge base that can scale with time.
-- [raghuveerdotnet/simply-jekyll](https://github.com/raghuveerdotnet/simply-jekyll) - A simple yet highly functional jekyll theme with backlinks, wiki-style links, context menu, page preview, sidenote etc
-- [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在线图片格式转化器,无需上传文件,可将jpeg、jpg、png、gif、webp、svg、ico、bmp文件转换为jpeg、png、webp、webp动画、gif、base64、avif、mozjpeg,提供了多个可自定义选项来满足常见需求。
-- [TopVitamin/static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
-- [changhuixu/css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
-- [theNewDynamic/awesome-hugo](https://github.com/theNewDynamic/awesome-hugo) - A curated list of awesome things related to Hugo, The world's fastest framework for building websites.
-- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [owlling/olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
-- [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
-- [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
-- [zmf963/hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
-- [jsonsite/jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
-- [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
-- [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
-- [zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
-- [huijing/personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
-- [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
-- [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
-- [FrontendMasters/front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019) - [Book] 2019 edition of our front-end development handbook
-- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [lmm214/hugo-theme-webstack](https://github.com/lmm214/hugo-theme-webstack) - 
-- [doyoe/css-handbook](https://github.com/doyoe/css-handbook) - CSS参考手册
-- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-- [docker/docker.github.io](https://github.com/docker/docker.github.io) - Source repo for Docker's Documentation
-- [jekyller/TravelMap](https://github.com/jekyller/TravelMap) - Minimal Jekyll plugin for your traveling experience
-- [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css) - A CSS-only, resolution-independent "Fork me on GitHub" ribbon.
-- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [hackerschoice/hackerschoice.github.io](https://github.com/hackerschoice/hackerschoice.github.io) - The Hacker's Choice
-- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [coderzh/gohugo.org](https://github.com/coderzh/gohugo.org) - Site for http://www.gohugo.org/
-- [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
-- [bryanbraun/poor-mans-styleguide](https://github.com/bryanbraun/poor-mans-styleguide) - A frontend styleguide for the pragmatic.
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [martignoni/hugo-notice](https://github.com/martignoni/hugo-notice) - A Hugo theme component to display nice notices
-- [poozhu/JueJin-Search](https://github.com/poozhu/JueJin-Search) - 🔍 掘金搜索，搜索结果二次过滤
-- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
-- [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
-- [reuixiy/io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
-
 ## Java 
 
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
@@ -783,6 +784,7 @@
 - [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
 - [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
 - [Ivysauro/CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
+- [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [BookStackApp/website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
@@ -821,7 +823,6 @@
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
-- [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
 - [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
