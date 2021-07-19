@@ -5,12 +5,13 @@
 
 ## Contents
 
+  - [C](#c)
+  - [Vue](#vue)
   - [TypeScript](#typescript)
   - [HTML](#html)
   - [JavaScript](#javascript)
   - [Go](#go)
   - [Python](#python)
-  - [C](#c)
   - [Others](#others)
   - [Shell](#shell)
   - [C++](#c++)
@@ -18,7 +19,6 @@
   - [Emacs Lisp](#emacs-lisp)
   - [Rust](#rust)
   - [Vim script](#vim-script)
-  - [Vue](#vue)
   - [Clojure](#clojure)
   - [Haskell](#haskell)
   - [SCSS](#scss)
@@ -45,6 +45,39 @@
   - [AutoHotkey](#autohotkey)
   - [Roff](#roff)
   - [VBScript](#vbscript)
+
+## C 
+
+- [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
+- [halfer53/winix](https://github.com/halfer53/winix) - A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
+- [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
+- [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
+- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
+- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
+- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
+- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
+
+## Vue 
+
+- [Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo) - kindle 笔记 导入至 flomo
+- [xugaoyi/vuepress-plugin-thirdparty-search](https://github.com/xugaoyi/vuepress-plugin-thirdparty-search) - vuepress插件，可以添加第三方搜索链接的搜索框
+- [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
+- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
+- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
+- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
+- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## TypeScript 
 
@@ -239,7 +272,7 @@
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [googlecreativelab/chrome-music-lab](https://github.com/googlecreativelab/chrome-music-lab) - A collection of experiments for exploring how music works, all built with the Web Audio API.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (June 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
 - [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 - [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
@@ -542,27 +575,6 @@
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
-## C 
-
-- [halfer53/winix](https://github.com/halfer53/winix) - A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)
-- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [fragglet/c-algorithms](https://github.com/fragglet/c-algorithms) - A library of common data structures and algorithms written in C.
-- [hutusi/rethink-c](https://github.com/hutusi/rethink-c) - A reuseable codebase for C Programming Language.
-- [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix) - Terminal based "The Matrix" like implementation
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
-- [openssl/openssl](https://github.com/openssl/openssl) - TLS/SSL and crypto library
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
-
 ## Others 
 
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - 
@@ -600,7 +612,6 @@
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [xbox1994/Java-Interview](https://github.com/xbox1994/Java-Interview) - 经历BAT面试后总结的【高级Java后台开发面试指南】，纯净干货无废话，针对高频面试点
 - [Leask/Battery-Hive](https://github.com/Leask/Battery-Hive) - 🔋 A tray to arrange all your batteries.
-- [hellodword/wechat-feeds](https://github.com/hellodword/wechat-feeds) - [已停止服务] 给微信公众号生成 RSS 订阅源
 - [nhcarrigan/notes](https://github.com/nhcarrigan/notes) - Just some important code snippets I want to save
 - [it5200/flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlus
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
@@ -757,16 +768,6 @@
 - [carlhuda/janus](https://github.com/carlhuda/janus) - Vim distribution
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [skywind3000/vim](https://github.com/skywind3000/vim) - Personal Vim Profile
-
-## Vue 
-
-- [xugaoyi/vuepress-plugin-thirdparty-search](https://github.com/xugaoyi/vuepress-plugin-thirdparty-search) - vuepress插件，可以添加第三方搜索链接的搜索框
-- [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [jae-jae/Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
-- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
-- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## Clojure 
 
