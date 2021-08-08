@@ -5,10 +5,9 @@
 
 ## Contents
 
-  - [CSS](#css)
-  - [C](#c)
-  - [JavaScript](#javascript)
   - [TypeScript](#typescript)
+  - [JavaScript](#javascript)
+  - [C](#c)
   - [Shell](#shell)
   - [Go](#go)
   - [Ruby](#ruby)
@@ -18,6 +17,7 @@
   - [HTML](#html)
   - [TeX](#tex)
   - [Python](#python)
+  - [CSS](#css)
   - [Jupyter Notebook](#jupyter-notebook)
   - [C++](#c++)
   - [Java](#java)
@@ -47,52 +47,102 @@
   - [Roff](#roff)
   - [VBScript](#vbscript)
 
-## CSS 
+## TypeScript 
 
-- [reuixiy/my-gnome](https://github.com/reuixiy/my-gnome) - My GNOME themes, shell extensions, and more.
-- [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [rupl/unfold](https://github.com/rupl/unfold) - Unfolding the Box Model — interactive slides exploring CSS 3D Transforms
-- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
-- [FelixBoiii/paper-plotter](https://github.com/FelixBoiii/paper-plotter) - website to create pdf's for 3d functions
-- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
-- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
-- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
-- [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
-- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
-- [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
-- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
-- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
-- [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
-
-## C 
-
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
+- [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
+- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
+- [algolia/algoliasearch-netlify](https://github.com/algolia/algoliasearch-netlify) - Official Algolia Plugin for Netlify. Index your website to Algolia when deploying your project to Netlify with the Algolia Crawler
+- [sabrinaluo/gatsby-theme-replica](https://github.com/sabrinaluo/gatsby-theme-replica) - :octocat: Github style replication for gatsby theme https://hiitea.io/tech/
+- [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
+- [boojack/insmemo](https://github.com/boojack/insmemo) - flomo + 知识星球
+- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
+- [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
+- [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
+- [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
+- [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
+- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
+- [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！
+- [usthe/issues-translate-action](https://github.com/usthe/issues-translate-action) - The action for translating Non-English issues content to English.
+- [azu/github-search-rss](https://github.com/azu/github-search-rss) - GitHub Search Results as RSS Feeds via GitHub Actions.
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
+- [sozonome/pub-apis](https://github.com/sozonome/pub-apis) - Find public APIs, powered by https://api.publicapis.org/
+- [crablar/podsheets](https://github.com/crablar/podsheets) - Podsheets is a set of open source tools for podcast hosting, ad management, community engagement, and more.
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+- [wasedatime/wasedatime-web](https://github.com/wasedatime/wasedatime-web) - An unofficial web app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.
+- [beaudar/beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
+- [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+- [ricklove/rick-love-master](https://github.com/ricklove/rick-love-master) - A Mono Repo for Everything cool
+- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
+- [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [designdetails/designdetails](https://github.com/designdetails/designdetails) - A weekly conversation about design process and culture
+- [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
+- [zhuanghongji/mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
+- [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
+- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
+- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+- [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
+- [brianlovin/brian-lovin-next](https://github.com/brianlovin/brian-lovin-next) - My personal site
+- [sorcererxw/iloveworks](https://github.com/sorcererxw/iloveworks) - I ❤ working, working makes me happy!
+- [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
+- [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
+- [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+- [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
+- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
+- [TeamMeow/vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) - 📐 Render LaTeX math equations in any Markdown file!
+- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+- [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
+- [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
+- [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
+- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
+- [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - Copy content from web powerful than ever before.
+- [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [scott-joe/foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
+- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
+- [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
+- [swdotcom/swdc-vscode-100-days-of-code](https://github.com/swdotcom/swdc-vscode-100-days-of-code) - A VS Code extension that helps you reach your goals in completing the 100 Days of Code challenge
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
+- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
+- [solobat/iHelpers](https://github.com/solobat/iHelpers) - 
+- [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
+- [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
+- [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
+- [Arlen22/TiddlyServer](https://github.com/Arlen22/TiddlyServer) - v2 - A static file server that can also save files and mount TiddlyWiki folders
+- [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 
 ## JavaScript 
 
+- [MartinPL/Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+- [micheleg/dash-to-dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
+- [ewlsh/dash-to-dock](https://github.com/ewlsh/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
 - [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
 - [unicar9/jizhi](https://github.com/unicar9/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
 - [mfg92/hugo-shortcode-gallery](https://github.com/mfg92/hugo-shortcode-gallery) - A theme components with a gallery shortcode for the static site generator hugo.
@@ -321,95 +371,22 @@
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
-## TypeScript 
+## C 
 
-- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [algolia/algoliasearch-netlify](https://github.com/algolia/algoliasearch-netlify) - Official Algolia Plugin for Netlify. Index your website to Algolia when deploying your project to Netlify with the Algolia Crawler
-- [sabrinaluo/gatsby-theme-replica](https://github.com/sabrinaluo/gatsby-theme-replica) - :octocat: Github style replication for gatsby theme https://hiitea.io/tech/
-- [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
-- [boojack/insmemo](https://github.com/boojack/insmemo) - flomo + 知识星球
-- [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus) - 🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)
-- [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
-- [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
-- [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) - A set of packages to make exporting artifacts from GitHub easier
-- [fingerprintjs/external-protocol-flooding](https://github.com/fingerprintjs/external-protocol-flooding) - Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing
-- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
-- [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
-- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths
-- [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus.
-- [vscode-org-mode/vscode-org-mode](https://github.com/vscode-org-mode/vscode-org-mode) - Emacs Org Mode for Visual Studio Code
-- [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 ci，写博客 / 文档必备。支持 API 调用！
-- [usthe/issues-translate-action](https://github.com/usthe/issues-translate-action) - The action for translating Non-English issues content to English.
-- [azu/github-search-rss](https://github.com/azu/github-search-rss) - GitHub Search Results as RSS Feeds via GitHub Actions.
-- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
-- [sozonome/pub-apis](https://github.com/sozonome/pub-apis) - Find public APIs, powered by https://api.publicapis.org/
-- [crablar/podsheets](https://github.com/crablar/podsheets) - Podsheets is a set of open source tools for podcast hosting, ad management, community engagement, and more.
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [sindresorhus/refined-github](https://github.com/sindresorhus/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [wasedatime/wasedatime-web](https://github.com/wasedatime/wasedatime-web) - An unofficial web app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.
-- [beaudar/beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
-- [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-- [ricklove/rick-love-master](https://github.com/ricklove/rick-love-master) - A Mono Repo for Everything cool
-- [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-- [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-- [designdetails/designdetails](https://github.com/designdetails/designdetails) - A weekly conversation about design process and culture
-- [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
-- [zhuanghongji/mp-android-index](https://github.com/zhuanghongji/mp-android-index) - 微信公众号「郭霖」「鸿洋」「玉刚说」「谷歌开发者」历史文章索引
-- [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
-- [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
-- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-- [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
-- [brianlovin/brian-lovin-next](https://github.com/brianlovin/brian-lovin-next) - My personal site
-- [sorcererxw/iloveworks](https://github.com/sorcererxw/iloveworks) - I ❤ working, working makes me happy!
-- [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
-- [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
-- [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-- [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-- [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩
-- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
-- [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
-- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
-- [TeamMeow/vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) - 📐 Render LaTeX math equations in any Markdown file!
-- [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
-- [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
-- [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - Copy content from web powerful than ever before.
-- [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [scott-joe/foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
-- [vuejs/vue-next](https://github.com/vuejs/vue-next) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-- [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(自动日更)。
-- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
-- [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
-- [swdotcom/swdc-vscode-100-days-of-code](https://github.com/swdotcom/swdc-vscode-100-days-of-code) - A VS Code extension that helps you reach your goals in completing the 100 Days of Code challenge
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Technical documentation that just works
-- [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
-- [solobat/iHelpers](https://github.com/solobat/iHelpers) - 
-- [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
-- [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈
-- [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
-- [Arlen22/TiddlyServer](https://github.com/Arlen22/TiddlyServer) - v2 - A static file server that can also save files and mount TiddlyWiki folders
-- [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
-- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
-- [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
-- [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
+- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+- [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
 
 ## Shell 
 
@@ -700,6 +677,32 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+
+## CSS 
+
+- [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [rupl/unfold](https://github.com/rupl/unfold) - Unfolding the Box Model — interactive slides exploring CSS 3D Transforms
+- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in react 💻🌈⚡
+- [FelixBoiii/paper-plotter](https://github.com/FelixBoiii/paper-plotter) - website to create pdf's for 3d functions
+- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
+- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
+- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
+- [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
+- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
+- [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
+- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
+- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
+- [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 
 ## Jupyter Notebook 
 
