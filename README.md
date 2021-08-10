@@ -49,6 +49,7 @@
 
 ## Python 
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock) - Pomodoro 番茄工作法 https://en.wikipedia.org/wiki/Pomodoro_Technique
 - [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
