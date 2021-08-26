@@ -51,6 +51,7 @@
 
 ## Others 
 
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS
 - [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每月实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 | 承诺健在即更新✨
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -84,7 +85,7 @@
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [Leask/Battery-Hive](https://github.com/Leask/Battery-Hive) - 🔋 A tray to arrange all your batteries.
 - [nhcarrigan/notes](https://github.com/nhcarrigan/notes) - Just some important code snippets I want to save
-- [it5200/flomoPlugin](https://github.com/it5200/flomoPlugin) - flomoPlus
+- [it5200/flomoPlus](https://github.com/it5200/flomoPlus) - flomoPlus
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [changhuixu/historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
 - [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
@@ -562,7 +563,7 @@
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
 - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
-- [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - Copy content from web powerful than ever before.
+- [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [scott-joe/foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
