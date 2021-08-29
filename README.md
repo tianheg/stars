@@ -184,7 +184,7 @@
 - [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
 - [mathieudutour/gatsby-digital-garden](https://github.com/mathieudutour/gatsby-digital-garden) - 🌷 🌻 🌺 Create a digital garden with Gatsby
 - [binyamin/eleventy-garden](https://github.com/binyamin/eleventy-garden) - :seedling: A starter site for building a mind garden with eleventy
-- [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for (ready for Gatsby v3) ⚡️
+- [Rocketseat/gatsby-starter-rocket-docs](https://github.com/Rocketseat/gatsby-starter-rocket-docs) - The documentation starter you were looking for ⚡️
 - [filipowm/BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
 - [brainhubeu/gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
 - [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
