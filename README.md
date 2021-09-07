@@ -66,6 +66,7 @@
 - [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
 - [gauseen/gum](https://github.com/gauseen/gum) - Git multiple user config manager
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
+- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS
 - [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
 - [susam/muboard](https://github.com/susam/muboard) - Self-rendering and distributable mathematics chalkboards
 - [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
@@ -214,7 +215,7 @@
 - [chinese-poetry/poetry-calendar](https://github.com/chinese-poetry/poetry-calendar) - ✨🗓✨一个美炸天的诗词周历 ， 52个周给你新的体验。
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
-- [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者尤其有帮助。
+- [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
 - [konstantinmuenster/simple-react-js-weather-app](https://github.com/konstantinmuenster/simple-react-js-weather-app) - A simple weather app that allows you to get current weather information, based on the city you enter.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -621,7 +622,6 @@
 - [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science) - 
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS
 - [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每月实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 | 承诺健在即更新✨
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
