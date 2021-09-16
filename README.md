@@ -316,7 +316,6 @@
 - [ruanyf/es6tutorial](https://github.com/ruanyf/es6tutorial) - 《ECMAScript 6入门》是一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。
 - [cblgh/monotome](https://github.com/cblgh/monotome) - a personal knowledge base system. markdown markup, runs in the browser
 - [chinese-poetry/poetry-calendar](https://github.com/chinese-poetry/poetry-calendar) - ✨🗓✨一个美炸天的诗词周历 ， 52个周给你新的体验。
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
 - [Higurashi-kagome/wereader](https://github.com/Higurashi-kagome/wereader) - 一个 Chrome / Firefox 扩展：主要用于微信读书做笔记，对常使用 Markdown 做笔记的读者比较有帮助。
 - [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
@@ -615,6 +614,7 @@
 - [zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potential of Chrome!
 - [huijing/personal-website](https://github.com/huijing/personal-website) - :rabbit: The chronicles of a self-taught designer and developer v2
 - [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge) - A badge generator service to count visitors of your markdown file.
