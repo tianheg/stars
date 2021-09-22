@@ -854,7 +854,7 @@
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 - [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
-- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Dotfiles for the Genome setup
+- [Barbarossa93/Genome](https://github.com/Barbarossa93/Genome) - Desktop setup
 - [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
