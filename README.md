@@ -54,7 +54,6 @@
 
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [foamzou/group-by-repo-on-github](https://github.com/foamzou/group-by-repo-on-github) - When you search code using github, this script can help you group by repo
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -320,6 +319,7 @@
 
 ## HTML 
 
+- [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2021中国翻墙软件VPN推荐以及避坑指南，稳定好用。对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙梯子VPN下载推荐。
 - [haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib) - 🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦
@@ -873,7 +873,6 @@
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 
 ## Jupyter Notebook 
 
@@ -911,6 +910,7 @@
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [BookStackApp/website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 
 ## PHP 
