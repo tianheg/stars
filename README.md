@@ -495,6 +495,7 @@
 - [ameizi/notes](https://github.com/ameizi/notes) - notes
 - [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis) installs unattended, automated and customized Arch Linux system.
+- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
 - [khanhicetea/gh-actions-hugo-deploy-gh-pages](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages) - Github Actions : Hugo static site generator
 - [StevenACoffman/hugo-deploy-gh-org-pages](https://github.com/StevenACoffman/hugo-deploy-gh-org-pages) - Github Action to Automate Hugo for an Organization Github Page
 - [wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial) - JavaScript 教程 https://wangdoc.com/javascript
@@ -610,7 +611,6 @@
 - [it5200/flomoPlus](https://github.com/it5200/flomoPlus) - flomoPlus
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of) - 🏆  Discover best-of lists with awesome open-source projects on all kinds of topics.
 - [changhuixu/historical-weather-data](https://github.com/changhuixu/historical-weather-data) - Historical Weather Data Collection using GitHub Actions
-- [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 源ノ明朝 | 본명조
 - [LGBT-CN/LGBTQIA-In-China](https://github.com/LGBT-CN/LGBTQIA-In-China) - 🏳️‍🌈 中国的性少数群体一直渴望着自由平等
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
@@ -647,7 +647,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2021中国翻墙软件VPN推荐以及避坑指南，稳定好用。对比SSR机场、蓝灯、WireGuard、V2ray、老王VPN、VPS搭建梯子等科学上网软件与方法，中国最新科学上网翻墙梯子VPN下载推荐。
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2021中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
 - [haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib) - 🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦
 - [limboy/OhMyTimeline](https://github.com/limboy/OhMyTimeline) - 
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
@@ -1014,7 +1014,7 @@
 
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
 - [changhuixu/ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 
