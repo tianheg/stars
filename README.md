@@ -5,14 +5,14 @@
 
 ## Contents
 
+  - [Rust](#rust)
+  - [C](#c)
   - [Go](#go)
   - [Shell](#shell)
   - [Python](#python)
   - [JavaScript](#javascript)
-  - [Rust](#rust)
   - [QML](#qml)
   - [Lua](#lua)
-  - [C](#c)
   - [Others](#others)
   - [HTML](#html)
   - [CSS](#css)
@@ -50,6 +50,46 @@
   - [Makefile](#makefile)
   - [AutoHotkey](#autohotkey)
   - [VBScript](#vbscript)
+
+## Rust 
+
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+## C 
+
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
+- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
+- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 
 ## Go 
 
@@ -447,7 +487,6 @@
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
-- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -513,19 +552,6 @@
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
-## Rust 
-
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
-- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
 ## QML 
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
@@ -535,31 +561,6 @@
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) - :zap: A new cd command that helps you navigate faster by learning your habits.
 - [Wscats/articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
-
-## C 
-
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 
 ## Others 
 
@@ -805,7 +806,7 @@
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 - [LekoArts/gatsby-themes](https://github.com/LekoArts/gatsby-themes) - Get high-quality and customizable Gatsby themes to quickly bootstrap your website! Choose from many professionally created and impressive designs with a wide variety of features and customization options.
-- [brianlovin/briOS](https://github.com/brianlovin/briOS) - 
+- [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [sorcererxw/iloveworks](https://github.com/sorcererxw/iloveworks) - I ❤ working, working makes me happy!
 - [Gaafar/dev-fonts](https://github.com/Gaafar/dev-fonts) - List of fonts for coding
 - [idealclover/GitHub-Star-Counter](https://github.com/idealclover/GitHub-Star-Counter) - ✨An API to count a GitHub user's total stars, working with shield.io.
@@ -822,6 +823,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult... like a PRO.
+- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese
 - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
