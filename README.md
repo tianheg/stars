@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Java](#java)
   - [HTML](#html)
   - [JavaScript](#javascript)
   - [Dart](#dart)
@@ -22,7 +23,6 @@
   - [TypeScript](#typescript)
   - [C#](#c#)
   - [Ruby](#ruby)
-  - [Java](#java)
   - [C++](#c++)
   - [PHP](#php)
   - [Vue](#vue)
@@ -50,6 +50,35 @@
   - [Makefile](#makefile)
   - [AutoHotkey](#autohotkey)
   - [VBScript](#vbscript)
+
+## Java 
+
+- [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
+- [superleeyom/proxy-traffic-monitor](https://github.com/superleeyom/proxy-traffic-monitor) - 🤖 最近也开通了Netflix，Netflix 其实挺费流量的，为了防止梯子的流量超标，所以打算借助 Github Actions + telegram 做一个简单的监控，每天定时把流量使用情况发送到 telegram上
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [RichardGong/PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler) - A GeekTime course about constructing a compiler.
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [HpWens/MeiWidgetView](https://github.com/HpWens/MeiWidgetView) - 🔥一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库（小红书）
+- [android/security-certification-resources](https://github.com/android/security-certification-resources) - Android Certification Tools
+- [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱:newspaper: Android client for the Nextcloud news/feed reader app
+- [hmkcode/Android](https://github.com/hmkcode/Android) - Android related examples
+- [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
+- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin 使用 SpringBoot和Vue，前后端分离，我们希望用一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱生活。SmartAdmin 让你从认识到忘不了，绝对是你最想要的！
+- [android/media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
+- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+- [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
+- [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
+- [manmal/hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
+- [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
+- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
+- [mio4/Java-Gold](https://github.com/mio4/Java-Gold) - :coffee: Java炼金小木屋
+- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
+- [Self-Learner-DD/Algorithms-I-Percolation](https://github.com/Self-Learner-DD/Algorithms-I-Percolation) - 
+- [halo-dev/halo](https://github.com/halo-dev/halo) - ✍ 一款优秀的开源博客发布应用。
 
 ## HTML 
 
@@ -877,34 +906,6 @@
 - [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [github/grit](https://github.com/github/grit) - Grit gives you object oriented read/write access to Git repositories via Ruby.
-
-## Java 
-
-- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied traffic including encrypted SSL traffic and supports Port Forwarding, Web Proxying (i.e. HTTP proxy), HTTPS Tunneling Proxying (using HTTP CONNECT) and SOCKS Proxying (i.e. dynamic port forwarding).
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
-- [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
-- [superleeyom/proxy-traffic-monitor](https://github.com/superleeyom/proxy-traffic-monitor) - 🤖 最近也开通了Netflix，Netflix 其实挺费流量的，为了防止梯子的流量超标，所以打算借助 Github Actions + telegram 做一个简单的监控，每天定时把流量使用情况发送到 telegram上
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
-- [RichardGong/PlayWithCompiler](https://github.com/RichardGong/PlayWithCompiler) - A GeekTime course about constructing a compiler.
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [HpWens/MeiWidgetView](https://github.com/HpWens/MeiWidgetView) - 🔥一款汇总了郭霖，鸿洋，以及自己平时收集的自定义控件集合库（小红书）
-- [android/security-certification-resources](https://github.com/android/security-certification-resources) - Android Certification Tools
-- [nextcloud/news-android](https://github.com/nextcloud/news-android) - 📱:newspaper: Android client for the Nextcloud news/feed reader app
-- [hmkcode/Android](https://github.com/hmkcode/Android) - Android related examples
-- [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
-- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin 使用 SpringBoot和Vue，前后端分离，我们希望用一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱生活。SmartAdmin 让你从认识到忘不了，绝对是你最想要的！
-- [android/media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
-- [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
-- [manmal/hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
-- [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
-- [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书  2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）
-- [mio4/Java-Gold](https://github.com/mio4/Java-Gold) - :coffee: Java炼金小木屋
-- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
-- [Self-Learner-DD/Algorithms-I-Percolation](https://github.com/Self-Learner-DD/Algorithms-I-Percolation) - 
-- [halo-dev/halo](https://github.com/halo-dev/halo) - ✍ 一款优秀的开源博客发布应用。
 
 ## C++ 
 
