@@ -498,7 +498,7 @@
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [timqian/star-history](https://github.com/timqian/star-history) - The missing star history graph of github repos
+- [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of github repos
 - [paulirish/harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
 - [mrdoob/harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace.
