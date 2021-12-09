@@ -49,6 +49,7 @@
   - [Crystal](#crystal)
   - [Makefile](#makefile)
   - [AutoHotkey](#autohotkey)
+  - [Less](#less)
   - [VBScript](#vbscript)
 
 ## JavaScript 
@@ -84,7 +85,7 @@
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [keginx/species-in-pieces](https://github.com/keginx/species-in-pieces) - 中文版30种濒危动物碎片拼图。该作品是阿姆斯特丹设计师 Bryan James用纯CSS技术表现出30种动物的碎片拼图形象，这30动物，非常的可爱，但不幸的是，它们都是濒临灭绝的动物，它们的生存情况正面临着危机。   你能看到它们在挣扎，它们在反抗...  它们在这个互动的作品里申诉...
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2020: trends about front-end and Node.js frameworks, tooling, testing, Vue, React, Angular... Available in Spanish, Russian, Chinese, Japanese
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social media \ websites (Detections are updated regularly by automated systems)
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI & Web App for analyzing & finding a person's profile across +1000 social  (Detections are updated regularly by automated systems)
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
@@ -143,7 +144,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1350 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
@@ -678,7 +679,6 @@
 - [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
 - [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
@@ -1078,6 +1078,10 @@
 ## AutoHotkey 
 
 - [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
+
+## Less 
+
+- [Remix-Design/RemixIcon](https://github.com/Remix-Design/RemixIcon) - Open source neutral style icon system
 
 ## VBScript 
 
