@@ -868,7 +868,7 @@
 - [designdetails/designdetails](https://github.com/designdetails/designdetails) - A weekly conversation about design process and culture
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
