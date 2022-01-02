@@ -5,9 +5,10 @@
 
 ## Contents
 
+  - [Awk](#awk)
+  - [Emacs Lisp](#emacs-lisp)
   - [JavaScript](#javascript)
   - [Pug](#pug)
-  - [Emacs Lisp](#emacs-lisp)
   - [Others](#others)
   - [CSS](#css)
   - [Nunjucks](#nunjucks)
@@ -55,6 +56,20 @@
   - [Less](#less)
   - [Roff](#roff)
   - [VBScript](#vbscript)
+
+## Awk 
+
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+
+## Emacs Lisp 
+
+- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
+- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
+- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese and English characters.
+- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
+- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+- [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
 ## JavaScript 
 
@@ -340,15 +355,6 @@
 
 - [lynnandtonic/lynnandtonic.com](https://github.com/lynnandtonic/lynnandtonic.com) - 🍕 The portfolio of Lynn Fisher
 
-## Emacs Lisp 
-
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese and English characters.
-- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
-- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
-
 ## Others 
 
 - [awesome-css-group/awesome-css](https://github.com/awesome-css-group/awesome-css) - :art: A curated contents of amazing CSS :)
@@ -616,7 +622,7 @@
 
 - [boyan01/flutter-netease-music](https://github.com/boyan01/flutter-netease-music) - flutter music player application. (仿网易云音乐)
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
-- [biyidev/biyi_app](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter.
+- [biyidev/biyi_app](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Rust 
@@ -844,7 +850,7 @@
 - [oae/gnome-shell-extensions-sync](https://github.com/oae/gnome-shell-extensions-sync) - Syncs gnome shell keybindings, tweaks settings and extensions with their configuration across all gnome installations
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [algolia/algoliasearch-netlify](https://github.com/algolia/algoliasearch-netlify) - Official Algolia Plugin for Netlify. Index your website to Algolia when deploying your project to Netlify with the Algolia Crawler
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2021
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [sabrinaluo/gatsby-theme-replica](https://github.com/sabrinaluo/gatsby-theme-replica) - :octocat: Github style replication for gatsby theme https://hiitea.io/tech/
 - [zenozeng/fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
 - [boojack/insmemo](https://github.com/boojack/insmemo) - Memos Backend
