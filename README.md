@@ -38,10 +38,10 @@
   - [Haskell](#haskell)
   - [TeX](#tex)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Svelte](#svelte)
   - [Vim script](#vim-script)
   - [Clojure](#clojure)
   - [SCSS](#scss)
-  - [Svelte](#svelte)
   - [CoffeeScript](#coffeescript)
   - [Dockerfile](#dockerfile)
   - [PowerShell](#powershell)
@@ -148,7 +148,6 @@
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Mran/neno](https://github.com/Mran/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
 - [drumnickydrum/sequencer64](https://github.com/drumnickydrum/sequencer64) - 64-step sequencer PWA
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [dmo60/CoverflowAltTab](https://github.com/dmo60/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell and Cinnamon
@@ -622,7 +621,7 @@
 
 - [boyan01/flutter-netease-music](https://github.com/boyan01/flutter-netease-music) - flutter music player application. (仿网易云音乐)
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
-- [biyidev/biyi_app](https://github.com/biyidev/biyi_app) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
+- [biyidev/biyi](https://github.com/biyidev/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Rust 
@@ -1026,6 +1025,13 @@
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 
+## Svelte 
+
+- [Mran/neno](https://github.com/Mran/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
+- [djyde/plastic-editor](https://github.com/djyde/plastic-editor) - A block-based editor
+- [djyde/plastic](https://github.com/djyde/plastic) - Another note app. Block based, bi-directional link, works on local.
+- [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
+
 ## Vim script 
 
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
@@ -1049,12 +1055,6 @@
 - [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
 - [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
-
-## Svelte 
-
-- [djyde/plastic-editor](https://github.com/djyde/plastic-editor) - A block-based editor
-- [djyde/plastic](https://github.com/djyde/plastic) - Another note app. Block based, bi-directional link, works on local.
-- [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
 
 ## CoffeeScript 
 
