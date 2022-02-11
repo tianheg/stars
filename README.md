@@ -111,7 +111,7 @@
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [tianheg/random-blog](https://github.com/tianheg/random-blog) - mainly use jQuery
+- [tianheg/random-blog](https://github.com/tianheg/random-blog) - 
 - [beauhaus/Nephele](https://github.com/beauhaus/Nephele) - A react tool to accompany CSS-Tricks article on creating clouds with SVG Filters
 - [alibaba/f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
@@ -937,7 +937,7 @@
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [getlantern/lantern-binaries](https://github.com/getlantern/lantern-binaries) - Lantern installers binary downloads.
+- [getlantern/lantern-binaries-archive](https://github.com/getlantern/lantern-binaries-archive) - Lantern installers binary downloads.
 
 ## Java 
 
