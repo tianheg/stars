@@ -59,6 +59,10 @@
 
 ## Emacs Lisp 
 
+- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
+- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
 - [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
 - [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
