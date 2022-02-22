@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Rust](#rust)
   - [Go](#go)
   - [JavaScript](#javascript)
   - [Emacs Lisp](#emacs-lisp)
@@ -21,7 +22,6 @@
   - [Nunjucks](#nunjucks)
   - [Ruby](#ruby)
   - [Dart](#dart)
-  - [Rust](#rust)
   - [Shell](#shell)
   - [Java](#java)
   - [QML](#qml)
@@ -56,6 +56,21 @@
   - [Less](#less)
   - [Roff](#roff)
   - [VBScript](#vbscript)
+
+## Rust 
+
+- [flxzt/rnote](https://github.com/flxzt/rnote) - A simple drawing application to create handwritten notes.
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
+- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 
 ## Go 
 
@@ -338,7 +353,6 @@
 - [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest) - Weekly summary of activity on your GitHub repository :calendar:
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [rstudio/bookdown](https://github.com/rstudio/bookdown) - Authoring Books and Technical Documents with R Markdown
-- [spencerwooo/substats](https://github.com/spencerwooo/substats) - 📈📉 Shhhh...we're counting your subscribers!
 - [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
 - [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
 - [jgallen23/toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
@@ -492,6 +506,7 @@
 - [Automattic/simplenote-electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [scastiel/3d-book-image-css-generator](https://github.com/scastiel/3d-book-image-css-generator) - Generate a 3D image from a book cover and export to HTML/CSS to embed on your website.
+- [spencerwooo/substats](https://github.com/spencerwooo/substats) - ( ｀д′) how many followers do i have? how many!
 - [Arlen22/TiddlyServer](https://github.com/Arlen22/TiddlyServer) - v2 - A static file server that can also save files and mount TiddlyWiki folders
 - [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
@@ -874,20 +889,6 @@
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
 - [biyidev/biyi](https://github.com/biyidev/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## Rust 
-
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
-- [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 
 ## Shell 
 
