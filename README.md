@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Emacs Lisp](#emacs-lisp)
   - [Python](#python)
   - [C++](#c++)
   - [Others](#others)
@@ -13,7 +14,6 @@
   - [Rust](#rust)
   - [Go](#go)
   - [JavaScript](#javascript)
-  - [Emacs Lisp](#emacs-lisp)
   - [TypeScript](#typescript)
   - [CSS](#css)
   - [HTML](#html)
@@ -56,6 +56,24 @@
   - [Less](#less)
   - [Roff](#roff)
   - [VBScript](#vbscript)
+
+## Emacs Lisp 
+
+- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
+- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
+- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
+- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
+- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
+- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
+- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
+- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
+- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese and English characters.
+- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
+- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+- [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
 ## Python 
 
@@ -697,23 +715,6 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
-
-## Emacs Lisp 
-
-- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
-- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
-- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
-- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
-- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
-- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese and English characters.
-- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [hlissner/doom-emacs](https://github.com/hlissner/doom-emacs) - An Emacs framework for the stubborn martian hacker
-- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
-- [redguardtoo/emacs.d](https://github.com/redguardtoo/emacs.d) - Fast and robust Emacs setup.
 
 ## TypeScript 
 
