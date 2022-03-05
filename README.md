@@ -59,6 +59,7 @@
 
 ## JavaScript 
 
+- [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [izackwu/gatsby-starter-breeze](https://github.com/izackwu/gatsby-starter-breeze) - A Gatsby starter for graceful blogging in Chinese.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
@@ -70,7 +71,6 @@
 - [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
 - [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
 - [VerifiedJoseph/Save-to-the-Wayback-Machine](https://github.com/VerifiedJoseph/Save-to-the-Wayback-Machine) - Browser extension for quickly saving web pages to the Internet Archive's Wayback Machine.
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [AliasIO/wappalyzer](https://github.com/AliasIO/wappalyzer) - Identify technology on websites.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
@@ -110,7 +110,7 @@
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
 - [keginx/species-in-pieces](https://github.com/keginx/species-in-pieces) - 中文版30种濒危动物碎片拼图。该作品是阿姆斯特丹设计师 Bryan James用纯CSS技术表现出30种动物的碎片拼图形象，这30动物，非常的可爱，但不幸的是，它们都是濒临灭绝的动物，它们的生存情况正面临着危机。   你能看到它们在挣扎，它们在反抗...  它们在这个互动的作品里申诉...
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in social media \ websites
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in +1000 social media \ websites
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
 - [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
@@ -156,6 +156,7 @@
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [javierbyte/pintr](https://github.com/javierbyte/pintr) - Create single line SVG illustrations from your pictures
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -378,7 +379,6 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Idnan/bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash
 - [resumejob/awesome-resume](https://github.com/resumejob/awesome-resume) - Resume，Resume Templates，程序员简历例句，简历模版，
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [matchai/awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists) - 📌✨ A collection of awesome dynamic pinned gists for GitHub
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -809,6 +809,7 @@
 
 - [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
 - [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Mermaid diagrams in yours sphinx powered docs
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) - Autodoc-style extraction into Sphinx for your JS project
 - [MoserMichael/duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
 - [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
