@@ -59,6 +59,7 @@
 
 ## JavaScript 
 
+- [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [izackwu/gatsby-starter-breeze](https://github.com/izackwu/gatsby-starter-breeze) - A Gatsby starter for graceful blogging in Chinese.
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -79,7 +80,6 @@
 - [forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net) - The best free email forwarding for custom domains (Web Server)
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [tianheg/random-blog](https://github.com/tianheg/random-blog) - 
 - [beauhaus/Nephele](https://github.com/beauhaus/Nephele) - A react tool to accompany CSS-Tricks article on creating clouds with SVG Filters
 - [alibaba/f2etest](https://github.com/alibaba/f2etest) - F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
@@ -352,6 +352,7 @@
 
 ## Others 
 
+- [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub) - :octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [RefactoringCombos/ArlosCommitNotation](https://github.com/RefactoringCombos/ArlosCommitNotation) - A notation for small commits messages that show the risk involved in each step
