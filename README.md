@@ -5,8 +5,8 @@
 
 ## Contents
 
-  - [C](#c)
   - [JavaScript](#javascript)
+  - [C](#c)
   - [Shell](#shell)
   - [Python](#python)
   - [C++](#c++)
@@ -14,8 +14,8 @@
   - [Haskell](#haskell)
   - [Rust](#rust)
   - [CSS](#css)
-  - [HTML](#html)
   - [Vue](#vue)
+  - [HTML](#html)
   - [Ren'Py](#ren'py)
   - [Others](#others)
   - [Java](#java)
@@ -58,40 +58,9 @@
   - [Roff](#roff)
   - [VBScript](#vbscript)
 
-## C 
-
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
-- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
-- [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-
 ## JavaScript 
 
+- [remcohaszing/gatsby-remark-mermaid](https://github.com/remcohaszing/gatsby-remark-mermaid) - 
 - [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -405,6 +374,38 @@
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
+
+## C 
+
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
+- [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [lwindolf/liferea](https://github.com/lwindolf/liferea) - Liferea (Linux Feed Reader), a news reader for GTK/GNOME
+- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- Linux kernel networking debugger
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
+- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
+- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
+- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
+- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
+- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
+- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
+- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
+- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
+- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
 
 ## Shell 
 
@@ -783,9 +784,21 @@
 - [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
+## Vue 
+
+- [daidr/truth-table](https://github.com/daidr/truth-table) - 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [zhaoyiming0803/VueNode](https://github.com/zhaoyiming0803/VueNode) - VueNode is a project of front and backend separation that building on TypeScript + Vue.js@3.x + node.js + MySQL
+- [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
+- [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
+- [P3trur0/vuemodoro](https://github.com/P3trur0/vuemodoro) - Vue component implementing a Pomodoro timer
+- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
+- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
+- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
+
 ## HTML 
 
-- [idealclover/Merger-Plus](https://github.com/idealclover/Merger-Plus) - 💸一键从电脑/手机跳转至支付宝/微信支付的能力，帮助个人开发者完成打赏功能实现。
 - [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) - Test suites for Web platform specs — including WHATWG, W3C, and others
 - [frontend-rescue/keep-up-to-date](https://github.com/frontend-rescue/keep-up-to-date) - How to keep up to date on Front-end Technologies? - The Recipe
@@ -843,19 +856,6 @@
 - [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 - [reuixiy/io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
-## Vue 
-
-- [daidr/truth-table](https://github.com/daidr/truth-table) - 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)
-- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-- [zhaoyiming0803/VueNode](https://github.com/zhaoyiming0803/VueNode) - VueNode is a project of front and backend separation that building on TypeScript + Vue.js@3.x + node.js + MySQL
-- [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
-- [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
-- [P3trur0/vuemodoro](https://github.com/P3trur0/vuemodoro) - Vue component implementing a Pomodoro timer
-- [Requarks/wiki](https://github.com/Requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
-- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
-
 ## Ren'Py 
 
 - [freeCodeCamp/LearnToCodeRPG](https://github.com/freeCodeCamp/LearnToCodeRPG) - A visual novel video game where you learn to code and get a dev job 🎯
@@ -881,7 +881,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
 - [lazyparser/minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader) - 极简主义团队管理操作手册
-- [lmk123/crx-selection-translate](https://github.com/lmk123/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
+- [hcfyapp/crx-selection-translate](https://github.com/hcfyapp/crx-selection-translate) - 一站式划词 / 截图 / 网页全文 / 音视频翻译扩展。
 - [baurine/language-study](https://github.com/baurine/language-study) - Learn foreign language
 - [ouyangzhiping/awesome-cognitive-science](https://github.com/ouyangzhiping/awesome-cognitive-science) - 
 - [francoism90/awesome-kde](https://github.com/francoism90/awesome-kde) - A curated list of awesome apps, extensions, modules, themes and tools for the KDE Desktop Environment.
