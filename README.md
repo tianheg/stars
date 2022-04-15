@@ -5,8 +5,10 @@
 
 ## Contents
 
-  - [Go](#go)
+  - [Python](#python)
   - [TypeScript](#typescript)
+  - [Ruby](#ruby)
+  - [Go](#go)
   - [JavaScript](#javascript)
   - [CSS](#css)
   - [Dart](#dart)
@@ -16,7 +18,6 @@
   - [Others](#others)
   - [Vue](#vue)
   - [Shell](#shell)
-  - [Python](#python)
   - [Emacs Lisp](#emacs-lisp)
   - [C++](#c++)
   - [Dockerfile](#dockerfile)
@@ -29,7 +30,6 @@
   - [Pug](#pug)
   - [Awk](#awk)
   - [Nunjucks](#nunjucks)
-  - [Ruby](#ruby)
   - [QML](#qml)
   - [Lua](#lua)
   - [C#](#c#)
@@ -59,39 +59,126 @@
   - [Roff](#roff)
   - [VBScript](#vbscript)
 
-## Go 
+## Python 
 
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [tomodian/release](https://github.com/tomodian/release) - A command-line utility to manage Keepachangelog formatted changelogs. Written in Go, works nicely on Monorepo.
-- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
-- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
-- [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
-- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+- [python/cpython](https://github.com/python/cpython) - The Python programming language
+- [tianheg/tianheg](https://github.com/tianheg/tianheg) - 
+- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
+- [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
+- [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Mermaid diagrams in yours sphinx powered docs
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) - Autodoc-style extraction into Sphinx for your JS project
+- [MoserMichael/duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
+- [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
+- [aquadzn/learn-x-by-doing-y](https://github.com/aquadzn/learn-x-by-doing-y) - 🛠️ Learn a technology X by doing a project  - Search engine of project-based learning
+- [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
+- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
+- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
+- [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+- [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
+- [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
+- [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
+- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
+- [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
+- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
+- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
+- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
+- [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
+- [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
+- [SEIAROTg/autobean](https://github.com/SEIAROTg/autobean) - A collection of plugins and scripts that help automating bookkeeping with beancount
+- [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
+- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
+- [CrossNox/m2r2](https://github.com/CrossNox/m2r2) - Markdown to reStructuredText converter
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
+- [Vim-cn/elimage](https://github.com/Vim-cn/elimage) - An image paste web service. (https://git.io/img)
+- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock) - Pomodoro 番茄工作法 https://en.wikipedia.org/wiki/Pomodoro_Technique
+- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
+- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
+- [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
+- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
+- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
+- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [xlzd/img2html](https://github.com/xlzd/img2html) - Convert image to HTML
+- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新，当前专注System基础、MLSys。
+- [newcharacteryigit/projectidea-cli](https://github.com/newcharacteryigit/projectidea-cli) - You can find ideas easily with this CLI 💡
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
+- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
+- [yanglbme/actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python | 一个用于开发 GitHub Actions 的工具库
+- [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
+- [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
+- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
+- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
+- [miaotony/BlogArchives](https://github.com/miaotony/BlogArchives) - Archives of MiaoTony's Blog. 博客文章归档，基于 GitHub Action 定期自动更新。
+- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
+- [TideSec/TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
+- [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
+- [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
+- [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [crifan/gitbook_template](https://github.com/crifan/gitbook_template) - 演示如何使用crifan的gitbook的模板去创建自己的gitbook电子书
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
+- [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
+- [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
+- [vineetjohn/daily-coding-problem](https://github.com/vineetjohn/daily-coding-problem) - Solutions to problems sent by dailycodingproblem.com
+- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
+- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
+- [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
+- [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
+- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
+- [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
+- [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
+- [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
+- [richshaw2015/oh-my-rss](https://github.com/richshaw2015/oh-my-rss) - A online RSS service
+- [kingbase/bilingual-pdf](https://github.com/kingbase/bilingual-pdf) - 由英文PDF生成双语PDF，回归母语加速长篇英文阅读！
+- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
+- [Prodesire/face-mask](https://github.com/Prodesire/face-mask) - Wear face masks in the given picture.
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
+- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+- [NacedWang/163MusicSpider](https://github.com/NacedWang/163MusicSpider) - 一个获取网易云音乐歌手、专辑、歌曲、评论、歌词等数据的Python爬虫
+- [Higurashi-kagome/pythontools](https://github.com/Higurashi-kagome/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号...
+- [JimSunJing/douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
+- [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
+- [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
+- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
 
 ## TypeScript 
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
@@ -217,6 +304,53 @@
 - [thomasloven/lovelace-layout-card](https://github.com/thomasloven/lovelace-layout-card) - 🔹 Get more control over the placement of lovelace cards.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
+
+## Ruby 
+
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
+- [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Over The Air Server for deployment of Android, iOS and macOS apps
+- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
+- [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
+- [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
+- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
+- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
+- [github/grit](https://github.com/github/grit) - Grit gives you object oriented read/write access to Git repositories via Ruby.
+
+## Go 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [tomodian/release](https://github.com/tomodian/release) - A command-line utility to manage Keepachangelog formatted changelogs. Written in Go, works nicely on Monorepo.
+- [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
+- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.
+- [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 profile README / pined gist。
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## JavaScript 
 
@@ -850,121 +984,6 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [getlantern/lantern-binaries-archive](https://github.com/getlantern/lantern-binaries-archive) - Lantern installers binary downloads.
 
-## Python 
-
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-- [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [tianheg/tianheg](https://github.com/tianheg/tianheg) - 
-- [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
-- [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
-- [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid) - Mermaid diagrams in yours sphinx powered docs
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) - Autodoc-style extraction into Sphinx for your JS project
-- [MoserMichael/duckduckbang](https://github.com/MoserMichael/duckduckbang) - Meta search page that utilises duckduckgo !bang query operators.
-- [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder
-- [aquadzn/learn-x-by-doing-y](https://github.com/aquadzn/learn-x-by-doing-y) - 🛠️ Learn a technology X by doing a project  - Search engine of project-based learning
-- [muzi502/kindle](https://github.com/muzi502/kindle) - kindle 标注笔记
-- [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) - 🎬 人人影视bot，完全对接人人影视全部无删减资源
-- [farrokhi/dnsdiag](https://github.com/farrokhi/dnsdiag) - DNS Measurement, Troubleshooting and Security Auditing Toolset
-- [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible for DevOps examples.
-- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-- [0k/shyaml](https://github.com/0k/shyaml) - YAML for command line
-- [ekalinin/nodeenv](https://github.com/ekalinin/nodeenv) - Virtual environment for Node.js & integrator with virtualenv
-- [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm) - Social reading and reviewing, decentralized with ActivityPub
-- [SathyaBhat/spotify-dl](https://github.com/SathyaBhat/spotify-dl) - Downloads songs from your Spotify Playlist
-- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
-- [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [feeluown/FeelUOwn](https://github.com/feeluown/FeelUOwn) - trying to be a robust, user-friendly and hackable music player
-- [zhaoolee/garss](https://github.com/zhaoolee/garss) - Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页
-- [doyensec/regexploit](https://github.com/doyensec/regexploit) - Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)
-- [SEIAROTg/autobean](https://github.com/SEIAROTg/autobean) - A collection of plugins and scripts that help automating bookkeeping with beancount
-- [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
-- [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
-- [CrossNox/m2r2](https://github.com/CrossNox/m2r2) - Markdown to reStructuredText converter
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
-- [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
-- [Vim-cn/elimage](https://github.com/Vim-cn/elimage) - An image paste web service. (https://git.io/img)
-- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
-- [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock) - Pomodoro 番茄工作法 https://en.wikipedia.org/wiki/Pomodoro_Technique
-- [CollegesChat/university-information](https://github.com/CollegesChat/university-information) - 收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-- [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
-- [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running. Based on CMatrix.
-- [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
-- [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client) - Python command-line client for tldr pages
-- [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [xlzd/img2html](https://github.com/xlzd/img2html) - Convert image to HTML
-- [huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes) - 我的自学笔记，终身更新，当前专注System基础、MLSys。
-- [newcharacteryigit/projectidea-cli](https://github.com/newcharacteryigit/projectidea-cli) - You can find ideas easily with this CLI 💡
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
-- [xflux-gui/fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux
-- [yanglbme/actions-toolkit](https://github.com/yanglbme/actions-toolkit) - 🛠 The GitHub ToolKit for developing GitHub Actions in Python | 一个用于开发 GitHub Actions 的工具库
-- [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
-- [pjialin/py12306](https://github.com/pjialin/py12306) - 🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理
-- [ml-tooling/best-of-python](https://github.com/ml-tooling/best-of-python) - 🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.
-- [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
-- [miaotony/BlogArchives](https://github.com/miaotony/BlogArchives) - Archives of MiaoTony's Blog. 博客文章归档，基于 GitHub Action 定期自动更新。
-- [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- [wangzheng0822/algo](https://github.com/wangzheng0822/algo) - 数据结构和算法必知必会的50个代码实现
-- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [mikepqr/resume.md](https://github.com/mikepqr/resume.md) - Write your resume in Markdown, style it with CSS, output to HTML and PDF
-- [TideSec/TideFinger](https://github.com/TideSec/TideFinger) - TideFinger——指纹识别小工具，汲取整合了多个web指纹库，结合了多种指纹检测方法，让指纹检测更快捷、准确。
-- [EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-- [jjjake/internetarchive](https://github.com/jjjake/internetarchive) - A Python and Command-Line Interface to Archive.org
-- [paolo-projects/unlocker](https://github.com/paolo-projects/unlocker) - VMware Workstation macOS
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [crifan/gitbook_template](https://github.com/crifan/gitbook_template) - 演示如何使用crifan的gitbook的模板去创建自己的gitbook电子书
-- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
-- [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
-- [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
-- [vineetjohn/daily-coding-problem](https://github.com/vineetjohn/daily-coding-problem) - Solutions to problems sent by dailycodingproblem.com
-- [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
-- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
-- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
-- [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
-- [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
-- [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
-- [kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider) - INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。
-- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
-- [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
-- [richshaw2015/oh-my-rss](https://github.com/richshaw2015/oh-my-rss) - A online RSS service
-- [kingbase/bilingual-pdf](https://github.com/kingbase/bilingual-pdf) - 由英文PDF生成双语PDF，回归母语加速长篇英文阅读！
-- [beancount/beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-- [Prodesire/face-mask](https://github.com/Prodesire/face-mask) - Wear face masks in the given picture.
-- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- [rushter/data-science-blogs](https://github.com/rushter/data-science-blogs) - A curated list of data science blogs
-- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python) - Practical Python Programming (course by @dabeaz)
-- [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
-- [NacedWang/163MusicSpider](https://github.com/NacedWang/163MusicSpider) - 一个获取网易云音乐歌手、专辑、歌曲、评论、歌词等数据的Python爬虫
-- [Higurashi-kagome/pythontools](https://github.com/Higurashi-kagome/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号...
-- [JimSunJing/douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
-- [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
-- [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
-
 ## Emacs Lisp 
 
 - [zerolfx/copilot.el](https://github.com/zerolfx/copilot.el) - An unofficial Copilot plugin for Emacs.
@@ -1110,21 +1129,6 @@
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-
-## Ruby 
-
-- [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Over The Air Server for deployment of Android, iOS and macOS apps
-- [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
-- [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
-- [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
-- [guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts) - A curated list of podcasts we like to listen to.
-- [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
-- [freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source) - A guide to contributing to open source
-- [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
-- [github/grit](https://github.com/github/grit) - Grit gives you object oriented read/write access to Git repositories via Ruby.
 
 ## QML 
 
