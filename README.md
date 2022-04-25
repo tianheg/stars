@@ -7,8 +7,9 @@
 
   - [JavaScript](#javascript)
   - [TypeScript](#typescript)
-  - [CSS](#css)
+  - [SCSS](#scss)
   - [Python](#python)
+  - [CSS](#css)
   - [Others](#others)
   - [Haskell](#haskell)
   - [Vue](#vue)
@@ -47,7 +48,6 @@
   - [CoffeeScript](#coffeescript)
   - [PowerShell](#powershell)
   - [Stylus](#stylus)
-  - [SCSS](#scss)
   - [R](#r)
   - [Open Policy Agent](#open-policy-agent)
   - [Scala](#scala)
@@ -61,6 +61,9 @@
 
 ## JavaScript 
 
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
+- [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [codewithsnowbit/mark2pdf](https://github.com/codewithsnowbit/mark2pdf) - 
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
@@ -220,7 +223,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 1950 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2022)
@@ -395,6 +398,9 @@
 
 ## TypeScript 
 
+- [mailgun/mailgun.js](https://github.com/mailgun/mailgun.js) - Javascript SDK for Mailgun
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
+- [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform terminal app from Visual Studio Code.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
@@ -503,7 +509,6 @@
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese
 - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
-- [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
@@ -526,45 +531,21 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 
-## CSS 
+## SCSS 
 
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
-- [hankchizljaw/modern-css-reset](https://github.com/hankchizljaw/modern-css-reset) - A bare-bones CSS reset for modern web development.
-- [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
-- [john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) - 
-- [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
-- [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner
-- [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
-- [revolunet/JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks
-- [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
-- [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
-- [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
-- [rupl/unfold](https://github.com/rupl/unfold) - Unfolding the Box Model — interactive slides exploring CSS 3D Transforms
-- [FelixBoiii/paper-plotter](https://github.com/FelixBoiii/paper-plotter) - website to create pdf's for 3d functions
-- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
-- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
-- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
-- [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
-- [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
-- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
-- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
-- [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
-- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
-- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
-- [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
-- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
-- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
-- [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
+- [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
+- [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
+- [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+- [Ivysauro/CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
+- [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [BookStackApp/website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
+- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
+- [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 
 ## Python 
 
+- [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [emacs-eaf/eaf-git](https://github.com/emacs-eaf/eaf-git) - Fastest Git client for Emacs.
 - [tianheg/running](https://github.com/tianheg/running) - I'm running! 🏃
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -681,6 +662,43 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
 - [hoochanlon/w3-goto-world](https://github.com/hoochanlon/w3-goto-world) - 🍅 Git/AWS/Google 镜像 ,SS/SSR/VMESS节点,WireGuard,IPFS, DeepWeb,Capitalism 、行业研究报告的知识储备库
+
+## CSS 
+
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex.
+- [hankchizljaw/modern-css-reset](https://github.com/hankchizljaw/modern-css-reset) - A bare-bones CSS reset for modern web development.
+- [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) - 『臆病な魔女は、Webサイトに魔法をかけた。』
+- [john-smilga/javascript-basic-projects](https://github.com/john-smilga/javascript-basic-projects) - 
+- [mezzoblue/csszengarden.com](https://github.com/mezzoblue/csszengarden.com) - The source of csszengarden.com
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner
+- [wentin/cssicon](https://github.com/wentin/cssicon) - icon set made with pure css code, no dependencies, "grab and go" icons
+- [revolunet/JSbooks](https://github.com/revolunet/JSbooks) - Directory of free JavaScript ebooks
+- [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
+- [gongzhitaao/orgcss](https://github.com/gongzhitaao/orgcss) - Simple and clean CSS for Org-exported HTML
+- [progit/progit2](https://github.com/progit/progit2) - Pro Git 2nd Edition
+- [rupl/unfold](https://github.com/rupl/unfold) - Unfolding the Box Model — interactive slides exploring CSS 3D Transforms
+- [FelixBoiii/paper-plotter](https://github.com/FelixBoiii/paper-plotter) - website to create pdf's for 3d functions
+- [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
+- [Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
+- [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
+- [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
+- [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
+- [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
+- [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
+- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
+- [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
+- [chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) - CSS Inspiration，在这里找到写 CSS 的灵感！
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API
+- [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
+- [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 ## Others 
 
@@ -1031,7 +1049,6 @@
 
 - [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
-- [gedoor/legado](https://github.com/gedoor/legado) - 阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with Android Jetpack.
 - [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
@@ -1242,17 +1259,6 @@
 ## Stylus 
 
 - [cyrilf/vuepress-theme-book](https://github.com/cyrilf/vuepress-theme-book) - A VuePress theme inspired by Gitbook
-
-## SCSS 
-
-- [karan/nojs.club](https://github.com/karan/nojs.club) - You don't need Javascript to make a beautiful, usable web. How it works: https://goel.io/nojs-club
-- [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
-- [Ivysauro/CNRT](https://github.com/Ivysauro/CNRT) - 中国轨道交通数据库（非技术类） - 另一角度看地铁/ Data base of China Rail Transit (Non-tech) - Another view of Rail Transit
-- [pages-themes/architect](https://github.com/pages-themes/architect) - Architect is a Jekyll theme for GitHub Pages
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [BookStackApp/website](https://github.com/BookStackApp/website) - The code for the main site, Includes BookStack docs.
-- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE10+).
-- [ahonn/hexo-theme-even](https://github.com/ahonn/hexo-theme-even) - :rocket:  A super concise theme for Hexo
 
 ## R 
 
