@@ -273,7 +273,7 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2022中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。
-- [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦
+- [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列 -- 这本小书会带你造 10 个非常实用的 npm 库 📦
 - [limboy/OhMyTimeline](https://github.com/limboy/OhMyTimeline) - 
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
@@ -361,6 +361,9 @@
 
 ## JavaScript 
 
+- [Vincent-P/firefox-better-history](https://github.com/Vincent-P/firefox-better-history) - A Better History page inspired by Vivaldi ⛺
+- [onemen/TabMixPlus](https://github.com/onemen/TabMixPlus) - New Tab mix plus for modern Firefox
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [XQDD/highlight_new_words](https://github.com/XQDD/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
@@ -876,6 +879,7 @@
 
 ## Python 
 
+- [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [epicmanmoo/leetcode-api](https://github.com/epicmanmoo/leetcode-api) - 
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [emacs-eaf/eaf-git](https://github.com/emacs-eaf/eaf-git) - Fastest Git client for Emacs.
