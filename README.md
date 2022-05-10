@@ -117,6 +117,7 @@
 - [mysql](#mysql)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
+- [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [npm](#npm)
@@ -664,6 +665,8 @@
 
 ## docker 
 
+- [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
+- [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1579,6 +1582,26 @@
 - [brianlovin/briOS](https://github.com/brianlovin/briOS) - My personal website.
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 
+## node 
+
+- [jakejarvis/hugo-extended](https://github.com/jakejarvis/hugo-extended) - ✏️ Plug-and-play Node.js wrapper for Hugo Extended, the awesomest static-site generator.
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, highly customizable, standard output format commitizen adapter.
+- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
+- [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
+- [Wscats/articles](https://github.com/Wscats/articles) - 🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆
+- [changhuixu/weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
+- [ibearye/talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
+- [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
+- [haizlin/fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），5000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
 ## nodejs 
 
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -1737,7 +1760,6 @@
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
-- [tianheg/tianheg](https://github.com/tianheg/tianheg) - 
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner
 - [byoungd/modern-vue-template](https://github.com/byoungd/modern-vue-template) - Modern Vue Stack 2022. Joyful development experience 🎉
@@ -1968,7 +1990,6 @@
 - [miaotony/Telegram-Channel-Mirror](https://github.com/miaotony/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-- [ibearye/talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
 - [wind-liang/leetcode](https://github.com/wind-liang/leetcode) - leetcode 顺序刷题，详细通俗题解，with JAVA
 - [gezhongran/DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
 - [headllines/producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
