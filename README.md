@@ -115,6 +115,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [node](#node)
@@ -754,7 +755,7 @@
 
 ## emoji 
 
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, highly customizable, standard output format commitizen adapter.
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter.
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -793,6 +794,7 @@
 
 ## firefox 
 
+- [daiyi/random-wikipedia-newtab-extension](https://github.com/daiyi/random-wikipedia-newtab-extension) - firefox extension that opens a random unusual wikipedia page in new tabs
 - [Vincent-P/firefox-better-history](https://github.com/Vincent-P/firefox-better-history) - A Better History page inspired by Vivaldi ⛺
 - [Rayquaza01/note-taker](https://github.com/Rayquaza01/note-taker) - A Firefox addon that adds a text box to a toolbar button for taking notes.
 - [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes) - Automatically change Firefox's theme based on the time
@@ -1149,6 +1151,7 @@
 
 ## http 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -1560,6 +1563,10 @@
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 - [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
 
+## neovim 
+
+- [makccr/dot](https://github.com/makccr/dot) - My dotfiles / default location for ricing configs.
+
 ## neural-network 
 
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
@@ -1584,7 +1591,7 @@
 
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [jakejarvis/hugo-extended](https://github.com/jakejarvis/hugo-extended) - ✏️ Plug-and-play Node.js wrapper for Hugo Extended, the awesomest static-site generator.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, highly customizable, standard output format commitizen adapter.
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter.
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
@@ -1603,13 +1610,14 @@
 
 ## nodejs 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, highly customizable, standard output format commitizen adapter.
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
