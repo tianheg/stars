@@ -228,6 +228,7 @@
 
 ## angular 
 
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 - [lokalise/i18n-ally](https://github.com/lokalise/i18n-ally) - 🌍 All in one i18n extension for VS Code
@@ -620,6 +621,7 @@
 
 ## database 
 
+- [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 
@@ -662,7 +664,7 @@
 ## django 
 
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 
 ## docker 
 
@@ -1201,6 +1203,7 @@
 
 ## javascript 
 
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
@@ -1516,7 +1519,7 @@
 - [guodongxiaren/README](https://github.com/guodongxiaren/README) - README文件语法解读，即Github Flavored Markdown语法介绍
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [MakerGYT/markdown-it-latex2img](https://github.com/MakerGYT/markdown-it-latex2img) - LaTex plugin for markdown-it markdown parser,Place LaTeX Math equation on anywhere as &lt;img&gt; tag.
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 
@@ -1536,10 +1539,11 @@
 
 ## mongodb 
 
+- [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
 - [rockmanvnx6/FireShare](https://github.com/rockmanvnx6/FireShare) - Real-time secure file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing.
-- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
+- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System
 - [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
 
 ## monitoring 
@@ -1564,7 +1568,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 💾 db-tutorial 是一个数据库教程。
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
+- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System
 
 ## neovim 
 
@@ -1696,6 +1700,9 @@
 
 ## others 
 
+- [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - 🔨 Notes on how to build side projects
+- [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
+- [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [SinghDigamber/vue-mevn-stack-app](https://github.com/SinghDigamber/vue-mevn-stack-app) - This is a step by step MEVN stack tutorial, in this tutorial, we are going to learn how to create MEVN stack app. (MongoDB, Express.js, Vue.js, Node.js).
 - [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online lofi music player
 - [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
@@ -2203,7 +2210,7 @@
 ## postgresql 
 
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
-- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统
+- [walinejs/waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System
 
 ## powershell 
 
@@ -2287,7 +2294,7 @@
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 适合于个人和中小型团队的在线文档、知识库系统。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
 - [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [JimSunJing/douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
@@ -2333,6 +2340,7 @@
 
 ## react 
 
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [Vincent-P/firefox-better-history](https://github.com/Vincent-P/firefox-better-history) - A Better History page inspired by Vivaldi ⛺
 - [Xhofe/alist](https://github.com/Xhofe/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
@@ -2598,6 +2606,7 @@
 
 ## terraform 
 
+- [mongodb-js/vscode](https://github.com/mongodb-js/vscode) - Connect to MongoDB and Atlas and directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
@@ -2679,6 +2688,8 @@
 
 ## vue 
 
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -2726,6 +2737,7 @@
 
 ## webpack 
 
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [zhaoyiming0803/VueNode](https://github.com/zhaoyiming0803/VueNode) - VueNode is a project of front and backend separation that building on TypeScript + Vue.js@3.x + node.js + MySQL
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
