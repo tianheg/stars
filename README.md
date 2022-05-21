@@ -1704,6 +1704,7 @@
 
 ## others 
 
+- [itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js) - 网页英文前部加粗 用户脚本
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - 🔨 Notes on how to build side projects
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
