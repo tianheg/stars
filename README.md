@@ -936,7 +936,7 @@
 - [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [0xPool/Gitter](https://github.com/0xPool/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
+- [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
@@ -955,7 +955,7 @@
 - [privatenumber/github-cdn](https://github.com/privatenumber/github-cdn) - 🛰 Github CDN Server
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [2016rshah/githubchart-api](https://github.com/2016rshah/githubchart-api) - :date: Embed github contributions chart as image
-- [0xPool/Gitter](https://github.com/0xPool/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
+- [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
@@ -1704,6 +1704,7 @@
 
 ## others 
 
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
 - [CatChen/eslint-suggestion-action](https://github.com/CatChen/eslint-suggestion-action) - 
 - [itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js) - 网页英文前部加粗 用户脚本
