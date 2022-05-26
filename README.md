@@ -1712,6 +1712,7 @@
 
 ## others 
 
+- [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
 - [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
 - [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
@@ -2698,6 +2699,7 @@
 
 ## visual-studio-code 
 
+- [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
 - [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [swdotcom/swdc-vscode-100-days-of-code](https://github.com/swdotcom/swdc-vscode-100-days-of-code) - A VS Code extension that helps you reach your goals in completing the 100 Days of Code challenge
