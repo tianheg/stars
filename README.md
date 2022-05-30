@@ -20,6 +20,8 @@
 - [azure](#azure)
 - [babel](#babel)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
+- [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
@@ -60,6 +62,7 @@
 - [emoji](#emoji)
 - [es6](#es6)
 - [eslint](#eslint)
+- [ethereum](#ethereum)
 - [express](#express)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -384,6 +387,14 @@
 - [picodotdev/alis](https://github.com/picodotdev/alis) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs unattended, automated and customized Arch Linux system.
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+## bitcoin 
+
+- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
+
+## blockchain 
+
+- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
 
 ## bootstrap 
 
@@ -791,6 +802,10 @@
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (May 2022)
 
+## ethereum 
+
+- [ArchLinuxStudio/ArchLinuxTutorial](https://github.com/ArchLinuxStudio/ArchLinuxTutorial) - ✨Arch Linux安装使用教程 每日实时更新！ | 包含ArchLinux从安装到日常使用、娱乐、编程、媒体制作的各个方面，让Arch成为你的常用系统吧！ | 提供在线网页文档 ✨
+
 ## express 
 
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -1029,6 +1044,8 @@
 
 ## hacktoberfest 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -1428,6 +1445,7 @@
 
 ## linux 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [abraunegg/onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
@@ -1482,6 +1500,7 @@
 
 ## macos 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
@@ -1718,6 +1737,7 @@
 
 ## others 
 
+- [tumashu/cnfonts](https://github.com/tumashu/cnfonts) - emacs中文字体配置工具。可以快速方便的的实现中文字体和英文字体等宽（也就是常说的中英文对齐）。
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -2505,6 +2525,7 @@
 
 ## security 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
@@ -2785,6 +2806,7 @@
 
 ## windows 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
