@@ -373,6 +373,7 @@
 
 ## bash 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
@@ -687,6 +688,7 @@
 
 ## docker 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [evertramos/nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
@@ -1044,6 +1046,7 @@
 
 ## hacktoberfest 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
@@ -1737,6 +1740,7 @@
 
 ## others 
 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [tumashu/cnfonts](https://github.com/tumashu/cnfonts) - emacs中文字体配置工具。可以快速方便的的实现中文字体和英文字体等宽（也就是常说的中英文对齐）。
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
@@ -2492,6 +2496,7 @@
 
 ## rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 - [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
@@ -2551,6 +2556,7 @@
 
 ## shell 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -2798,6 +2804,7 @@
 
 ## website 
 
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [zsdycs/lipk.org](https://github.com/zsdycs/lipk.org) - 李鹏坤的个人网站。基于 hugo 的博客网站，包括源代码及站点文件。
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
