@@ -1744,6 +1744,8 @@
 
 ## others 
 
+- [hanguokai/mdn-search](https://github.com/hanguokai/mdn-search) - a browser extension for MDN search
+- [tmplink/ipv6](https://github.com/tmplink/ipv6) - A document about ipv6.
 - [OfflineIMAP/offlineimap3](https://github.com/OfflineIMAP/offlineimap3) - Read/sync your IMAP mailboxes (python3)
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
