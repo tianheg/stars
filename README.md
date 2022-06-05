@@ -1744,6 +1744,8 @@
 
 ## others 
 
+- [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
+- [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [hanguokai/mdn-search](https://github.com/hanguokai/mdn-search) - a browser extension for MDN search
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - A document about ipv6.
 - [OfflineIMAP/offlineimap3](https://github.com/OfflineIMAP/offlineimap3) - Read/sync your IMAP mailboxes (python3)
