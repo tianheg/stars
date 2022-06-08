@@ -1757,6 +1757,8 @@
 
 ## others 
 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
+- [Zkdc/openwrt-tl-wdr5600-v2](https://github.com/Zkdc/openwrt-tl-wdr5600-v2) - 
 - [wez/evremap](https://github.com/wez/evremap) - A keyboard input remapper for Linux/Wayland systems, written by @wez
 - [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
