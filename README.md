@@ -1052,6 +1052,7 @@
 
 ## hacktoberfest 
 
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -1649,6 +1650,7 @@
 
 ## node 
 
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [jakejarvis/hugo-extended](https://github.com/jakejarvis/hugo-extended) - ✏️ Plug-and-play Node.js wrapper for Hugo Extended, the awesomest static-site generator.
@@ -1758,6 +1760,8 @@
 
 ## others 
 
+- [telegeography/www.submarinecablemap.com](https://github.com/telegeography/www.submarinecablemap.com) - Comprehensive interactive map of the world's major operating and planned submarine cable systems and landing stations, updated frequently.
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [vanyakosmos/discussed-on-hn](https://github.com/vanyakosmos/discussed-on-hn) - Browser extension for one-click check if current page was on HN (and submit with second click)
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [Zkdc/openwrt-tl-wdr5600-v2](https://github.com/Zkdc/openwrt-tl-wdr5600-v2) - 
