@@ -814,6 +814,7 @@
 
 ## express 
 
+- [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 - [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
@@ -1760,6 +1761,10 @@
 
 ## others 
 
+- [daiyu886/evil-man](https://github.com/daiyu886/evil-man) - 
+- [sun-jiao/Gender-Violence-in-China](https://github.com/sun-jiao/Gender-Violence-in-China) - 
+- [fajarFWD/workersproxy](https://github.com/fajarFWD/workersproxy) - 
+- [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [telegeography/www.submarinecablemap.com](https://github.com/telegeography/www.submarinecablemap.com) - Comprehensive interactive map of the world's major operating and planned submarine cable systems and landing stations, updated frequently.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [vanyakosmos/discussed-on-hn](https://github.com/vanyakosmos/discussed-on-hn) - Browser extension for one-click check if current page was on HN (and submit with second click)
@@ -2581,6 +2586,7 @@
 
 ## serverless 
 
+- [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [midwayjs/midway](https://github.com/midwayjs/midway) - 🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Alibaba Cloud, Tencent Cloud and traditional VM/Container. Super easy integra
