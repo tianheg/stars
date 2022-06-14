@@ -1053,6 +1053,7 @@
 
 ## hacktoberfest 
 
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -1431,6 +1432,7 @@
 
 ## laravel 
 
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 
 ## latex 
@@ -1761,6 +1763,7 @@
 
 ## others 
 
+- [amirgamil/zk-crush](https://github.com/amirgamil/zk-crush) - Tell your crush you like them with zero-knowledge
 - [daiyu886/evil-man](https://github.com/daiyu886/evil-man) - 
 - [sun-jiao/Gender-Violence-in-China](https://github.com/sun-jiao/Gender-Violence-in-China) - 
 - [fajarFWD/workersproxy](https://github.com/fajarFWD/workersproxy) - 
@@ -2784,6 +2787,8 @@
 
 ## vue 
 
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
+- [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.
