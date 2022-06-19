@@ -197,12 +197,12 @@
 
 ## ai 
 
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 
 ## algorithm 
 
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -654,7 +654,6 @@
 
 ## deep-learning 
 
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 
 ## deployment 
@@ -1254,6 +1253,8 @@
 
 ## javascript 
 
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
 - [SamirPaul1/music](https://github.com/SamirPaul1/music) - ♫♪ Music Player🎸 is a simple project developed using JavaScript, CSS, and HTML. This project is an interesting project for listening to our self-made songs collection app.  The user can click the Forw
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
@@ -1398,6 +1399,7 @@
 
 ## js 
 
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1437,6 +1439,7 @@
 
 ## language 
 
+- [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## laravel 
@@ -1776,6 +1779,9 @@
 
 ## others 
 
+- [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
+- [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
+- [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
 - [lfades/static-tweet](https://github.com/lfades/static-tweet) - 
 - [kevquirk/512kb.club](https://github.com/kevquirk/512kb.club) - Website for the 512 KB Club
 - [darobin/notion-backup](https://github.com/darobin/notion-backup) - Simple command to backup a Notion workspace
@@ -1931,7 +1937,6 @@
 - [RefactoringCombos/ArlosCommitNotation](https://github.com/RefactoringCombos/ArlosCommitNotation) - A notation for small commits messages that show the risk involved in each step
 - [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) - Autodoc-style extraction into Sphinx for your JS project
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
-- [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
@@ -2427,7 +2432,6 @@
 
 ## pytorch 
 
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work
 
