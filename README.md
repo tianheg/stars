@@ -267,6 +267,7 @@
 
 ## atom 
 
+- [nju-lug/blogroll](https://github.com/nju-lug/blogroll) - 南京大学 Linux User Group 收集同学和校友们的 Blog
 - [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
 
 ## automation 
