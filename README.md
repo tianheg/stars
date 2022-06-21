@@ -1780,6 +1780,11 @@
 
 ## others 
 
+- [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO
+- [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
+- [jashkenas/coffeescript](https://github.com/jashkenas/coffeescript) - Unfancy JavaScript
+- [asm-js/validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
 - [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 - [wappalyzer/wappalyzer](https://github.com/wappalyzer/wappalyzer) - Identify technology on websites.
 - [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
