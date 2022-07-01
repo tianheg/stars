@@ -1801,6 +1801,7 @@
 
 ## others 
 
+- [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
 - [duangsuse/WebExt-URLReplace](https://github.com/duangsuse/WebExt-URLReplace) - Replace URL by regex pattern mapping
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [reuixiy/o3swap-circle-animation](https://github.com/reuixiy/o3swap-circle-animation) - https://io-oi.me/tech/circles-animation
