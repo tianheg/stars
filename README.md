@@ -482,7 +482,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [thesephist/rush](https://github.com/thesephist/rush) - Rush lets you work on many files at once
 - [jakejarvis/hugo-extended](https://github.com/jakejarvis/hugo-extended) - ✏️ Plug-and-play Node.js wrapper for Hugo Extended, the awesomest static-site generator.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 More engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -799,7 +799,7 @@
 
 ## emoji 
 
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 More engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
@@ -1728,7 +1728,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [jakejarvis/hugo-extended](https://github.com/jakejarvis/hugo-extended) - ✏️ Plug-and-play Node.js wrapper for Hugo Extended, the awesomest static-site generator.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 More engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
 - [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in,
@@ -1762,7 +1762,7 @@
 - [maildev/maildev](https://github.com/maildev/maildev) - :mailbox: SMTP Server + Web Interface for viewing and testing emails during development.
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 A more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 More engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
 - [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -1840,6 +1840,8 @@
 
 ## others 
 
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [jordienr/whatamesh](https://github.com/jordienr/whatamesh) - tool to create mesh gradients
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
