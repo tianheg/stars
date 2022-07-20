@@ -388,6 +388,7 @@
 
 ## JavaScript 
 
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
 - [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
 - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
