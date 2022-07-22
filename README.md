@@ -412,7 +412,7 @@
 - [duangsuse/WebExt-URLReplace](https://github.com/duangsuse/WebExt-URLReplace) - Replace URL by regex pattern mapping
 - [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [yannliao/threejs-example-for-miniprogram](https://github.com/yannliao/threejs-example-for-miniprogram) - 这是一个 three.js 在微信小程序里的使用示例
 - [yannliao/threejs.miniprogram](https://github.com/yannliao/threejs.miniprogram) - JavaScript 3D library.  Three.js for wechat miniprogram
 - [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO
