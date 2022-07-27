@@ -281,6 +281,7 @@
 
 ## HTML 
 
+- [css-naked-day/css-naked-day.github.io](https://github.com/css-naked-day/css-naked-day.github.io) - Show off your sexy &lt;body&gt;!
 - [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [wkei/the-tab-of-words](https://github.com/wkei/the-tab-of-words) - A minimal Chrome / Firefox extension to help you learn Japanese words in each new tab.
@@ -396,6 +397,7 @@
 
 ## JavaScript 
 
+- [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
