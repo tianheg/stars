@@ -411,6 +411,8 @@
 
 ## JavaScript 
 
+- [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
+- [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io
@@ -1013,6 +1015,7 @@
 
 ## Python 
 
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [dottedmag/archmage](https://github.com/dottedmag/archmage) - CHM format converter
 - [jblakeman/apt-select](https://github.com/jblakeman/apt-select) - Ubuntu Archive Mirror reporting tool for apt sources configuration.
 - [biolab/orange3](https://github.com/biolab/orange3) - 🍊 :bar_chart: :bulb: Orange: Interactive data analysis
@@ -1219,6 +1222,7 @@
 
 ## Shell 
 
+- [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi) - Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)
 - [taoso/lehu](https://github.com/taoso/lehu) - 
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [jinwyp/one_click_script](https://github.com/jinwyp/one_click_script) - 一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script
@@ -1315,6 +1319,8 @@
 
 ## TypeScript 
 
+- [VecHK/poker-search](https://github.com/VecHK/poker-search) - 一款能让你一次开启复数窗口，在各种网站进行站内搜索的 Chrome 扩展插件。灵感来自于 Smartisan TNT 发牌手
+- [wkillerud/vscode-scss](https://github.com/wkillerud/vscode-scss) - Some Sass provides code suggestions, documentation and code navigation for modern SCSS. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
 - [FallenMax/smart-toc](https://github.com/FallenMax/smart-toc) - A Chrome extension for auto-generating a table of contents
 - [algolia/hn-search](https://github.com/algolia/hn-search) - Hacker News Search
 - [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
