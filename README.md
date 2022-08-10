@@ -303,7 +303,6 @@
 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [css-naked-day/css-naked-day.github.io](https://github.com/css-naked-day/css-naked-day.github.io) - Show off your sexy &lt;body&gt;!
-- [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [wkei/the-tab-of-words](https://github.com/wkei/the-tab-of-words) - A minimal Chrome / Firefox extension to help you learn Japanese words in each new tab.
 - [SethClydesdale/genki-study-resources](https://github.com/SethClydesdale/genki-study-resources) - A collection of exercises for practicing what is taught in Genki: An Integrated Course in Elementary Japanese.
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.
@@ -416,6 +415,8 @@
 
 ## JavaScript 
 
+- [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
+- [foxyproxy/firefox-extension](https://github.com/foxyproxy/firefox-extension) - FoxyProxy for Firefox extension beginning with Firefox 57 (Quantum)
 - [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
 - [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
 - [SassDoc/sassdoc](https://github.com/SassDoc/sassdoc) - Release the docs!
@@ -1326,6 +1327,7 @@
 
 ## TypeScript 
 
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [VecHK/poker-search](https://github.com/VecHK/poker-search) - 一款能让你一次开启复数窗口，在各种网站进行站内搜索的 Chrome 扩展插件。灵感来自于 Smartisan TNT 发牌手
 - [wkillerud/vscode-scss](https://github.com/wkillerud/vscode-scss) - Some Sass provides code suggestions, documentation and code navigation for modern SCSS. Full support for `@use` and `@forward`, including aliases, prefixes and hiding.
@@ -1338,6 +1340,7 @@
 - [sheepzh/timer](https://github.com/sheepzh/timer) - 网费很贵 / Timer。最好用的统计上网时间的浏览器扩展。
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch images on the web
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘A super fast dictionary for Chrome/Firefox
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -1532,6 +1535,7 @@
 
 ## Vue 
 
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
