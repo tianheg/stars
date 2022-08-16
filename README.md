@@ -414,6 +414,7 @@
 
 ## JavaScript 
 
+- [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 - One Last Kiss 封面风格生成器
 - [tomhodgins/cssplus](https://github.com/tomhodgins/cssplus) - CSSplus is a collection of CSS Reprocessor plugins that dynamically update CSS variables
 - [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
 - [foxyproxy/firefox-extension](https://github.com/foxyproxy/firefox-extension) - FoxyProxy for Firefox extension beginning with Firefox 57 (Quantum)
@@ -1327,6 +1328,7 @@
 
 ## TypeScript 
 
+- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
 - [VecHK/poker-search](https://github.com/VecHK/poker-search) - 一款能让你一次开启复数窗口，在各种网站进行站内搜索的 Chrome 扩展插件。灵感来自于 Smartisan TNT 发牌手
