@@ -414,6 +414,8 @@
 
 ## JavaScript 
 
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 - One Last Kiss 封面风格生成器
 - [tomhodgins/cssplus](https://github.com/tomhodgins/cssplus) - CSSplus is a collection of CSS Reprocessor plugins that dynamically update CSS variables
 - [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
@@ -726,7 +728,7 @@
 - [Sneezry/OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
 - [listen1/listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
 - [junyux/FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
-- [anup-a/svgwave](https://github.com/anup-a/svgwave) - 🌊 SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your UI or website desgin. It offers dead simple UI to customize, and style your waves based on your theme specifications.
+- [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
 - [i5ting/yrm](https://github.com/i5ting/yrm) - YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 - [shfshanyue/wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
@@ -1165,7 +1167,7 @@
 ## Ruby 
 
 - [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/community/community/discussions/categories/code-security
-- [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Over The Air Server for deployment of Android, iOS and macOS apps
+- [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Self-hosted Beta App Distribution for Android, iOS and macOS apps
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [dato-ai/dato.rss](https://github.com/dato-ai/dato.rss) - The best RSS Search experience you can find
 - [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
@@ -1328,6 +1330,7 @@
 
 ## TypeScript 
 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [sofn-xyz/mailing](https://github.com/sofn-xyz/mailing) - Build, test, send emails with React
@@ -1364,7 +1367,6 @@
 - [haishanh/yacd](https://github.com/haishanh/yacd) - Yet Another Clash Dashboard
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [ruilisi/fortune-sheet](https://github.com/ruilisi/fortune-sheet) - A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets
 - [alefragnani/vscode-bookmarks](https://github.com/alefragnani/vscode-bookmarks) - Bookmarks Extension for Visual Studio Code
@@ -1539,6 +1541,7 @@
 - [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [one-tab-group/bookmark.style](https://github.com/one-tab-group/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
 - [SinghDigamber/vue-mevn-stack-app](https://github.com/SinghDigamber/vue-mevn-stack-app) - This is a step by step MEVN stack tutorial, in this tutorial, we are going to learn how to create MEVN stack app. (MongoDB, Express.js, Vue.js, Node.js).
 - [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
