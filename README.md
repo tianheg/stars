@@ -158,6 +158,7 @@
 
 ## CSS 
 
+- [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [ui-buttons/core](https://github.com/ui-buttons/core) - 100 Modern CSS Buttons. Every style that you can imagine.
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
@@ -258,7 +259,6 @@
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 - [soulteary/golang-playground](https://github.com/soulteary/golang-playground) - Play Golang in Web by Docker!
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
@@ -414,9 +414,10 @@
 
 ## JavaScript 
 
+- [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
-- [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 - One Last Kiss 封面风格生成器
+- [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
 - [tomhodgins/cssplus](https://github.com/tomhodgins/cssplus) - CSSplus is a collection of CSS Reprocessor plugins that dynamically update CSS variables
 - [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
 - [foxyproxy/firefox-extension](https://github.com/foxyproxy/firefox-extension) - FoxyProxy for Firefox extension beginning with Firefox 57 (Quantum)
@@ -687,7 +688,6 @@
 - [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xiaomingplus/producthunt-trending](https://github.com/xiaomingplus/producthunt-trending) - ProductHunt Trending
-- [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
@@ -1341,6 +1341,7 @@
 - [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [daybrush/scenejs-render](https://github.com/daybrush/scenejs-render) - 🎬 Make a movie of CSS animation through scenejs.
 - [sheepzh/timer](https://github.com/sheepzh/timer) - 网费很贵 / Timer。最好用的统计上网时间的浏览器扩展。
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch images on the web
