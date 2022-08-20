@@ -892,6 +892,7 @@
 
 ## Others 
 
+- [chenyukang/anxiety-handbook](https://github.com/chenyukang/anxiety-handbook) - 
 - [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1026,6 +1027,7 @@
 
 ## Python 
 
+- [mnot/redbot](https://github.com/mnot/redbot) - REDbot is lint for HTTP.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [dottedmag/archmage](https://github.com/dottedmag/archmage) - CHM format converter
