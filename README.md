@@ -418,6 +418,8 @@
 
 ## JavaScript 
 
+- [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [rbren/rss-parser](https://github.com/rbren/rss-parser) - A lightweight RSS parser, for Node and the browser
 - [jprichardson/node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
@@ -673,7 +675,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru) - 🔮 Screen Guru takes clean screenshot of any websites
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2300 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
@@ -897,6 +899,7 @@
 
 ## Others 
 
+- [staltz/ttosa](https://github.com/staltz/ttosa) - CSV data for Time Till Open Source Alternative
 - [jamiebuilds/babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [payloadbox/sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list) - 🎯 SQL Injection Payload List
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
@@ -1194,6 +1197,7 @@
 
 ## Rust 
 
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [Keats/tera](https://github.com/Keats/tera) - A template engine for Rust based on Jinja2/Django
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [moonrepo/moon](https://github.com/moonrepo/moon) - A build system for the JavaScript ecosystem, written in Rust.
@@ -1224,7 +1228,7 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki for desktop computers
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
 ## SCSS 
 
@@ -1343,6 +1347,11 @@
 
 ## TypeScript 
 
+- [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams
+- [apvarun/graphize](https://github.com/apvarun/graphize) - Visualize and download JSON / YAML content
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [Pushedskydiver/Colour-Contrast-Checker](https://github.com/Pushedskydiver/Colour-Contrast-Checker) - Check the contrast between different colour combinations against WCAG standards
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
