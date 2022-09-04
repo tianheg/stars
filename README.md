@@ -80,6 +80,8 @@
 
 ## C 
 
+- [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
+- [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
@@ -257,6 +259,7 @@
 
 ## Go 
 
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel.
@@ -421,6 +424,8 @@
 
 ## JavaScript 
 
+- [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
@@ -1044,6 +1049,7 @@
 
 ## Python 
 
+- [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [mnot/redbot](https://github.com/mnot/redbot) - REDbot is lint for HTTP.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
