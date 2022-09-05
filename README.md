@@ -80,6 +80,7 @@
 
 ## C 
 
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
@@ -424,6 +425,7 @@
 
 ## JavaScript 
 
+- [djyde/Picas](https://github.com/djyde/Picas) - Generate Wordmark Logo with Google Fonts
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
 - [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
