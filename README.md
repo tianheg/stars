@@ -5,12 +5,8 @@
 
 ## Contents
 
-- [AutoHotkey](#autohotkey)
 - [Awk](#awk)
-- [Batchfile](#batchfile)
-- [Bikeshed](#bikeshed)
 - [C](#c)
-- [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
@@ -62,90 +58,25 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
-## AutoHotkey 
-
-- [DannyBen/FlicFlac](https://github.com/DannyBen/FlicFlac) - Tiny Portable Audio Converter for Windows (WAV FLAC MP3 OGG APE M4A AAC)
-
 ## Awk 
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
-
-## Batchfile 
-
-- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-## Bikeshed 
-
-- [w3c/csswg-drafts](https://github.com/w3c/csswg-drafts) - CSS Working Group Editor Drafts
 
 ## C 
 
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [plougher/squashfs-tools](https://github.com/plougher/squashfs-tools) - tools to create and extract Squashfs filesystems
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
-- [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
-- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
-- [strace/strace](https://github.com/strace/strace) - strace is a diagnostic, debugging and instructional userspace utility for Linux
 - [wayland-project/wayland](https://github.com/wayland-project/wayland) - Core Wayland protocol and libraries (mirror)
-- [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
-- [vmware/open-vm-tools](https://github.com/vmware/open-vm-tools) - Official repository of VMware open-vm-tools project
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
-- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
-- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
-- [h2o/h2o](https://github.com/h2o/h2o) - H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [cilium/pwru](https://github.com/cilium/pwru) - Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [dvorka/hstr](https://github.com/dvorka/hstr) - bash and zsh shell history suggest box - easily view, navigate, search and manage your command history.
-- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
-- [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
-- [Dr-Noob/cpufetch](https://github.com/Dr-Noob/cpufetch) - Simple yet fancy CPU architecture fetching tool
-- [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
-- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [tomaspinho/rtl8821ce](https://github.com/tomaspinho/rtl8821ce) - 
-- [ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native) - 翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator
-- [jonls/redshift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. This may help your eyes hurt less if you are working in front of the screen at night.
-- [shadowsocks/ChinaDNS](https://github.com/shadowsocks/ChinaDNS) - Protect yourself against DNS poisoning in China.
-- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [fcitx/fcitx-rime](https://github.com/fcitx/fcitx-rime) - Rime support for Fcitx
-- [tostercx/GTAO_Booster_PoC](https://github.com/tostercx/GTAO_Booster_PoC) - 
-- [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-
-## C# # 
-
-- [GitCredentialManager/git-credential-manager](https://github.com/GitCredentialManager/git-credential-manager) - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-- [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-- [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 ## C++ 
 
-- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
-- [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) - Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com
-- [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [kelektiv/node.bcrypt.js](https://github.com/kelektiv/node.bcrypt.js) - bcrypt for NodeJs
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [mamedev/mame](https://github.com/mamedev/mame) - MAME
-- [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
-- [xournalpp/xournalpp](https://github.com/xournalpp/xournalpp) - Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from 
-- [qpdf/qpdf](https://github.com/qpdf/qpdf) - Primary QPDF source code and documentation
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
@@ -206,6 +137,7 @@
 
 ## Clojure 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## CoffeeScript 
@@ -1044,6 +976,7 @@
 
 ## Python 
 
+- [WaylonWalker/markata-todoui](https://github.com/WaylonWalker/markata-todoui) - a todo plugin for markata
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
@@ -1309,7 +1242,7 @@
 - [tj/n](https://github.com/tj/n) - Node version management
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
-- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [scott-joe/foam--workspace](https://github.com/scott-joe/foam--workspace) - 
 - [agkozak/zsh-z](https://github.com/agkozak/zsh-z) - Jump quickly to directories that you have visited "frecently." A native Zsh port of z.sh with added features.
