@@ -467,7 +467,7 @@
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [source-academy/sicp](https://github.com/source-academy/sicp) - XML sources of SICP and SICP JS, and support for generating Interactive SICP JS, PDF, e-book and comparison editions
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
-- [codewithsnowbit/mark2pdf](https://github.com/codewithsnowbit/mark2pdf) - 
+- [dhairyathedev/mark2pdf](https://github.com/dhairyathedev/mark2pdf) - 
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
