@@ -355,6 +355,7 @@
 
 ## JavaScript 
 
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images.
 - [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
@@ -396,7 +397,6 @@
 - [Infocatcher/Right_Links](https://github.com/Infocatcher/Right_Links) - Open links in new tabs using right-click or "long" left-click, extension for Firefox and SeaMonkey
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [jordienr/whatamesh](https://github.com/jordienr/whatamesh) - tool to create mesh gradients
-- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [bradtraversy/react_file_uploader](https://github.com/bradtraversy/react_file_uploader) - React and Express file uploader
@@ -1323,7 +1323,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [fromdeno/deno2node](https://github.com/fromdeno/deno2node) - Compile your Deno project to run on Node.js.
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - Remove all your unused GitHub project forks & repositories in just a few clicks
+- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - A collection of mini apps to help you get your GitHub repos sorted out ✨ Unfork easily!
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
