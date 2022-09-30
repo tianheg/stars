@@ -154,6 +154,7 @@
 
 ## Dart 
 
+- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
@@ -1029,7 +1030,7 @@
 - [LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking) - Study Notes For Web Hacking / Web安全学习笔记
 - [presslabs/gitfs](https://github.com/presslabs/gitfs) - Version controlled file system
 - [CrossNox/m2r2](https://github.com/CrossNox/m2r2) - Markdown to reStructuredText converter
-- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - Main repository for the Sphinx documentation builder
+- [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx) - The Sphinx documentation generator
 - [lilydjwg/nvchecker](https://github.com/lilydjwg/nvchecker) - New version checker for software releases
 - [Vim-cn/elimage](https://github.com/Vim-cn/elimage) - An image paste web service. (https://git.io/img)
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
