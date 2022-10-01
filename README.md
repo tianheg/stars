@@ -1304,7 +1304,7 @@
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe-table vue  表格解决方案
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [daybrush/scenejs-render](https://github.com/daybrush/scenejs-render) - 🎬 Make a movie of CSS animation through scenejs.
-- [sheepzh/timer](https://github.com/sheepzh/timer) - 网费很贵 / Timer。最好用的统计上网时间的浏览器扩展。
+- [sheepzh/timer](https://github.com/sheepzh/timer) - Timer/网费很贵, to be the BEST web timer.
 - [7PH/powerglitch](https://github.com/7PH/powerglitch) - Tiny JS library to glitch anything on the web
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [GoogleChromeLabs/container-query-polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill) - A polyfill for CSS Container Queries
@@ -1321,7 +1321,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [fromdeno/deno2node](https://github.com/fromdeno/deno2node) - Compile your Deno project to run on Node.js.
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - A collection of mini apps to help you get your GitHub repos sorted out ✨ Unfork easily!
+- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - A collection of mini apps to help you get your GitHub repos sorted out ✨ Unfork + Add Topics to your repos easily!
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
