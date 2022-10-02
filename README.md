@@ -1183,6 +1183,7 @@
 
 ## Shell 
 
+- [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [jameshgrn/zshnotes](https://github.com/jameshgrn/zshnotes) - A small, simple daily notes app for zsh
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [archlinux/archiso](https://github.com/archlinux/archiso) - Official archiso scripts Repository (read-only mirror)
