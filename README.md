@@ -994,7 +994,7 @@
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [epicmanmoo/leetcode-api](https://github.com/epicmanmoo/leetcode-api) - 
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
-- [emacs-eaf/eaf-git](https://github.com/emacs-eaf/eaf-git) - Fastest Git client for Emacs.
+- [emacs-eaf/eaf-git](https://github.com/emacs-eaf/eaf-git) - Fully multi-threaded git client for Emacs
 - [tianheg/running](https://github.com/tianheg/running) - I'm running! 🏃
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework) - EAF, an extensible framework that revolutionizes the graphical capabilities of Emacs
@@ -1322,7 +1322,7 @@
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [fromdeno/deno2node](https://github.com/fromdeno/deno2node) - Compile your Deno project to run on Node.js.
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - A collection of mini apps to help you get your GitHub repos sorted out ✨ Unfork + Add Topics to your repos easily!
+- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - Performs common use case GitHub operations on multiple repositories efficiently ✨ — Unfork & Add Topics to your repos
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
