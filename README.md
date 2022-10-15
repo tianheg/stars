@@ -820,6 +820,7 @@
 
 ## Markdown 
 
+- [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -872,7 +873,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [diegocard/awesome-html5](https://github.com/diegocard/awesome-html5) - :memo: A curated list of awesome HTML5 resources
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
