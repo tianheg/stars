@@ -1314,11 +1314,11 @@
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
-- [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 - [EnixCoda/Gitako](https://github.com/EnixCoda/Gitako) - 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [fromdeno/deno2node](https://github.com/fromdeno/deno2node) - Compile your Deno project to run on Node.js.
 - [markmap/markmap](https://github.com/markmap/markmap) - Visualize your Markdown as mindmaps with Markmap.
-- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - Perform GitHub operations on multiple repositories efficiently through a web UI 🐙
+- [lyqht/Octokit-lite](https://github.com/lyqht/Octokit-lite) - Perform GitHub operations on multiple repositories efficiently through a web UI 🐙 Made with Next ◭
 - [NotionX/react-notion-x](https://github.com/NotionX/react-notion-x) - Fast and accurate React renderer for Notion. TS batteries included. ⚡️
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
