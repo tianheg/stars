@@ -359,7 +359,6 @@
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images.
 - [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
-- [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
 - [djyde/Picas](https://github.com/djyde/Picas) - Generate Wordmark Logo with Google Fonts
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
