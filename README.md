@@ -1112,7 +1112,7 @@
 
 ## Ruby 
 
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/orgs/community/discussions/categories/code-security
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
 - [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Self-hosted Beta App Distribution for Android, iOS and macOS apps
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
