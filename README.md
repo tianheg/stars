@@ -141,7 +141,6 @@
 
 ## Dart 
 
-- [amake/orgro](https://github.com/amake/orgro) - An Org Mode file viewer for iOS and Android
 - [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 - [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
 - [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
@@ -1110,7 +1109,7 @@
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [saber-nyan/kernel-modules-hook](https://github.com/saber-nyan/kernel-modules-hook) - Keeps your Arch Linux fully functional after a kernel upgrade
 - [ilikenwf/apt-fast](https://github.com/ilikenwf/apt-fast) - apt-fast: A shellscript wrapper for apt that speeds up downloading of packages.
-- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Remote - Containers extension and GitHub Codespaces
+- [microsoft/vscode-dev-containers](https://github.com/microsoft/vscode-dev-containers) - A repository of development container definitions for the VS Code Dev Containers extension and GitHub Codespaces
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [TencentCloudBase/cloudbase-action](https://github.com/TencentCloudBase/cloudbase-action) - 云开发 Tencent CloudBase Github Action 可以将 Github 项目自动部署到云开发环境，基于 CloudBase Framework，支持静态网站、云函数、云托管、小程序等项目
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
