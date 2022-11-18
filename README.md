@@ -779,7 +779,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [wildskyf/caniuse-pop](https://github.com/wildskyf/caniuse-pop) - Access caniuse page by popup page
 - [daiyu886/evil-man](https://github.com/daiyu886/evil-man) - 
-- [sun-jiao/Gender-Violence-in-China](https://github.com/sun-jiao/Gender-Violence-in-China) - 
 - [Zkdc/openwrt-tl-wdr5600-v2](https://github.com/Zkdc/openwrt-tl-wdr5600-v2) - 
 - [tmplink/ipv6](https://github.com/tmplink/ipv6) - IPv6 文档
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
