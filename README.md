@@ -14,6 +14,7 @@
 - [D](#d)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [HTML](#html)
@@ -89,6 +90,7 @@
 
 ## CSS 
 
+- [mdo/table-grid](https://github.com/mdo/table-grid) - Simple CSS grid system using `display: table;`.
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
 - [seankross/the-unix-workbench](https://github.com/seankross/the-unix-workbench) - :house_with_garden: A Book for Anyone to Get Started with Unix
 - [csstools/postcss-plugins](https://github.com/csstools/postcss-plugins) - PostCSS Tools and Plugins
@@ -153,6 +155,10 @@
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [VaultVulp/action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
+
+## EJS 
+
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## Emacs Lisp 
 
@@ -219,6 +225,7 @@
 
 ## HTML 
 
+- [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
 - [tianheg/csszengarden](https://github.com/tianheg/csszengarden) - Practice, then creativity
 - [cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI) - Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群
 - [csstools/system-font-css](https://github.com/csstools/system-font-css) - Use the native system font of the OS running the browser
@@ -322,7 +329,7 @@
 - [mio4/Java-Gold](https://github.com/mio4/Java-Gold) - :coffee: Java炼金小木屋
 - [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
 - [Self-Learner-DD/Algorithms-I-Percolation](https://github.com/Self-Learner-DD/Algorithms-I-Percolation) - 
-- [halo-dev/halo](https://github.com/halo-dev/halo) - ✍ 一款现代化的开源建站 / CMS 系统。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - 好用又强大的开源站点工具。
 
 ## JavaScript 
 
@@ -433,7 +440,7 @@
 - [zsdycs/lipk.org](https://github.com/zsdycs/lipk.org) - 李鹏坤的个人网站。基于 hugo，包括源代码及站点文件。
 - [mumuy/pacman](https://github.com/mumuy/pacman) - Pacman based on HTML5. 基于HTML5的吃豆人游戏 - 经典游戏开发样例
 - [stefansundin/duplicate-tab](https://github.com/stefansundin/duplicate-tab) - Press Alt+Shift+D to duplicate the current tab (Option+Shift+D on Mac).
-- [remcohaszing/gatsby-remark-mermaid](https://github.com/remcohaszing/gatsby-remark-mermaid) - 
+- [remcohaszing/gatsby-remark-mermaid](https://github.com/remcohaszing/gatsby-remark-mermaid) - Create mermaid graphs and diagrams in your markdown files.
 - [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -568,7 +575,6 @@
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [kamidox/weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
 - [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xiaomingplus/producthunt-trending](https://github.com/xiaomingplus/producthunt-trending) - ProductHunt Trending
 - [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
 - [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
@@ -770,6 +776,7 @@
 
 ## Others 
 
+- [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
 - [necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) - Principles of writing consistent, idiomatic CSS.
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
