@@ -64,7 +64,7 @@
 
 - [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - 
 - [emikulic/darkhttpd](https://github.com/emikulic/darkhttpd) - When you need a web server in a hurry.
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer designed for reading research papers and technical books.
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
@@ -462,7 +462,7 @@
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
 - [jashkenas/underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt
-- [notion-enhancer/desktop](https://github.com/notion-enhancer/desktop) - an enhancer/customiser for the all-in-one productivity workspace notion.so (app)
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - an enhancer/customiser for the all-in-one productivity workspace notion.so
 - [mathiasbynens/regexpu](https://github.com/mathiasbynens/regexpu) - A source code transpiler that enables the use of ES2015 Unicode regular expressions in ES5.
 - [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
