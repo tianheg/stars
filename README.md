@@ -220,6 +220,7 @@
 
 ## HTML 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) - 
 - [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
@@ -760,7 +761,6 @@
 
 ## Nunjucks 
 
-- [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
 ## Open Policy Agent 
