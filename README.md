@@ -1180,7 +1180,7 @@
 ## TypeScript 
 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs_cid.
+- [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kuanyui/copy-as-org-mode](https://github.com/kuanyui/copy-as-org-mode) - A Firefox Add-on (WebExtension) to copy selected web page into Org-mode formatted text!
 - [apvarun/graphize](https://github.com/apvarun/graphize) - Visualize and download JSON / YAML content
