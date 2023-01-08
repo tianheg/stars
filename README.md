@@ -337,6 +337,9 @@
 
 ## JavaScript 
 
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :koala: - PouchDB is a pocket-sized database.
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [Hopding/js-visualizer-9000-server](https://github.com/Hopding/js-visualizer-9000-server) - A NodeJS app that produces events to visualize JavaScript's Event Loop
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [bioub/dom-visualizer](https://github.com/bioub/dom-visualizer) - Visualize your DOM in SVG (for educational purpose)
@@ -776,6 +779,7 @@
 
 ## Others 
 
+- [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
 - [SukkaW/cloudflare-block-bad-bot-ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - :vertical_traffic_light: Block malicious crawlers with Cloudflare Firewall Rules
 - [bumingbaipod/podcast](https://github.com/bumingbaipod/podcast) - 此 GitHub 作为《不明白播客》官网的备份站，用于分享文字版播客。  版权所有 ©️ 不明白播客 bumingbai.net
 - [XJP-GIT/AntiZhaPian](https://github.com/XJP-GIT/AntiZhaPian) - 假的国家反诈中心
@@ -1187,7 +1191,7 @@
 ## TypeScript 
 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Search books index, create your private local library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kuanyui/copy-as-org-mode](https://github.com/kuanyui/copy-as-org-mode) - A Firefox Add-on (WebExtension) to copy selected web page into Org-mode formatted text!
 - [apvarun/graphize](https://github.com/apvarun/graphize) - Visualize and download JSON / YAML content
@@ -1382,7 +1386,7 @@
 - [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [ubaldop/vuemodoro](https://github.com/ubaldop/vuemodoro) - Vue component implementing a Pomodoro timer
 - [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin使用SpringBoot2 和 Vue3 Setup标签、 Composition Api (同时支持JavaScript和TypeScript双版本) ，开发出的一套简洁、易用的低代码中后台解决方案！ 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。
+- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - 低代码中后台解决方案SmartAdmin，使用SpringBoot2 和 Vue3 Setup语法糖、 Composition Api (同时支持JavaScript和TypeScript双版本) ， 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。
 - [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
