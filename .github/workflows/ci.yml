@@ -4,16 +4,16 @@ on:
   schedule:
     - cron: '0 0 * * *'
 jobs:
-  awesome-stars:
-    name: update awesome-stars
+  stars:
+    name: update stars
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
-        python-version: 3.7
+        python-version: '3.10'
 
     - name: Install dependencies
       run: |
