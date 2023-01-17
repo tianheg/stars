@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [CoffeeScript](#coffeescript)
 - [Crystal](#crystal)
 - [D](#d)
 - [Dart](#dart)
@@ -134,6 +135,10 @@
 ## Clojure 
 
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
+
+## CoffeeScript 
+
+- [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 
 ## Crystal 
 
