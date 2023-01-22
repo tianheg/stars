@@ -263,6 +263,7 @@
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
 - [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -568,7 +569,6 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
 - [0xGG/crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
@@ -915,6 +915,7 @@
 
 ## Python 
 
+- [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
