@@ -161,7 +161,6 @@
 - [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
-- [linuxserver/docker-calibre-web](https://github.com/linuxserver/docker-calibre-web) - 
 - [VaultVulp/action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
 
 ## Emacs Lisp 
@@ -263,7 +262,6 @@
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
 - [jgthms/css-reference](https://github.com/jgthms/css-reference) - CSS Reference: a free visual guide to the most popular CSS properties
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
 - [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
 - [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
@@ -427,7 +425,6 @@
 - [Rayquaza01/note-taker](https://github.com/Rayquaza01/note-taker) - A Firefox addon that adds a text box to a toolbar button for taking notes.
 - [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
 - [codebicycle/videospeed](https://github.com/codebicycle/videospeed) - HTML5 video speed controller (for Firefox). WebExtensions port of Video Speed Controller Chrome extension.
-- [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance system
 - [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee.
 - [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
 - [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
@@ -891,7 +888,6 @@
 - [koel/koel](https://github.com/koel/koel) - 🐦 A personal music streaming server that works.
 - [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
 - [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
-- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [daolou/book](https://github.com/daolou/book) - 📝  record daily code、share-article、storage of dotfiles
 - [sbrl/Pepperminty-Wiki](https://github.com/sbrl/Pepperminty-Wiki) - A wiki in a box
 
