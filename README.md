@@ -919,7 +919,7 @@
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
 - [dottedmag/archmage](https://github.com/dottedmag/archmage) - CHM format converter
 - [jblakeman/apt-select](https://github.com/jblakeman/apt-select) - Ubuntu Archive Mirror reporting tool for apt sources configuration.
-- [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3470诗人，81.2K诗歌，15.33M字。持续扩充...
+- [sheepzh/poetry](https://github.com/sheepzh/poetry) - 汉语现代诗歌语料库整理，3489诗人，81.7K诗歌，15.43M字。持续扩充...
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [OfflineIMAP/offlineimap3](https://github.com/OfflineIMAP/offlineimap3) - Read/sync your IMAP mailboxes (python3)
