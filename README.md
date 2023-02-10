@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [codemicro/readingList](https://github.com/codemicro/readingList) - A list of articles I've read
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
@@ -338,6 +339,7 @@
 
 ## JavaScript 
 
+- [wenerme/wener](https://github.com/wenerme/wener) - Notes, Stories, Awesomes
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [pankajparashar/canidev.tools](https://github.com/pankajparashar/canidev.tools) - It is like @CanIUse but for the browser devtools. Created by @pankajparashar & curated by community.
 - [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
@@ -1054,6 +1056,7 @@
 
 ## Rust 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
