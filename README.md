@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [codemicro/readingList](https://github.com/codemicro/readingList) - A list of articles I've read
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -339,6 +340,8 @@
 
 ## JavaScript 
 
+- [captainbrosset/devtools-tips](https://github.com/captainbrosset/devtools-tips) - A collection of useful cross-browser DevTools tips
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [wenerme/wener](https://github.com/wenerme/wener) - Notes, Stories, Awesomes
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [pankajparashar/canidev.tools](https://github.com/pankajparashar/canidev.tools) - It is like @CanIUse but for the browser devtools. Created by @pankajparashar & curated by community.
@@ -1056,6 +1059,7 @@
 
 ## Rust 
 
+- [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
