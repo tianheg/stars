@@ -342,6 +342,7 @@
 
 ## JavaScript 
 
+- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
 - [captainbrosset/devtools-tips](https://github.com/captainbrosset/devtools-tips) - A collection of useful cross-browser DevTools tips
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [wenerme/wener](https://github.com/wenerme/wener) - Notes, Stories, Awesomes
@@ -1198,6 +1199,8 @@
 
 ## TypeScript 
 
+- [BlackGlory/static](https://github.com/BlackGlory/static) - 🌿
+- [BlackGlory/romast](https://github.com/BlackGlory/romast) - 🌿 Renderable Org-Mode Abstract Syntax Tree.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [w3c/spec-prod](https://github.com/w3c/spec-prod) - GitHub Action to build ReSpec/Bikeshed specs, validate output and publish to GitHub pages or W3C
 - [sass/embedded-host-node](https://github.com/sass/embedded-host-node) - A Node.js library that will communicate with Embedded Dart Sass using the Embedded Sass protocol
@@ -1355,7 +1358,7 @@
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
 - [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese [Beta](https://beta.react.jscn.org)
 - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
-- [BlackGlory/Copycat](https://github.com/BlackGlory/Copycat) - 🍂 Copy content from web powerful than ever before.
+- [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌲 Copy content from web powerful than ever before.
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
 - [scott-joe/foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
