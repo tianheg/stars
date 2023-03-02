@@ -228,7 +228,6 @@
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [matcornic/hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn) - Porting Grav Learn theme to Hugo
 - [w3c/chinese-ig](https://github.com/w3c/chinese-ig) - Web中文兴趣组
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) - 
@@ -342,6 +341,7 @@
 
 ## JavaScript 
 
+- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 - [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ 集锦 2022-2023年 前端JavaScript 手写题，编程题，Not just for interviews
@@ -1267,7 +1267,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg 🔨 Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
