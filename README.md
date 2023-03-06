@@ -285,7 +285,6 @@
 - [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
 - [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css) - A CSS-only, resolution-independent "Fork me on GitHub" ribbon.
 - [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
@@ -343,6 +342,7 @@
 
 ## JavaScript 
 
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - 
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -687,7 +687,6 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [wenzhixin/bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
@@ -917,6 +916,7 @@
 
 ## Python 
 
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
@@ -1214,6 +1214,7 @@
 
 ## TypeScript 
 
+- [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 A server-side JavaScript wrapper for the Unsplash API
