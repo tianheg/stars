@@ -191,7 +191,6 @@
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
 - [jvns/mess-with-dns-backend](https://github.com/jvns/mess-with-dns-backend) - 
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -342,7 +341,13 @@
 
 ## JavaScript 
 
-- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - 
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
+- [tj/term-canvas](https://github.com/tj/term-canvas) - javascript canvas api for your terminal!
+- [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+- [tianheg/learning-tree](https://github.com/tianheg/learning-tree) - 
+- [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
 - [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
@@ -787,6 +792,8 @@
 
 ## Others 
 
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects.
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan:元语功能型对话大模型（开源版）
@@ -916,6 +923,7 @@
 
 ## Python 
 
+- [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本制作工具。
 - [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
@@ -1214,6 +1222,7 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
@@ -1279,7 +1288,7 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
-- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ Support OpenAI and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
+- [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format commitizen adapter and CLI
 - [visgl/react-map-gl](https://github.com/visgl/react-map-gl) - React friendly API wrapper around MapboxGL JS
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [sindresorhus/modern-normalize](https://github.com/sindresorhus/modern-normalize) - 🐒 Normalize browsers' default style
