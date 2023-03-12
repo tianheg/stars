@@ -90,7 +90,7 @@
 
 ## CSS 
 
-- [Philo-Li/philoart](https://github.com/Philo-Li/philoart) - https://philoart.io/
+- [Philo-Li/philoart](https://github.com/Philo-Li/philoart) - Art gallery. https://philoart.io/
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
 - [mdo/table-grid](https://github.com/mdo/table-grid) - Simple CSS grid system using `display: table;`.
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces
