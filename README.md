@@ -227,6 +227,8 @@
 
 ## HTML 
 
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
+- [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
 - [tohn/hugo-shortcodes](https://github.com/tohn/hugo-shortcodes) - Shortcodes for hugo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [TimothyGu/es-howto](https://github.com/TimothyGu/es-howto) - How to read the ECMAScript specification (ECMA-262)
@@ -345,6 +347,8 @@
 
 ## JavaScript 
 
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
 - [tianheg/freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - Run 🤗 Transformers in your browser!
@@ -693,7 +697,6 @@
 - [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
 - [octave-online/octave-online-server](https://github.com/octave-online/octave-online-server) - The infrastructure that powers Octave Online, octave-online.net
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
-- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese [Beta](https://beta.react.jscn.org)
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
@@ -809,6 +812,7 @@
 
 ## Others 
 
+- [gokulkrishh/awesome-meta-and-manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest) - ⚡ Awesome collection of meta tags & manifest properties.
 - [sychedelix/Firefox-responsive-custom-presets](https://github.com/sychedelix/Firefox-responsive-custom-presets) - Firefox devtools responsive UI custom presets
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -1250,6 +1254,8 @@
 
 ## TypeScript 
 
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
+- [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js, powered by Workbox 🧰
 - [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io) - The main site for kaiyuanshe
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
 - [jplhomer/superflare](https://github.com/jplhomer/superflare) - A full-stack toolkit for Cloudflare Workers.
@@ -1421,6 +1427,7 @@
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
 - [surgioproject/surgio](https://github.com/surgioproject/surgio) - Generating rules for Surge, Clash, Quantumult like a PRO
+- [reactjs/zh-hans.reactjs.org](https://github.com/reactjs/zh-hans.reactjs.org) - React documentation website in Simplified Chinese (https://react.jscn.org)
 - [jevakallio/vscode-hacker-typer](https://github.com/jevakallio/vscode-hacker-typer) - Great for live coding presentations, impressing your friends, or just trying to look busy at work.
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
 - [zenghongtu/Remu](https://github.com/zenghongtu/Remu) - 💥Chrome Extension for GitHub that view stars / star history / organizing starred repository
