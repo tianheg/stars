@@ -1254,6 +1254,9 @@
 
 ## TypeScript 
 
+- [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js, powered by Workbox 🧰
 - [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io) - The main site for kaiyuanshe
@@ -1461,6 +1464,7 @@
 
 ## Vue 
 
+- [lework/lemonitor](https://github.com/lework/lemonitor) - 列出开源软件的中国境内镜像站点 (List of mirror sites in China for open source software)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [headwaymaps/headway](https://github.com/headwaymaps/headway) - Self-hostable maps stack, powered by OpenStreetMap.
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
