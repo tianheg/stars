@@ -90,6 +90,7 @@
 
 ## CSS 
 
+- [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 - [Philo-Li/philoart](https://github.com/Philo-Li/philoart) - Art gallery. https://philoart.io/
 - [benfaerber/one-monokai-firefox-devtools](https://github.com/benfaerber/one-monokai-firefox-devtools) - A theme for Firefox Devtools
 - [mdo/table-grid](https://github.com/mdo/table-grid) - Simple CSS grid system using `display: table;`.
@@ -1256,9 +1257,10 @@
 
 ## TypeScript 
 
+- [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
 - [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
 - [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js, powered by Workbox 🧰
