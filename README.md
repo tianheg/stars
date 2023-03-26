@@ -229,6 +229,7 @@
 
 ## HTML 
 
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
 - [tohn/hugo-shortcodes](https://github.com/tohn/hugo-shortcodes) - Shortcodes for hugo
@@ -1261,6 +1262,7 @@
 
 ## TypeScript 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
 - [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
 - [gajus/turbowatch](https://github.com/gajus/turbowatch) - Extremely fast file change detector and task orchestrator for Node.js.
