@@ -72,7 +72,7 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! 😄
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Your external brain that remembers anything, anytime, anywhere. Save time and effort the 𝗲𝗮𝘀𝘆 way! :rocket:
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -188,7 +188,6 @@
 - [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [codemicro/readingList](https://github.com/codemicro/readingList) - A list of articles I've read
-- [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
@@ -350,6 +349,7 @@
 
 ## JavaScript 
 
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
 - [joeymalvinni/webrtc-ip](https://github.com/joeymalvinni/webrtc-ip) - 💻 Simplified IP client using WebRTC.
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
@@ -1262,6 +1262,7 @@
 
 ## TypeScript 
 
+- [motifland/markprompt](https://github.com/motifland/markprompt) - Open-source GPT-4 platform for Markdown, Markdoc and MDX with built-in analytics
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
 - [enricoros/nextjs-chatgpt-app](https://github.com/enricoros/nextjs-chatgpt-app) - 💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.
