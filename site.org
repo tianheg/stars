@@ -1,3 +1,0 @@
-* Site
-
-- [[http://zero.milosz.ca/][Zeros in JavaScript]]
