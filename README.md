@@ -236,6 +236,7 @@
 
 ## HTML 
 
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
@@ -357,6 +358,8 @@
 
 ## JavaScript 
 
+- [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
 - [barretlee/chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - 
 - [vicchi/node-getpocket](https://github.com/vicchi/node-getpocket) - Node.js module for authenticating and accessing the GetPocket API
@@ -368,7 +371,7 @@
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持SSE
+- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持 Stream 流式输出
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
@@ -978,6 +981,8 @@
 
 ## Python 
 
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [kale5195/chilloutai](https://github.com/kale5195/chilloutai) - AI 图片生成
@@ -1139,7 +1144,7 @@
 
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
+- [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 - [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Self-hosted Beta App Distribution for Android, iOS and macOS apps
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
@@ -1297,6 +1302,7 @@
 
 ## TypeScript 
 
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [walnutwaldo/enhanceai-react](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI (enhanceai.dev), a library for enhancing web app text input with AI autocomplete.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [nat/openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop
