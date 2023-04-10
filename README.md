@@ -75,13 +75,12 @@
 
 ## C++ 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝗿𝗶𝗱𝗼𝗻𝗸𝘂𝗹𝗼𝘂𝘀𝗹𝘆 easy. :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life ridonkulously easy 🪄✨🌟
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [giuspen/cherrytree](https://github.com/giuspen/cherrytree) - cherrytree
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
@@ -335,7 +334,6 @@
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
 - [superleeyom/proxy-traffic-monitor](https://github.com/superleeyom/proxy-traffic-monitor) - 🤖 最近也开通了Netflix，Netflix 其实挺费流量的，为了防止梯子的流量超标，所以打算借助 Github Actions + telegram 做一个简单的监控，每天定时把流量使用情况发送到 telegram上
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, An
@@ -359,6 +357,7 @@
 
 ## JavaScript 
 
+- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) - 
 - [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 - [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
 - [jiacai2050/pageview-worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
@@ -382,7 +381,6 @@
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
-- [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
 - [soulhighwing/LocalGPT](https://github.com/soulhighwing/LocalGPT) - a html page for you to use GPT API
@@ -609,7 +607,6 @@
 - [Wscats/piano](https://github.com/Wscats/piano) - 🎹Play the piano with the keyboard - 用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-- [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [baurine/vscode-pangu](https://github.com/baurine/vscode-pangu) - VS Code extension for pangu, add whitespace between Chinese and English
@@ -817,7 +814,6 @@
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 - [zhujiang521/PlayAndroid](https://github.com/zhujiang521/PlayAndroid) - 🔥🔥🔥 Kotlin + MVVM + LCE版玩安卓，暗黑模式、横竖屏、无网、弱网、无数据、加载失败等等各种情况，协程、Room、Hilt、DataStore、LiveData、Retrofit、屏幕适配、本地缓存、多语言切换、多 lib，你想要的我都有！！！
 - [android/sunflower](https://github.com/android/sunflower) - A gardening app illustrating Android development best practices with migrating a View-based app to Jetpack Compose.
-- [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 - [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 🦄 Sourcerer app makes a visual profile from your GitHub and git repositories.
 
 ## Lua 
@@ -987,8 +983,8 @@
 
 ## Python 
 
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
@@ -1004,7 +1000,6 @@
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [ofou/graham-essays](https://github.com/ofou/graham-essays) - 📚 Download the full collection of Paul Graham essays in EPUB, Kindle & Markdown for easy reading.
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 
-- [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
 - [jayhack/llm.sh](https://github.com/jayhack/llm.sh) - GPT-3 on your command line
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
@@ -1111,7 +1106,6 @@
 - [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
-- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki) - Come and join us, we need you!
@@ -1216,6 +1210,7 @@
 
 ## Shell 
 
+- [P3TERX/warp.sh](https://github.com/P3TERX/warp.sh) - Cloudflare WARP Installer | WARP 一键安装脚本
 - [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [helixarch/debtap](https://github.com/helixarch/debtap) - A script for converting .deb packages into Arch Linux packages, focused on accuracy
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
@@ -1310,6 +1305,7 @@
 
 ## TypeScript 
 
+- [anaclumos/bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers) - A simple extension that enables Bing ChatGPT on Chrome and Firefox.
 - [xiaoyang-sde/reflare](https://github.com/xiaoyang-sde/reflare) - Lightweight and scalable reverse proxy and load balancing library built for Cloudflare Workers
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [walnutwaldo/enhanceai-react](https://github.com/walnutwaldo/enhanceai-react) - React wrapper for EnhanceAI (enhanceai.dev), a library for enhancing web app text input with AI autocomplete.
