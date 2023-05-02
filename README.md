@@ -6,6 +6,7 @@
 ## Contents
 
 - [Astro](#astro)
+- [Batchfile](#batchfile)
 - [C](#c)
 - [C++](#c++)
 - [CSS](#css)
@@ -61,6 +62,10 @@
 ## Astro 
 
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## Batchfile 
+
+- [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 
 ## C 
 
@@ -179,6 +184,7 @@
 
 ## Emacs Lisp 
 
+- [zhangjie2012/emacs.d](https://github.com/zhangjie2012/emacs.d) - My emacs config
 - [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
 - [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
 - [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
@@ -373,6 +379,9 @@
 
 ## JavaScript 
 
+- [placeAtlas/atlas](https://github.com/placeAtlas/atlas) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's 2022 /r/place event.
+- [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [tuananh/reader2](https://github.com/tuananh/reader2) - Get a reader mode, sharable URL for any webpage.
 - [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
 - [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
@@ -644,7 +653,7 @@
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
-- [drumnickydrum/sequencer64](https://github.com/drumnickydrum/sequencer64) - 64-step sequencer PWA
+- [drumnickydrum/sequencer64](https://github.com/drumnickydrum/sequencer64) - A 64-step React JS drum sequencer
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [dmo60/CoverflowAltTab](https://github.com/dmo60/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell and Cinnamon
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
@@ -810,7 +819,6 @@
 
 ## Jinja 
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Jsonnet 
@@ -874,6 +882,7 @@
 
 ## Others 
 
+- [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
 - [sturobson/Awesome-Container-Queries](https://github.com/sturobson/Awesome-Container-Queries) - A repo with links to posts of things around container queries.
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
@@ -895,7 +904,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [staltz/ttosa](https://github.com/staltz/ttosa) - CSV data for Time Till Open Source Alternative
-- [hemanth/functional-programming-jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world in simple terms!
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [wildskyf/caniuse-pop](https://github.com/wildskyf/caniuse-pop) - Access caniuse page by popup page
@@ -1014,6 +1022,7 @@
 
 ## Python 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
 - [facebookresearch/AnimatedDrawings](https://github.com/facebookresearch/AnimatedDrawings) - Code to accompany "A Method for Animating Children's Drawings of the Human Figure"
 - [onekey-sec/unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
@@ -1477,7 +1486,7 @@
 - [firefox-devtools/vscode-firefox-debug](https://github.com/firefox-devtools/vscode-firefox-debug) - VS Code Debug Adapter for Firefox
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Cookie-AutoDelete/Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Firefox and Chrome WebExtension that deletes cookies and other browsing site data as soon as the tab closes, domain changes, browser restarts, or a combination of those events.
-- [purocean/yn](https://github.com/purocean/yn) - A Hackable Markdown Editor for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in
+- [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
@@ -1487,7 +1496,6 @@
 - [topfullstack/topfullstack](https://github.com/topfullstack/topfullstack) - NodeJs+VueJs全栈开发《全栈之巅》视频网站 - 源码
 - [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation [WIP]
 - [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell
-- [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2022: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [liunnn1994/operationRecord](https://github.com/liunnn1994/operationRecord) - 在浏览器中录制任意界面并实现导出、保存与管理
