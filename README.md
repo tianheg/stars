@@ -102,6 +102,7 @@
 
 ## CSS 
 
+- [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 - [L4ki/Amy-Plasma-Themes](https://github.com/L4ki/Amy-Plasma-Themes) - Amy Themes For Plasma Desktop
@@ -470,7 +471,6 @@
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [bioub/dom-visualizer](https://github.com/bioub/dom-visualizer) - Visualize your DOM in SVG (for educational purpose)
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-- [LeaVerou/dabblet](https://github.com/LeaVerou/dabblet) - An interactive CSS playground
 - [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
 - [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
 - [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
@@ -571,7 +571,6 @@
 - [zsdycs/lipk.org](https://github.com/zsdycs/lipk.org) - 李鹏坤的个人网站。基于 hugo，包括源代码及站点文件。
 - [mumuy/pacman](https://github.com/mumuy/pacman) - 基于HTML5的吃豆人游戏 - 经典游戏开发样例_Pacman based on HTML5
 - [stefansundin/duplicate-tab](https://github.com/stefansundin/duplicate-tab) - Press Alt+Shift+D to duplicate the current tab (Option+Shift+D on Mac).
-- [remcohaszing/gatsby-remark-mermaid](https://github.com/remcohaszing/gatsby-remark-mermaid) - Create mermaid graphs and diagrams in your markdown files.
 - [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
 - [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
@@ -777,7 +776,7 @@
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [goessner/mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
-- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
+- [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 - [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
 - [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
@@ -889,6 +888,7 @@
 
 ## Others 
 
+- [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
 - [minimaxir/hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [bradfrost/frontend-guidelines-questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire) - A one-page questionnaire to help your team establish effective frontend guidelines, so that you can write consistent & cohesive code together.
@@ -1029,6 +1029,9 @@
 
 ## Python 
 
+- [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Voice data &lt;= 10 mins can also be used to train a good VC model!
+- [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
+- [martinlevesque/mini-spend-tracker](https://github.com/martinlevesque/mini-spend-tracker) - 
 - [simonw/download-esm](https://github.com/simonw/download-esm) - Download ESM modules from npm and jsdelivr
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - Python Imaging Library (Fork)
