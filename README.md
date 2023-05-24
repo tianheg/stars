@@ -255,6 +255,7 @@
 
 ## HTML 
 
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [ghostincoolshell/haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) - A Quotes / Quotations / Affirmations App Widget.
@@ -380,7 +381,6 @@
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [mio4/Java-Gold](https://github.com/mio4/Java-Gold) - :coffee: Java炼金小木屋
-- [xenv/gushici](https://github.com/xenv/gushici) - 一言·古诗词 API (Hitokoto API)，随机返回一条古诗词名句。采用  Vert.x + Redis 全异步开发，毫秒级稳定响应。
 - [Self-Learner-DD/Algorithms-I-Percolation](https://github.com/Self-Learner-DD/Algorithms-I-Percolation) - 
 
 ## JavaScript 
@@ -1385,6 +1385,7 @@
 
 ## TypeScript 
 
+- [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to work against complex domain names, subdomains and URIs.
 - [modernweb-dev/web](https://github.com/modernweb-dev/web) - Guides, tools and libraries for modern web development.
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
