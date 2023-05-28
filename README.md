@@ -210,6 +210,7 @@
 
 ## Go 
 
+- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
@@ -243,7 +244,6 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-- [dnote/dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers
 - [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
@@ -257,6 +257,7 @@
 
 ## HTML 
 
+- [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
 - [arkenfox/TZP](https://github.com/arkenfox/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
@@ -360,6 +361,7 @@
 
 ## Java 
 
+- [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
 - [zfdang/Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) - 开屏跳过-安卓系统的开屏广告自动跳过助手
 - [pfalstad/circuitjs1](https://github.com/pfalstad/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -400,7 +402,7 @@
 - [w3c/browser-specs](https://github.com/w3c/browser-specs) - A machine-readable list of specifications used to build Web browsers
 - [tianheg/randomMDN](https://github.com/tianheg/randomMDN) - randomMDN
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [PaulKinlan/idb-vector](https://github.com/PaulKinlan/idb-vector) - A simple vector database built on idb
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow using LangchainJS
@@ -1052,6 +1054,8 @@
 
 ## Python 
 
+- [Anish-M-code/Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover) - A simple Metadata Removal Tool for images and videos using exiftool and ffmpeg in C and Python3.
+- [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
@@ -1211,7 +1215,7 @@
 - [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [geekcomputers/Python](https://github.com/geekcomputers/Python) - My Python Examples
-- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
+- [hoochanlon/hamulete](https://github.com/hoochanlon/hamulete) - 🏔️ChatGPT、系统程序各类镜像、国立台湾大学、国立新加坡大学、中国内陆与香港重点高校及科研机构社科、经济、系统工程类学术论文知识链接库
 
 ## QML 
 
@@ -1372,6 +1376,7 @@
 
 ## Svelte 
 
+- [Blumed/make-bookmarklets](https://github.com/Blumed/make-bookmarklets) - Code for make-bookmarklets.com
 - [cnanney/dev-toolbox](https://github.com/cnanney/dev-toolbox) - Dev Toolbox provides quick offline access to various development tools.
 - [openneno/neno](https://github.com/openneno/neno) - 使用svelte+tailwindcss 仿照 浮墨 写的pwa应用
 - [djyde/plastic-editor](https://github.com/djyde/plastic-editor) - A block-based editor
@@ -1508,7 +1513,6 @@
 - [CatChen/eslint-suggestion-action](https://github.com/CatChen/eslint-suggestion-action) - This GitHub Action runs ESLint and provides inline feedback to the changes in a Pull Request.
 - [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 - [kiran-venugopal/lofi-fm](https://github.com/kiran-venugopal/lofi-fm) - Online lofi music player
-- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
@@ -1590,7 +1594,6 @@
 - [beaudar/beaudar](https://github.com/beaudar/beaudar) - 基于 GitHub issue 的轻量评论插件，Utterances 的中文版本
 - [ricklove/rick-love-master](https://github.com/ricklove/rick-love-master) - A Mono Repo for Everything cool
 - [actions-cool/issues-helper](https://github.com/actions-cool/issues-helper) - 🤖 A GitHub Action easily helps you automatically manage issues. Welcome to try.
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [softprops/turnstyle](https://github.com/softprops/turnstyle) - 🎟️A GitHub Action for serializing workflow runs
