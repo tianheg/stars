@@ -107,7 +107,6 @@
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
 - [L4ki/Amy-Plasma-Themes](https://github.com/L4ki/Amy-Plasma-Themes) - Amy Themes For Plasma Desktop
-- [tianheg/.web](https://github.com/tianheg/.web) - Web related dotfiles
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 - [Philo-Li/philoart](https://github.com/Philo-Li/philoart) - Art gallery. https://philoart.io/
@@ -260,6 +259,7 @@
 
 ## HTML 
 
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) - The source for https://gohugo.io/
 - [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
 - [arkenfox/TZP](https://github.com/arkenfox/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
@@ -396,6 +396,7 @@
 
 ## JavaScript 
 
+- [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that displays related submissions sidebar on Hacker News
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
@@ -480,7 +481,7 @@
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
 - [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
@@ -1409,6 +1410,7 @@
 
 ## TypeScript 
 
+- [web-platform-dx/feature-set](https://github.com/web-platform-dx/feature-set) - Exploring how to present Web platform features adoptability
 - [TomerAberbach/postcss-fontpie](https://github.com/TomerAberbach/postcss-fontpie) - A PostCSS plugin for optimizing font loading layout shifts using fontpie!
 - [ascorbic/unpic-img](https://github.com/ascorbic/unpic-img) - Multi-framework responsive image component
 - [elbywan/wretch](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax. :candy:
@@ -1482,7 +1484,6 @@
 - [BlackGlory/romast](https://github.com/BlackGlory/romast) - 🌿 Renderable Org-Mode Abstract Syntax Tree.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [w3c/spec-prod](https://github.com/w3c/spec-prod) - GitHub Action to build ReSpec/Bikeshed specs, validate output and publish to GitHub pages or W3C
-- [sass/embedded-host-node](https://github.com/sass/embedded-host-node) - A Node.js library that will communicate with Embedded Dart Sass using the Embedded Sass protocol
 - [DukeLuo/wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
@@ -1600,7 +1601,7 @@
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
-- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [wasedatime/wasedatime-web](https://github.com/wasedatime/wasedatime-web) - An unofficial web app for syllabus searching, classroom finding, and bus schedule checking at Waseda University.
 - [beaudar/beaudar-oauth](https://github.com/beaudar/beaudar-oauth) - 运行于 cloudflare worker 的 beaudar-bot 授权流程
