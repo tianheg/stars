@@ -535,7 +535,6 @@
 - [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
 - [duangsuse/WebExt-URLReplace](https://github.com/duangsuse/WebExt-URLReplace) - Replace URL by regex pattern mapping
 - [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
 - [yannliao/threejs-example-for-miniprogram](https://github.com/yannliao/threejs-example-for-miniprogram) - 这是一个 three.js 在微信小程序里的使用示例
 - [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO
 - [asm-js/validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
