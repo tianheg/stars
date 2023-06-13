@@ -829,7 +829,6 @@
 - [jgallen23/toc](https://github.com/jgallen23/toc) - jQuery Table of Contents Plugin
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [huijing/blank-html5](https://github.com/huijing/blank-html5) - :construction: Blank HTML5 template for experiments and stuff
 - [huijing/slides](https://github.com/huijing/slides) - :movie_camera: Slides for talks and stuff
 - [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
@@ -921,6 +920,7 @@
 
 ## Others 
 
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
@@ -1631,7 +1631,6 @@
 - [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩
 - [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
-- [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
 - [TeamMeow/vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) - 📐 Render LaTeX math equations in any Markdown file!
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
