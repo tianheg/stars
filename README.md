@@ -1312,6 +1312,7 @@
 
 ## Shell 
 
+- [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
