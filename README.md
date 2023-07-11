@@ -94,7 +94,6 @@
 - [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 ## CSS 
@@ -393,6 +392,7 @@
 
 ## JavaScript 
 
+- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [textdiff/textdiff.github.io](https://github.com/textdiff/textdiff.github.io) - Text differ
 - [sindresorhus/notifier-for-github](https://github.com/sindresorhus/notifier-for-github) - Browser extension - Get notified about new GitHub notifications
