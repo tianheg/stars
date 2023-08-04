@@ -472,7 +472,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 - [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 on-demand confetti gun
-- [tianheg/freeCodeCamp](https://github.com/tianheg/freeCodeCamp) - projects from freeCodeCamp
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [ymzuiku/aoife](https://github.com/ymzuiku/aoife) - 使用 jsx 开发 native-js 程序, 每个组建都是一个原始的 HTMLElment，可以和所有原生 js 库很好的兼容使用。
 - [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
@@ -1469,7 +1468,7 @@
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 - [ipinfo/node](https://github.com/ipinfo/node) - Official Node client library for IPinfo API (IP geolocation and other types of IP data)
 - [yakGPT/yakGPT](https://github.com/yakGPT/yakGPT) - Locally running, hands-free ChatGPT UI
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
+- [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [gajus/semantic-url-parser](https://github.com/gajus/semantic-url-parser) - Extracts content information from known URL patterns.
