@@ -103,7 +103,7 @@
 - [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) - Cloudflare’s documentation
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - 免费 Prompt Engineering 教程
+- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
 - [L4ki/Amy-Plasma-Themes](https://github.com/L4ki/Amy-Plasma-Themes) - Amy Themes For Plasma Desktop
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [akira-cn/http-modular](https://github.com/akira-cn/http-modular) - A universal library for converting server-side functions into ES Modules.
 - [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
 - [mumuy/data_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
 - [mumuy/chinese-transverter](https://github.com/mumuy/chinese-transverter) - Simplified Chinese and Traditional Chinese transverter. 中文简繁体转换器-支持地方惯用词汇替换
