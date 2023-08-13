@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [akira-cn/http-modular](https://github.com/akira-cn/http-modular) - A universal library for converting server-side functions into ES Modules.
 - [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
 - [mumuy/data_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
