@@ -392,6 +392,8 @@
 
 ## JavaScript 
 
+- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+- [CoreyGinnivan/whocanuse](https://github.com/CoreyGinnivan/whocanuse) - WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [akira-cn/http-modular](https://github.com/akira-cn/http-modular) - A universal library for converting server-side functions into ES Modules.
 - [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
@@ -926,6 +928,7 @@
 
 ## Others 
 
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) - DNS over HTTPS config profiles for iOS & macOS
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
