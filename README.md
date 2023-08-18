@@ -152,6 +152,7 @@
 
 ## CoffeeScript 
 
+- [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
 
 ## Crystal 
@@ -1503,14 +1504,14 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [openai/openai-node](https://github.com/openai/openai-node) - Node.js library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [BlackGlory/static](https://github.com/BlackGlory/static) - 🌿
 - [BlackGlory/romast](https://github.com/BlackGlory/romast) - 🌿 Renderable Org-Mode Abstract Syntax Tree.
 - [orgapp/orgajs](https://github.com/orgapp/orgajs) - parse org-mode content into AST
 - [w3c/spec-prod](https://github.com/w3c/spec-prod) - GitHub Action to build ReSpec/Bikeshed specs, validate output and publish to GitHub pages or W3C
-- [DukeLuo/wai](https://github.com/DukeLuo/wai) - 一款可以预防颈椎病的新标签页扩展。
+- [dukeluo/wai](https://github.com/dukeluo/wai) - 一款可以预防颈椎病的新标签页扩展。
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Generate code from cURL commands
 - [rodgetech/cron-ai](https://github.com/rodgetech/cron-ai) - A natural language to cron expression generator
