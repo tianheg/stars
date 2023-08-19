@@ -302,7 +302,6 @@
 - [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
 - [Vincenius/css-speedrun](https://github.com/Vincenius/css-speedrun) - A small fun app to test your CSS knowledge
 - [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
 - [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2023中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 - [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
@@ -881,6 +880,8 @@
 
 ## Kotlin 
 
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
+- [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose
 - [tom-anders/Easy_xkcd](https://github.com/tom-anders/Easy_xkcd) - An easy and simple open source xkcd reader
 - [lucasnlm/antimine-android](https://github.com/lucasnlm/antimine-android) - Antimine is an open source minesweeper-like puzzle game.
 - [termux/termux-styling](https://github.com/termux/termux-styling) - Termux add-on app for customizing the terminal font and color theme.
@@ -1349,6 +1350,7 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [ntnyq/omz-plugin-pnpm](https://github.com/ntnyq/omz-plugin-pnpm) - :gear: oh-my-zsh aliases for common pnpm commands.
 - [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
@@ -1559,7 +1561,6 @@
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
 - [uidotdev/npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison
-- [mailgun/mailgun.js](https://github.com/mailgun/mailgun.js) - Javascript SDK for Mailgun
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
 - [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
@@ -1647,7 +1648,6 @@
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [enriikke/gatsby-gh-pages-action](https://github.com/enriikke/gatsby-gh-pages-action) - GitHub Action to build and deploy your Gatsby site to GitHub Pages ❤️🎩
-- [algolia/docsearch](https://github.com/algolia/docsearch) - :blue_book: The easiest way to add search to your documentation.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
