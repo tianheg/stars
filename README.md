@@ -92,7 +92,7 @@
 
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
@@ -1095,6 +1095,7 @@
 
 ## Python 
 
+- [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
 - [archlinuxcn/mirrorlist-repo](https://github.com/archlinuxcn/mirrorlist-repo) - Arch Linux CN Community repo mirrors list
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
