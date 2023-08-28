@@ -275,7 +275,6 @@
 - [arkenfox/TZP](https://github.com/arkenfox/TZP) - TorZillaPrint: Firefox & Tor Browser fingerprint testing
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [ghostincoolshell/haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) - A Quotes / Quotations / Affirmations App Widget.
@@ -405,6 +404,8 @@
 
 ## JavaScript 
 
+- [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
+- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
 - [CoreyGinnivan/whocanuse](https://github.com/CoreyGinnivan/whocanuse) - WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
@@ -1102,6 +1103,7 @@
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [Anish-M-code/Metadata-Remover](https://github.com/Anish-M-code/Metadata-Remover) - A simple Metadata Removal Tool for images and videos using exiftool and ffmpeg in C and Python3.
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
+- [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [pengxiao-song/LaWGPT](https://github.com/pengxiao-song/LaWGPT) - 🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [jtsang4/claude-to-chatgpt](https://github.com/jtsang4/claude-to-chatgpt) - This project converts the API of Anthropic's Claude model to the OpenAI Chat API format.
