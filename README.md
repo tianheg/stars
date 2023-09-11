@@ -76,6 +76,7 @@
 
 ## C 
 
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp) - Locally run an Instruction-Tuned Chat-Style LLM
@@ -217,6 +218,7 @@
 
 ## Go 
 
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
@@ -404,6 +406,8 @@
 
 ## JavaScript 
 
+- [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
+- [wolfgang42/paper-hn](https://github.com/wolfgang42/paper-hn) - Hacker News front page in the style of a print newspaper
 - [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
@@ -1096,6 +1100,7 @@
 
 ## Python 
 
+- [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
 - [ihabunek/toot](https://github.com/ihabunek/toot) - toot - Mastodon CLI & TUI
@@ -1296,7 +1301,6 @@
 - [EAimTY/tuic](https://github.com/EAimTY/tuic) - Delicately-TUICed 0-RTT proxy protocol
 - [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
@@ -1573,7 +1577,6 @@
 - [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local) - Offline/local search for Docusaurus v2
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
-- [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
 - [uidotdev/npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
