@@ -76,6 +76,7 @@
 
 ## C 
 
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -110,6 +111,7 @@
 
 ## CSS 
 
+- [astroud/pomodoro-react-app](https://github.com/astroud/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
 - [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [mrrocks/The-good-line-height](https://github.com/mrrocks/The-good-line-height) - 
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
@@ -407,6 +409,7 @@
 
 ## JavaScript 
 
+- [luizbatanero/pomodoro-react](https://github.com/luizbatanero/pomodoro-react) - :tomato: Pomodoro timer built with React
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [wolfgang42/paper-hn](https://github.com/wolfgang42/paper-hn) - Hacker News front page in the style of a print newspaper
 - [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
@@ -477,6 +480,7 @@
 - [vicchi/node-getpocket](https://github.com/vicchi/node-getpocket) - Node.js module for authenticating and accessing the GetPocket API
 - [HugoDF/pocket-personal-access-token](https://github.com/HugoDF/pocket-personal-access-token) - A lightweight OAuth integration with the Pocket API to generate an access token for your personal account
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
@@ -1102,6 +1106,7 @@
 
 ## Python 
 
+- [1eif/flomo2memos](https://github.com/1eif/flomo2memos) - 将flomo导出至memos
 - [anishathalye/git-remote-dropbox](https://github.com/anishathalye/git-remote-dropbox) - A transparent bridge between Git and Dropbox - use a Dropbox (shared) folder as a Git remote! 🎁
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ReaVNaiL/New-Grad-2024](https://github.com/ReaVNaiL/New-Grad-2024) - 👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀
@@ -1132,7 +1137,6 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [kale5195/chilloutai](https://github.com/kale5195/chilloutai) - AI 图片生成
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [ninehills/Chat-GPT-Enhance](https://github.com/ninehills/Chat-GPT-Enhance) - Empower ChatGPT with the ability to perform mathematical calculations, web scraping, PDF analysis, and more.
 - [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple web database
