@@ -199,7 +199,6 @@
 ## Emacs Lisp 
 
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
-- [zhangjie2012/emacs.d](https://github.com/zhangjie2012/emacs.d) - My emacs config
 - [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
 - [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
 - [pauldub/activity-watch-mode](https://github.com/pauldub/activity-watch-mode) - Emacs plugin for automatic time tracking and metrics generated from your programming activity.
@@ -297,7 +296,6 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
 - [tohn/hugo-shortcodes](https://github.com/tohn/hugo-shortcodes) - Shortcodes for hugo
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -417,6 +415,7 @@
 
 ## JavaScript 
 
+- [enhance-dev/enhance-music](https://github.com/enhance-dev/enhance-music) - A music library and audio player built with Enhance
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [netgusto/imagejam.net](https://github.com/netgusto/imagejam.net) - 
@@ -941,6 +940,7 @@
 ## MDX 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## Makefile 
 
