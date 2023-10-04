@@ -187,6 +187,7 @@
 
 ## Dockerfile 
 
+- [jscausey/vscode-nginx-certbot](https://github.com/jscausey/vscode-nginx-certbot) - Host VSCode with SSL via Nginx and Certbot
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) - 
 - [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
