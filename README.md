@@ -992,7 +992,7 @@
 - [numbbbbb/read-react-source-code](https://github.com/numbbbbb/read-react-source-code) - Record what I learn after reading React source code
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 - [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) - 
-- [prompt-engineering/prompt-patterns](https://github.com/prompt-engineering/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
+- [phodal/prompt-patterns](https://github.com/phodal/prompt-patterns) - Prompt 编写模式：如何将思维框架赋予机器，以设计模式的形式来思考 prompt
 - [gokulkrishh/awesome-meta-and-manifest](https://github.com/gokulkrishh/awesome-meta-and-manifest) - ⚡ Awesome collection of meta tags & manifest properties.
 - [sychedelix/Firefox-responsive-custom-presets](https://github.com/sychedelix/Firefox-responsive-custom-presets) - Firefox devtools responsive UI custom presets
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1489,7 +1489,6 @@
 - [CloudCannon/staticshape](https://github.com/CloudCannon/staticshape) - A CLI tool to convert a static site into an SSG site to be used as a baseline
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
-- [antonmedv/numbr](https://github.com/antonmedv/numbr) - Notepad + calculator
 - [lydell/LinkHints](https://github.com/lydell/LinkHints) - A browser extension that lets you click with your keyboard.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server
