@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
@@ -397,7 +398,7 @@
 - [Julow/Unexpected-Keyboard](https://github.com/Julow/Unexpected-Keyboard) - A lightweight virtual keyboard for developers.
 - [AntennaPod/AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
-- [doocs/leetcode](https://github.com/doocs/leetcode) - 😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
+- [doocs/leetcode](https://github.com/doocs/leetcode) - 🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
 - [PureWriter/desktop](https://github.com/PureWriter/desktop) - Pure Writer Desktop
 - [superleeyom/proxy-traffic-monitor](https://github.com/superleeyom/proxy-traffic-monitor) - 🤖 最近也开通了Netflix，Netflix 其实挺费流量的，为了防止梯子的流量超标，所以打算借助 Github Actions + telegram 做一个简单的监控，每天定时把流量使用情况发送到 telegram上
@@ -421,6 +422,7 @@
 
 ## JavaScript 
 
+- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [rcqed/docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
@@ -850,7 +852,6 @@
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
-- [octave-online/octave-online-server](https://github.com/octave-online/octave-online-server) - The infrastructure that powers Octave Online, octave-online.net
 - [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
 - [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.
 - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
@@ -923,8 +924,9 @@
 
 ## Kotlin 
 
+- [plateaukao/einkbro](https://github.com/plateaukao/einkbro) - A small, fast web browser based on Android WebView. It's tailored for E-Ink devices but also works great on normal android devices.
 - [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-- [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app build with MD3
+- [you-apps/WallYou](https://github.com/you-apps/WallYou) - Privacy focused wallpaper app built with MD3
 - [Waboodoo/HTTP-Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts) - Android app to create home screen shortcuts that trigger arbitrary HTTP requests
 - [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Android app
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
@@ -1488,6 +1490,7 @@
 
 ## TypeScript 
 
+- [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
@@ -1588,7 +1591,7 @@
 - [saadq/proposals.es](https://github.com/saadq/proposals.es) - 📚 A website for exploring ECMAScript proposals/champions/specs and more.
 - [PSPDFKit-labs/browserslist.dev](https://github.com/PSPDFKit-labs/browserslist.dev) - A website to display compatible browsers from browserslist string.
 - [TimMikeladze/gist-database](https://github.com/TimMikeladze/gist-database) - ✨ Transform gist into your personal key/value datastore. 💡Pair this with Next.js static sites and incremental static regeneration. Built with TypeScript.
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kuanyui/copy-as-org-mode](https://github.com/kuanyui/copy-as-org-mode) - A Firefox Add-on (WebExtension) to copy selected web page into Org-mode formatted text!
