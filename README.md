@@ -203,6 +203,7 @@
 
 ## Emacs Lisp 
 
+- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
 - [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
 - [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
