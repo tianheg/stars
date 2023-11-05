@@ -233,6 +233,8 @@
 
 ## Go 
 
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
 - [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -331,7 +333,7 @@
 - [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
 - [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
 - [KaiOrange/web-effect-favorites](https://github.com/KaiOrange/web-effect-favorites) - 网页特效收藏馆，收集各种牛逼的网页特效。
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a classless CSS template that allows you to make a good looking website really quickly.
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
 - [Vincenius/css-speedrun](https://github.com/Vincenius/css-speedrun) - A small fun app to test your CSS knowledge
 - [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
@@ -426,6 +428,7 @@
 
 ## JavaScript 
 
+- [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
 - [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [da2x/instapaper-webextension](https://github.com/da2x/instapaper-webextension) - Web extension that adds a button with Read Now and Read Later with Instapaper options to Firefox’s toolbar.
@@ -1144,6 +1147,7 @@
 
 ## Python 
 
+- [net4people/bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [rberenguel/PiWrite](https://github.com/rberenguel/PiWrite) - Use your Kindle Paperwhite as a writing device
 - [abrenaut/posio](https://github.com/abrenaut/posio) - A multiplayer geography game using Websockets
 - [varietywalls/variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems
@@ -1345,6 +1349,8 @@
 
 ## Rust 
 
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+- [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
@@ -1354,7 +1360,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -1423,7 +1429,6 @@
 - [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
-- [sameersbn/docker-gitlab](https://github.com/sameersbn/docker-gitlab) - Dockerized GitLab
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
@@ -1501,6 +1506,8 @@
 
 ## TypeScript 
 
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
