@@ -155,7 +155,7 @@
 - [speedshop/bookbuilder](https://github.com/speedshop/bookbuilder) - A simple template and workflow for publishing books with Pandoc
 - [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io) - the CS missing semester Chinese version
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV)
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with few clicks.
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [spencerwooo/foam-wiki](https://github.com/spencerwooo/foam-wiki) - Foam as second brain. Powered by VuePress.
 - [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/
@@ -626,7 +626,6 @@
 - [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 - [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 - [daiyi/random-wikipedia-newtab-extension](https://github.com/daiyi/random-wikipedia-newtab-extension) - firefox extension that opens a random unusual wikipedia page in new tabs
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 - [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
 - [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
@@ -713,6 +712,7 @@
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [foamzou/group-by-repo-on-github](https://github.com/foamzou/group-by-repo-on-github) - When you search code using github, this script can help you group by repo
+- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -1218,6 +1218,7 @@
 - [mwmbl/mwmbl](https://github.com/mwmbl/mwmbl) - An open source, non-profit search engine implemented in python
 - [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount
 - [OfflineIMAP/offlineimap3](https://github.com/OfflineIMAP/offlineimap3) - Read/sync your IMAP mailboxes (python3)
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [epicmanmoo/leetcode-api](https://github.com/epicmanmoo/leetcode-api) - 
 - [emacs-eaf/eaf-git](https://github.com/emacs-eaf/eaf-git) - Fully multi-threaded git client for Emacs
@@ -1349,6 +1350,7 @@
 
 ## Rust 
 
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -1672,7 +1674,6 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [vially/wayland-explorer](https://github.com/vially/wayland-explorer) - Easily browse and read Wayland protocols documentation
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
-- [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [topfullstack/topfullstack](https://github.com/topfullstack/topfullstack) - NodeJs+VueJs全栈开发《全栈之巅》视频网站 - 源码
 - [antfu/github-doorcat](https://github.com/antfu/github-doorcat) - 😼 Supercharges GitHub navbar for fast navigation [WIP]
@@ -1680,7 +1681,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2022: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
 - [liunnn1994/operationRecord](https://github.com/liunnn1994/operationRecord) - 在浏览器中录制任意界面并实现导出、保存与管理
-- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React or Svelte. Ready out-of-the-box and infinitely customizable
+- [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 - [sjhuangx/vscode-scheme](https://github.com/sjhuangx/vscode-scheme) - 
