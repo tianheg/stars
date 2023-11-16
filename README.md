@@ -1549,7 +1549,7 @@
 - [jishvohn/whybot](https://github.com/jishvohn/whybot) - A curious bot
 - [ranbuch/accessibility](https://github.com/ranbuch/accessibility) - add accessibility to your website
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- [langgenius/dify](https://github.com/langgenius/dify) - The next-gen development platform - Easily build and operate generative AI applications.  Create Assistants API and GPTs based on any LLMs.
+- [langgenius/dify](https://github.com/langgenius/dify) - An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack requ
 - [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo) - 🕹️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [iendeavor/pinia-plugin-persistedstate-2](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - [no longer maintained] Please use https://github.com/prazdevs/pinia-plugin-persistedstate instead.
