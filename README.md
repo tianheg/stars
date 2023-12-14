@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
 - [lxqt/qterminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator
@@ -117,6 +118,7 @@
 
 ## CSS 
 
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [Fivefold/linkding-injector](https://github.com/Fivefold/linkding-injector) - Injects search results from the linkding bookmark service into search pages like google and duckduckgo
 - [astroud/pomodoro-react-app](https://github.com/astroud/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
@@ -434,6 +436,7 @@
 
 ## JavaScript 
 
+- [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [maxlath/time-capsule](https://github.com/maxlath/time-capsule) - A WebExtension to send links to your future self
@@ -881,7 +884,6 @@
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [susam/texme](https://github.com/susam/texme) - Self-rendering Markdown + LaTeX documents
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
 - [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
 - [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
@@ -1162,6 +1164,8 @@
 
 ## Python 
 
+- [acmeyer/readwise-chat](https://github.com/acmeyer/readwise-chat) - A chat bot that pulls from your Readwise highlights, using ChatGPT API.
+- [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
@@ -1372,6 +1376,7 @@
 
 ## Rust 
 
+- [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -1606,7 +1611,7 @@
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [gajus/semantic-url-parser](https://github.com/gajus/semantic-url-parser) - Extracts content information from known URL patterns.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
@@ -1782,6 +1787,7 @@
 - [scott-joe/foam--bottle--personal](https://github.com/scott-joe/foam--bottle--personal) - 
 - [swdotcom/swdc-vscode](https://github.com/swdotcom/swdc-vscode) - Time-tracking plugin for Visual Studio Code
 - [swdotcom/swdc-vscode-100-days-of-code](https://github.com/swdotcom/swdc-vscode-100-days-of-code) - A VS Code extension that helps you reach your goals in completing the 100 Days of Code challenge
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [XGHeaven/homebox](https://github.com/XGHeaven/homebox) - A Toolbox for Home Local Networks
 - [solobat/iAutomator](https://github.com/solobat/iAutomator) - 
 - [alefragnani/vscode-project-manager](https://github.com/alefragnani/vscode-project-manager) - Project Manager Extension for Visual Studio Code
