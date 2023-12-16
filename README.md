@@ -95,6 +95,7 @@
 
 ## C++ 
 
+- [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
 - [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
@@ -169,6 +170,7 @@
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) - :book: Java 编程思想
+- [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL 2) in Windows 10 or 11.
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
 ## Clojure 
@@ -403,6 +405,7 @@
 
 ## Java 
 
+- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
@@ -437,7 +440,7 @@
 ## JavaScript 
 
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT equivalent experience for both open and close source LLMs, embedders, and vector databases. Supports unlimited documents, threads, and concurrent users and management all in a very
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [maxlath/time-capsule](https://github.com/maxlath/time-capsule) - A WebExtension to send links to your future self
 - [ruiduobao/shengshixian.com](https://github.com/ruiduobao/shengshixian.com) - 
@@ -1155,7 +1158,6 @@
 - [changhuixu/ScriptsArchive](https://github.com/changhuixu/ScriptsArchive) - Useful scripts
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-- [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL) in Windows 10.
 
 ## Pug 
 
@@ -1164,6 +1166,7 @@
 
 ## Python 
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 - [acmeyer/readwise-chat](https://github.com/acmeyer/readwise-chat) - A chat bot that pulls from your Readwise highlights, using ChatGPT API.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
@@ -1611,7 +1614,7 @@
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [gajus/semantic-url-parser](https://github.com/gajus/semantic-url-parser) - Extracts content information from known URL patterns.
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
-- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
