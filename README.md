@@ -559,7 +559,6 @@
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
 - [tj/term-canvas](https://github.com/tj/term-canvas) - javascript canvas api for your terminal!
 - [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
-- [tianheg/learning-tree](https://github.com/tianheg/learning-tree) - 
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
