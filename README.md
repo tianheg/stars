@@ -1167,6 +1167,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [sontek/snowmachine](https://github.com/sontek/snowmachine) - A python script that allows your terminal to snow.
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
 - [niccokunzmann/open-web-calendar](https://github.com/niccokunzmann/open-web-calendar) - Embed a highly customizable web calendar into your website using ICal source links
