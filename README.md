@@ -441,6 +441,7 @@
 
 ## JavaScript 
 
+- [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
@@ -1829,6 +1830,7 @@
 
 ## Vue 
 
+- [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [emersonbottero/vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search) - Provide local search to your documentation site.
 - [ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog) - ✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件
 - [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
