@@ -376,7 +376,7 @@
 
 ## Java 
 
-- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 【新增Vision识图】免费的基于ChatGPT API的安卓端语音助手，可通过音量键唤起并进行语音交流，支持联网、Vision拍照识图、连续对话、提问模板、3.5/4.0接口、Markdown渲染等功能
+- [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network conn
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
 - [w3c/epubcheck](https://github.com/w3c/epubcheck) - The conformance checker for EPUB publications
 - [amnesica/KryptEY](https://github.com/amnesica/KryptEY) - Android keyboard for secure E2EE communication through the signal protocol in any messenger. Communicate securely and independent, regardless of the legal situation or whether messengers use E2EE
@@ -410,6 +410,7 @@
 
 ## JavaScript 
 
+- [Lucky-183/PI-Assistant](https://github.com/Lucky-183/PI-Assistant) - 基于树莓派和GPT实现的多功能语音助手
 - [Yuyz0112/vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
@@ -1417,6 +1418,7 @@
 
 ## Shell 
 
+- [nextcloud/nextcloudpi](https://github.com/nextcloud/nextcloudpi) - 📦 Build code for NextcloudPi: Raspberry Pi, Odroid, Rock64, Docker, curl installer...
 - [mdn/curriculum](https://github.com/mdn/curriculum) - MDN front-end developer curriculum
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
 - [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
