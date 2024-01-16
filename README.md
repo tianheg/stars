@@ -402,6 +402,7 @@
 - [android/security-certification-resources](https://github.com/android/security-certification-resources) - Android Certification Tools
 - [hmkcode/Android](https://github.com/hmkcode/Android) - Android related examples
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
+- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 - [android/media-samples](https://github.com/android/media-samples) - Multiple samples showing the best practices in media APIs on Android (audio, video, etc.).
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
@@ -967,7 +968,7 @@
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) - A curated list of awesome system integration software and resources.
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nunjucks 
@@ -1833,7 +1834,6 @@
 - [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [ubaldop/vuemodoro](https://github.com/ubaldop/vuemodoro) - Vue component implementing a Pomodoro timer
 - [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - 低代码中后台解决方案SmartAdmin，使用SpringBoot2 和 Vue3 Setup语法糖、 Composition Api (同时支持JavaScript和TypeScript双版本) ， 我们开源一套漂亮的代码和一套整洁的代码规范，让大家在这浮躁的代码世界里感受到一股把代码写好的清流！同时又让开发者节省大量的时间，减少加班，快乐工作，热爱代码，更热爱生活。
 - [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
