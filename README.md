@@ -386,6 +386,7 @@
 
 ## Java 
 
+- [MCMrARM/revolution-irc](https://github.com/MCMrARM/revolution-irc) - A modern Android IRC client. #revolutionirc on Libera.chat
 - [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
 - [Skythinker616/gpt-assistant-android](https://github.com/Skythinker616/gpt-assistant-android) - 免费的ChatGPT API的安卓语音助手，可用音量键唤起并进行语音交流，支持联网、Vision拍照识图、提问模板等功能 | A free ChatGPT API voice assistant for Android, activated via volume keys for voice interaction, supporting features such as network conn
 - [Etar-Group/Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
@@ -426,7 +427,7 @@
 - [Yuyz0112/vx.dev](https://github.com/Yuyz0112/vx.dev) - An open-source alternative to v0.dev. Cost-effective, highly customizable, and seamlessly integrated within GitHub.
 - [bestony/ChatGPT-Feishu](https://github.com/bestony/ChatGPT-Feishu) - 给飞书准备的 ChatGPT 机器人
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
 - [maxlath/time-capsule](https://github.com/maxlath/time-capsule) - A WebExtension to send links to your future self
@@ -704,7 +705,6 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [kwin-scripts/kwin-tiling](https://github.com/kwin-scripts/kwin-tiling) - Tiling script for kwin
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [music-stats/timeline](https://github.com/music-stats/timeline) - :headphones: scrobbles plotted on a timeline
@@ -1062,6 +1062,7 @@
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
+- [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
@@ -1152,6 +1153,7 @@
 
 ## Python 
 
+- [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [sontek/snowmachine](https://github.com/sontek/snowmachine) - A python script that allows your terminal to snow.
 - [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -1309,6 +1311,7 @@
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [crifan/gitbook_template](https://github.com/crifan/gitbook_template) - 演示如何使用crifan的gitbook的模板去创建自己的gitbook电子书
 - [cascadium/wsl-windows-toolbar-launcher](https://github.com/cascadium/wsl-windows-toolbar-launcher) - Adds linux GUI application menu to a windows toolbar
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [sourcerer-io/hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - :trophy: Show some love to your contributors!  A widget for your repo README. Visual and clean. Refreshes every hour.
 - [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
@@ -1489,7 +1492,6 @@
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [SukkaW/CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
 - [tj/n](https://github.com/tj/n) - Node version management
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [scott-joe/foam--workspace](https://github.com/scott-joe/foam--workspace) - 
