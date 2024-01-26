@@ -187,6 +187,7 @@
 
 ## Emacs Lisp 
 
+- [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
 - [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
 - [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
 - [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
