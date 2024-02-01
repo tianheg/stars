@@ -218,6 +218,7 @@
 
 ## Go 
 
+- [lincolnthalles/memos-builds](https://github.com/lincolnthalles/memos-builds) - Builds for https://github.com/usememos/memos
 - [yann0917/alipay-wechat-merge](https://github.com/yann0917/alipay-wechat-merge) - 合并从支付宝、微信下载的 .csv格式账单，使用 echarts 对账单做简单的图表分析
 - [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -1375,6 +1376,7 @@
 
 ## Rust 
 
+- [lincolnthalles/memospot](https://github.com/lincolnthalles/memospot) - Memospot is a self-contained desktop version of Memos, a beautiful, privacy-first, lightweight note-taking service.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [baskerville/plato](https://github.com/baskerville/plato) - Document reader
@@ -1648,7 +1650,7 @@
 - [w3c/spec-prod](https://github.com/w3c/spec-prod) - GitHub Action to build ReSpec/Bikeshed specs, validate output and publish to GitHub pages or W3C
 - [dukeluo/wai](https://github.com/dukeluo/wai) - 一款可以预防颈椎病的新标签页扩展。
 - [google/blockly](https://github.com/google/blockly) - The web-based visual programming editor.
-- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 26 other languages
+- [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [rodgetech/cron-ai](https://github.com/rodgetech/cron-ai) - A natural language to cron expression generator
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [js-sdsl/js-sdsl](https://github.com/js-sdsl/js-sdsl) - A javascript standard data structure library which benchmark against C++ STL.
@@ -1738,7 +1740,6 @@
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit) - Experimental spaced repetition platform for exploring ideas in memory augmentation and programmable attention
-- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -1823,7 +1824,7 @@
 
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability.  || 🇨🇳 一个更好的 IP 工具箱。可以查看IP、IP 信息（代理前后）、
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more! || 🇨🇳 可能是最好用的
 - [emersonbottero/vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search) - Provide local search to your documentation site.
 - [ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog) - ✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件；a blog theme use vitepress
 - [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
