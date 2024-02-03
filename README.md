@@ -370,7 +370,7 @@
 - [bryanbraun/poor-mans-styleguide](https://github.com/bryanbraun/poor-mans-styleguide) - A frontend styleguide for the pragmatic.
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [poozhu/juejin-search](https://github.com/poozhu/juejin-search) - 🔍 掘金搜索，搜索结果二次过滤
-- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
+- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - 😝 You can’t spell aWEsoME without MEME!
 - [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
 - [reuixiy/io-oi.me](https://github.com/reuixiy/io-oi.me) - Blog of reuixiy!
 
@@ -476,7 +476,7 @@
 - [textdiff/textdiff.github.io](https://github.com/textdiff/textdiff.github.io) - Text differ
 - [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - Related submissions for Hacker News
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that adds a relevant submissions section to Hacker News
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [jdm/asknot](https://github.com/jdm/asknot) - Ask not what Mozilla can do for you but what you can do for Mozilla.
@@ -996,7 +996,7 @@
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 - [awesome-chatgpt/awesome-chatgpt](https://github.com/awesome-chatgpt/awesome-chatgpt) - 🏆 An awe-inspiring collection of resources, encompassing a wide range of tools, documents, resources, applications, and use cases related to ChatGPT.
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.
-- [radishes-music/radishes](https://github.com/radishes-music/radishes) - 
+- [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
@@ -1467,7 +1467,7 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [ntnyq/omz-plugin-pnpm](https://github.com/ntnyq/omz-plugin-pnpm) - :gear: oh-my-zsh aliases for common pnpm commands.
 - [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
