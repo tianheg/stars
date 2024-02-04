@@ -308,7 +308,6 @@
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [whatwg/html](https://github.com/whatwg/html) - HTML Standard
 - [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [TimothyGu/es-howto](https://github.com/TimothyGu/es-howto) - How to read the ECMAScript specification (ECMA-262)
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
@@ -420,7 +419,6 @@
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [PureWriter/about-page](https://github.com/PureWriter/about-page) - A nice about page library based on MultiType
 - [JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid) - :zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n
-- [manmal/hn-android](https://github.com/manmal/hn-android) - Hacker News client with a focus on reliability and usability.
 - [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [mio4/Java-Gold](https://github.com/mio4/Java-Gold) - :coffee: Java炼金小木屋
@@ -613,7 +611,6 @@
 - [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-- [vanyakosmos/discussed-on-hn](https://github.com/vanyakosmos/discussed-on-hn) - Browser extension for one-click check if current page was on HN (and submit with second click)
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 - [hanguokai/mdn-search](https://github.com/hanguokai/mdn-search) - a browser extension for MDN search
@@ -859,7 +856,6 @@
 - [adlered/ContentEasyJS](https://github.com/adlered/ContentEasyJS) - :star2:Easily and automatically create directory navigation for your articles without configuration. | 轻松为你的网站文章设置右侧悬浮目录导航，支持点击跳转，不需要复杂的设置！JS | HTML | JQuery
 - [adlered/punctuationCheck](https://github.com/adlered/punctuationCheck) - :art: 修正中英文标点语法混用的句子 | 干掉中英文标点混用，是十分明智且正确的做法。 | Bootstrap
 - [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [insin/react-hn](https://github.com/insin/react-hn) - React-powered Hacker News client
 - [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
@@ -1068,7 +1064,6 @@
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [irazasyed/awesome-cloudflare](https://github.com/irazasyed/awesome-cloudflare) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
-- [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
 - [noteflakes/awesome-music](https://github.com/noteflakes/awesome-music) - Awesome Music Projects
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com/colbyfayock/50-projects-for-react-and-the-static-web) - ⚛ 50 project ideas to learn by doing complete with project briefs, layout ideas, and resources!
@@ -1231,7 +1226,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan: Large Language Model for Dialogue in Chinese and English
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
@@ -1784,7 +1779,6 @@
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [housseindjirdeh/angular2-hn](https://github.com/housseindjirdeh/angular2-hn) - :boom: Progressive Hacker News client built with Angular
 - [TeamMeow/vscode-math-to-image](https://github.com/TeamMeow/vscode-math-to-image) - 📐 Render LaTeX math equations in any Markdown file!
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [tchayen/markdown-links](https://github.com/tchayen/markdown-links) - Command that displays a graph of local links between markdown files
@@ -1826,6 +1820,7 @@
 
 ## Vue 
 
+- [nuxt/hackernews](https://github.com/nuxt/hackernews) - HackerNews clone built with Nuxt.
 - [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
 - [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
 - [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more! || 🇨🇳 可能是最好用的
