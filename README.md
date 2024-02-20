@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Natural Language Programming
 - [lincolnthalles/memos-builds](https://github.com/lincolnthalles/memos-builds) - Builds for https://github.com/usememos/memos
 - [yann0917/alipay-wechat-merge](https://github.com/yann0917/alipay-wechat-merge) - 合并从支付宝、微信下载的 .csv格式账单，使用 echarts 对账单做简单的图表分析
 - [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
@@ -647,7 +648,6 @@
 - [dhairyathedev/mark2pdf](https://github.com/dhairyathedev/mark2pdf) - 
 - [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-- [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
 - [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
 - [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes) - Automatically change Firefox's theme based on the time
@@ -1155,6 +1155,7 @@
 
 ## Python 
 
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 Mark the things you love.       NeoDB is a self-hosted server tracking what you read/watch/listen/play, and a global distributed community federating via ActivityPub.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
