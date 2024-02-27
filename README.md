@@ -90,7 +90,7 @@
 - [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Develop LLM Apps in Natural Language
 - [lincolnthalles/memos-builds](https://github.com/lincolnthalles/memos-builds) - Builds for https://github.com/usememos/memos
@@ -429,6 +430,7 @@
 
 ## JavaScript 
 
+- [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [alswl/dingmark](https://github.com/alswl/dingmark) - Go CLI and WASM online for DingTalk send markdown message.
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
@@ -757,7 +759,6 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [drumnickydrum/sequencer64](https://github.com/drumnickydrum/sequencer64) - A 64-step React JS drum sequencer
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
-- [dmo60/CoverflowAltTab](https://github.com/dmo60/CoverflowAltTab) - Coverflow like Alt-Tab replacement for Gnome-Shell and Cinnamon
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
@@ -1227,7 +1228,7 @@
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [piglei/ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder) - 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
@@ -1400,7 +1401,6 @@
 - [foriequal0/git-trim](https://github.com/foriequal0/git-trim) - Automatically trims your branches whose tracking remote refs are merged or stray
 - [JasonWei512/code-radio-cli](https://github.com/JasonWei512/code-radio-cli) - 🎵 A command line music radio client for https://coderadio.freecodecamp.org, written in Rust.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [mozsearch/mozsearch](https://github.com/mozsearch/mozsearch) - Mozilla code search website. (Please file bugs in bugzilla at https://mzl.la/2YtXmoN)
@@ -1506,7 +1506,6 @@
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [SukkaW/CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
-- [tj/n](https://github.com/tj/n) - Node version management
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
