@@ -285,6 +285,7 @@
 
 ## HTML 
 
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
 - [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
 - [yichuang-zh/ycproject](https://github.com/yichuang-zh/ycproject) - web
 - [tianheg/til](https://github.com/tianheg/til) - Today I Learned
@@ -918,6 +919,7 @@
 
 ## Jupyter Notebook 
 
+- [minimaxir/chatgpt-tips-analysis](https://github.com/minimaxir/chatgpt-tips-analysis) - Jupyter Notebooks for testing the impact of tip incentives for ChatGPT
 - [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
 - [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
 - [backus/ai.sh](https://github.com/backus/ai.sh) - Copilot for the terminal. Generate commands and preview them before running
@@ -991,6 +993,7 @@
 
 ## Others 
 
+- [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [cheeaun/awesome-hacker-news](https://github.com/cheeaun/awesome-hacker-news) - Awesome Hacker News: a collection of awesome Hacker News apps, libraries, resources and shiny things.
 - [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
@@ -1156,6 +1159,7 @@
 
 ## Python 
 
+- [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 Mark the things you love.       NeoDB is a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub.
