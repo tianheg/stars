@@ -189,6 +189,7 @@
 
 ## Emacs Lisp 
 
+- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
 - [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
 - [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
 - [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
@@ -434,6 +435,10 @@
 
 ## JavaScript 
 
+- [Stack-Studio-Digital-Collective/mail-clipper](https://github.com/Stack-Studio-Digital-Collective/mail-clipper) - 
+- [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
+- [shmup/firefox-tab-unloader](https://github.com/shmup/firefox-tab-unloader) - unload all but the active tab across all firefox windows
+- [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
 - [jessuni/shikwasa](https://github.com/jessuni/shikwasa) - An audio player born for podcast
 - [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
@@ -501,7 +506,6 @@
 - [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [PaulKinlan/idb-vector](https://github.com/PaulKinlan/idb-vector) - A simple vector database built on idb
-- [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
 - [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
 - [maxovicsteiner/neural-network](https://github.com/maxovicsteiner/neural-network) - Neural network prototype built from scratch in javascript.
@@ -1567,6 +1571,7 @@
 
 ## TypeScript 
 
+- [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 手势识别进行自定义操控电脑程序 |  a gesture recognition-based application for controlling desktop softwares, developed by MediaPipe + Electron + React
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
