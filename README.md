@@ -1403,6 +1403,7 @@
 
 ## Rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [inko-lang/inko](https://github.com/inko-lang/inko) - A language for building concurrent software with confidence
 - [lincolnthalles/memospot](https://github.com/lincolnthalles/memospot) - Memospot is a self-contained desktop version of Memos, a beautiful, privacy-first, lightweight note-taking service.
