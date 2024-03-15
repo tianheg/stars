@@ -1389,7 +1389,6 @@
 - [middleman/middleman](https://github.com/middleman/middleman) - Hand-crafted frontend development
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [tryzealot/zealot](https://github.com/tryzealot/zealot) - 开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库 | Self-hosted Beta App Distribution for Android, iOS and macOS apps
 - [snibox/snibox](https://github.com/snibox/snibox) - Self-hosted snippet manager
 - [davidesantangelo/dato.rss](https://github.com/davidesantangelo/dato.rss) - The best RSS Search experience you can find
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list) - Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
