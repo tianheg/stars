@@ -1000,6 +1000,7 @@
 
 ## Others 
 
+- [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [tarsius/elisp-maintainers](https://github.com/tarsius/elisp-maintainers) - Elisp maintainers and how to support them
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
 - [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) - 🇨🇳 老司机技术 iOS 周报
@@ -1888,7 +1889,6 @@
 - [leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
 - [ubaldop/vuemodoro](https://github.com/ubaldop/vuemodoro) - Vue component implementing a Pomodoro timer
 - [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [1024-lab/smart-admin](https://github.com/1024-lab/smart-admin) - SmartAdmin国内首个以「高质量代码」为核心，「简洁、高效、安全」快速开发平台；基于SpringBoot + Sa-Token + Mybatis-Plus 和 Vue3 + Vite5 + Ant Design Vue 4.x (同时支持JavaScript和TypeScript双版本)；满足国家三级等保要求、支持登录限制、接口数据国产加解密、高防SQL注入等一系列安全体系。
 - [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
