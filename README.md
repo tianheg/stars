@@ -445,6 +445,7 @@
 
 ## JavaScript 
 
+- [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
 - [Stack-Studio-Digital-Collective/mail-clipper](https://github.com/Stack-Studio-Digital-Collective/mail-clipper) - An open source Chrome Extension and Firefox Addon to copy email links to your clipboard
@@ -1176,6 +1177,7 @@
 
 ## Python 
 
+- [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [intersimone999/pyqtws](https://github.com/intersimone999/pyqtws) - 
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
