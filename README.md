@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Emacs Lisp](#emacs-lisp)
 - [TypeScript](#typescript)
 - [HTML](#html)
 - [Python](#python)
@@ -17,7 +18,6 @@
 - [C++](#c++)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
-- [Emacs Lisp](#emacs-lisp)
 - [Shell](#shell)
 - [CSS](#css)
 - [Dart](#dart)
@@ -62,8 +62,44 @@
 - [Roff](#roff)
 - [VBScript](#vbscript)
 
+## Emacs Lisp 
+
+- [justbur/emacs-which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup
+- [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
+- [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
+- [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
+- [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
+- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
+- [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
+- [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
+- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
+- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
+- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
+- [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
+- [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
+- [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
+- [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
+- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
+- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
+- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
+- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
+- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
+- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
+- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
+- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
+- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
+- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese/Japanese/Korean and English characters.
+- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
+
 ## TypeScript 
 
+- [feiandxs/duckrush](https://github.com/feiandxs/duckrush) - A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing. Supports deployment on Cloud
 - [djyde/wisetab](https://github.com/djyde/wisetab) - Readwise daily review in your browser new tab page
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
@@ -544,7 +580,7 @@
 - [ninehills/Chat-GPT-Enhance](https://github.com/ninehills/Chat-GPT-Enhance) - Empower ChatGPT with the ability to perform mathematical calculations, web scraping, PDF analysis, and more.
 - [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple web database
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
-- [sourabh-joshi/awesome-quincy-larson-emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails) - This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
+- [freeCodeCamp/awesome-quincy-larson-emails](https://github.com/freeCodeCamp/awesome-quincy-larson-emails) - This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [reorx/awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api) - Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
 - [ofou/graham-essays](https://github.com/ofou/graham-essays) - 📚 Download the full collection of Paul Graham essays in EPUB, PDF & Markdown for easy reading.
@@ -1409,7 +1445,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
@@ -1506,40 +1542,6 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
-
-## Emacs Lisp 
-
-- [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
-- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
-- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
-- [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
-- [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
-- [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
-- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
-- [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
-- [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
-- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
-- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
-- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
-- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
-- [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
-- [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
-- [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
-- [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
-- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
-- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
-- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
-- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
-- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
-- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
-- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
-- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese/Japanese/Korean and English characters.
-- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
 ## Shell 
 
