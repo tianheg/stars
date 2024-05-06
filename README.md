@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [HCL](#hcl)
 - [JavaScript](#javascript)
 - [C](#c)
 - [Emacs Lisp](#emacs-lisp)
@@ -61,6 +62,10 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## HCL 
+
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
 
 ## JavaScript 
 
@@ -1834,7 +1839,7 @@
 - [jscausey/vscode-nginx-certbot](https://github.com/jscausey/vscode-nginx-certbot) - Host VSCode with SSL via Nginx and Certbot
 - [linuxserver/docker-resilio-sync](https://github.com/linuxserver/docker-resilio-sync) - 
 - [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
-- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~154KB) to run any static website
+- [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [VaultVulp/action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
