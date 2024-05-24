@@ -5,26 +5,26 @@
 
 ## Contents
 
+- [Svelte](#svelte)
+- [Jupyter Notebook](#jupyter-notebook)
+- [C](#c)
 - [TypeScript](#typescript)
 - [CSS](#css)
-- [Svelte](#svelte)
 - [Python](#python)
 - [JavaScript](#javascript)
-- [C](#c)
 - [Go](#go)
 - [MDX](#mdx)
 - [Rust](#rust)
 - [Others](#others)
-- [Astro](#astro)
 - [HTML](#html)
 - [Pascal](#pascal)
+- [Astro](#astro)
 - [PHP](#php)
 - [HCL](#hcl)
 - [Emacs Lisp](#emacs-lisp)
 - [Vue](#vue)
 - [C++](#c++)
 - [Julia](#julia)
-- [Jupyter Notebook](#jupyter-notebook)
 - [Shell](#shell)
 - [Dart](#dart)
 - [SCSS](#scss)
@@ -64,8 +64,54 @@
 - [Roff](#roff)
 - [VBScript](#vbscript)
 
+## Svelte 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query
+- [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
+- [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
+- [Blumed/make-bookmarklets](https://github.com/Blumed/make-bookmarklets) - Code for make-bookmarklets.com
+- [cnanney/dev-toolbox](https://github.com/cnanney/dev-toolbox) - Dev Toolbox provides quick offline access to various development tools.
+- [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
+
+## Jupyter Notebook 
+
+- [meta-llama/llama-recipes](https://github.com/meta-llama/llama-recipes) - Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [minimaxir/chatgpt-tips-analysis](https://github.com/minimaxir/chatgpt-tips-analysis) - Jupyter Notebooks for testing the impact of tip incentives for ChatGPT
+- [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
+- [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
+- [backus/ai.sh](https://github.com/backus/ai.sh) - Copilot for the terminal. Generate commands and preview them before running
+- [eleanorlutz/asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
+- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
+- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
+- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
+- [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
+
+## C 
+
+- [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
+- [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
+- [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
+- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
+- [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
+- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
+
 ## TypeScript 
 
+- [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
+- [rossjrw/gallifreyo](https://github.com/rossjrw/gallifreyo) - WIP · Gallifreyan translator
 - [JacobLinCool/package-jacoblincool](https://github.com/JacobLinCool/package-jacoblincool) - 
 - [Ender-Wiggin2019/VTuber-Logos-Collection](https://github.com/Ender-Wiggin2019/VTuber-Logos-Collection) - an elegant website for collecting kawaii logos from great artists
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -435,15 +481,6 @@
 - [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL 2) in Windows 10 or 11.
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
-## Svelte 
-
-- [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query
-- [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
-- [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
-- [Blumed/make-bookmarklets](https://github.com/Blumed/make-bookmarklets) - Code for make-bookmarklets.com
-- [cnanney/dev-toolbox](https://github.com/cnanney/dev-toolbox) - Dev Toolbox provides quick offline access to various development tools.
-- [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
-
 ## Python 
 
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -675,6 +712,7 @@
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
 - [insin/comments-owl-for-hacker-news](https://github.com/insin/comments-owl-for-hacker-news) - Browser extension which makes it easer to follow comment threads on Hacker News across multiple visits, allows you to annotate and mute users, and other UI tweaks and mobile UX improvements
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [tianheg/img](https://github.com/tianheg/img) - 
 - [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library.
 - [aegir-assembly/omni-clip](https://github.com/aegir-assembly/omni-clip) - Open source video editing web application
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) - 
@@ -1159,25 +1197,6 @@
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
-## C 
-
-- [ArtifexSoftware/mupdf](https://github.com/ArtifexSoftware/mupdf) - mupdf mirror
-- [cloudwu/skynet](https://github.com/cloudwu/skynet) - A lightweight online game framework
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
-- [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
-- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [opsengine/cpulimit](https://github.com/opsengine/cpulimit) - CPU usage limiter for Linux
-- [SinaKarvandi/Hypervisor-From-Scratch](https://github.com/SinaKarvandi/Hypervisor-From-Scratch) - Source code of a multiple series of tutorials about the hypervisor. Available at: https://rayanfam.com/tutorials
-- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android
-- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [raspberrypi/rpi-imager](https://github.com/raspberrypi/rpi-imager) - The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.
-- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
-- [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
-
 ## Go 
 
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -1456,13 +1475,6 @@
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
-## Astro 
-
-- [tianheg/img](https://github.com/tianheg/img) - 
-- [dgurns/magic-ai-box](https://github.com/dgurns/magic-ai-box) - Experimenting with Astro, HTMX, and Cloudflare AI
-- [aostiles/astro-webauthn-starter](https://github.com/aostiles/astro-webauthn-starter) - Starter template for a serverless website using Astro, WebAuthn, and Cloudflare D1.
-- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
-
 ## HTML 
 
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
@@ -1571,6 +1583,12 @@
 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 
+## Astro 
+
+- [dgurns/magic-ai-box](https://github.com/dgurns/magic-ai-box) - Experimenting with Astro, HTMX, and Cloudflare AI
+- [aostiles/astro-webauthn-starter](https://github.com/aostiles/astro-webauthn-starter) - Starter template for a serverless website using Astro, WebAuthn, and Cloudflare D1.
+- [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
+
 ## PHP 
 
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0) - 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。
@@ -1678,19 +1696,6 @@
 ## Julia 
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
-
-## Jupyter Notebook 
-
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [minimaxir/chatgpt-tips-analysis](https://github.com/minimaxir/chatgpt-tips-analysis) - Jupyter Notebooks for testing the impact of tip incentives for ChatGPT
-- [gkamradt/langchain-tutorials](https://github.com/gkamradt/langchain-tutorials) - Overview and tutorial of the LangChain Library
-- [lewangdev/gost-install.ipynb](https://github.com/lewangdev/gost-install.ipynb) - 通过 Jupyter  Notebook 安装 GOST
-- [backus/ai.sh](https://github.com/backus/ai.sh) - Copilot for the terminal. Generate commands and preview them before running
-- [eleanorlutz/asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
-- [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
-- [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
-- [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
 
 ## Shell 
 
