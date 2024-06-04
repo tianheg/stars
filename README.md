@@ -13,9 +13,9 @@
 - [Python](#python)
 - [Astro](#astro)
 - [Vue](#vue)
-- [C++](#c++)
 - [Ruby](#ruby)
 - [Jupyter Notebook](#jupyter-notebook)
+- [C++](#c++)
 - [Svelte](#svelte)
 - [C](#c)
 - [CSS](#css)
@@ -70,6 +70,7 @@
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.
 - [hutusi/fellini](https://github.com/hutusi/fellini) - the next-Gen search engine for intellectually curious.
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
@@ -494,7 +495,6 @@
 - [docker-library/docs](https://github.com/docker-library/docs) - Documentation for Docker Official Images in docker-library
 - [ntnyq/omz-plugin-pnpm](https://github.com/ntnyq/omz-plugin-pnpm) - :gear: oh-my-zsh aliases for common pnpm commands.
 - [521xueweihan/OneFile](https://github.com/521xueweihan/OneFile) - 只有一个文件！
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [lujun9972/emacs-document](https://github.com/lujun9972/emacs-document) - translate emacs documents to Chinese for convenient reference
 - [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf) - Aria2 配置文件 | OneDrive & Google Drvive 离线下载 | 百度网盘转存
 - [leucos/ansible-tuto](https://github.com/leucos/ansible-tuto) - Ansible tutorial
@@ -1457,28 +1457,6 @@
 - [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
 - [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
-## C++ 
-
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
-- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
-- [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
-- [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
-- [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
-- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
-- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
-- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
 ## Ruby 
 
 - [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) - Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬
@@ -1511,6 +1489,27 @@
 - [fastai/fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [fivethirtyeight/data](https://github.com/fivethirtyeight/data) - Data and code behind the articles and graphics at FiveThirtyEight
+
+## C++ 
+
+- [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
+- [stefanhaustein/TerminalImageViewer](https://github.com/stefanhaustein/TerminalImageViewer) - Small C++ program to display images in a (modern) terminal using RGB ANSI codes and unicode block graphics characters
+- [IJHack/QtPass](https://github.com/IJHack/QtPass) - QtPass is a multi-platform GUI for pass, the standard unix password manager.
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [rime/librime](https://github.com/rime/librime) - Rime Input Method Engine, the core library
+- [fcitx/fcitx5-rime](https://github.com/fcitx/fcitx5-rime) - 
+- [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
+- [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 
 ## Svelte 
 
@@ -1928,6 +1927,7 @@
 - [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
 - [lipanski/docker-static-website](https://github.com/lipanski/docker-static-website) - A very small Docker image (~80KB) to run any static website
 - [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) - Docker container for MediaWiki
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [VaultVulp/action-pipenv](https://github.com/VaultVulp/action-pipenv) - Use pipenv commands in your GitHub Actions Workflow
 
