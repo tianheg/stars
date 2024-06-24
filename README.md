@@ -5,10 +5,10 @@
 
 ## Contents
 
+- [MDX](#mdx)
 - [Kotlin](#kotlin)
 - [Vue](#vue)
 - [TypeScript](#typescript)
-- [MDX](#mdx)
 - [Others](#others)
 - [Python](#python)
 - [HTML](#html)
@@ -65,6 +65,15 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## MDX 
+
+- [syhily/yufan.me](https://github.com/syhily/yufan.me) - My Chinese blog captures my past memories and thoughts.
+- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
+- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## Kotlin 
 
@@ -159,6 +168,7 @@
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [szTheory/exifcleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 - [kuc-arc-f/astro2_18workers](https://github.com/kuc-arc-f/astro2_18workers) - Astro 2 + cloudflare D1, workers, hono sample
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber) - A React renderer for rendering hand-drawn SVGs.
@@ -465,14 +475,6 @@
 - [cyrildiagne/ar-cutpaste](https://github.com/cyrildiagne/ar-cutpaste) - Cut and paste your surroundings using AR
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
-
-## MDX 
-
-- [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
-- [mintlify/starter](https://github.com/mintlify/starter) - 📖 The starter kit for your Mintlify docs
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-- [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 
 ## Others 
 
@@ -855,7 +857,6 @@
 ## HTML 
 
 - [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
-- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
 - [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
@@ -1692,7 +1693,6 @@
 - [wyj0605/douban_library](https://github.com/wyj0605/douban_library) - 浏览豆瓣网时自动查询图书馆的图书信息。
 - [weitblick/epub](https://github.com/weitblick/epub) - An epub theme for the Static Site Generator HUGO.
 - [LGiki/hugo-theme-knowing-less](https://github.com/LGiki/hugo-theme-knowing-less) - 🎙️ A HUGO theme for podcasts | 一款为播客设计的HUGO主题
-- [mattstratton/castanet](https://github.com/mattstratton/castanet) - A podcast-oriented theme for Hugo
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
 - [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.
 - [astroud/pomodoro-react-app](https://github.com/astroud/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
