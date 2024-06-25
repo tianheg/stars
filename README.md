@@ -1193,7 +1193,7 @@
 - [textdiff/textdiff.github.io](https://github.com/textdiff/textdiff.github.io) - Text differ
 - [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that shows relevant submissions on Hacker News
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that shows relevant discussions on Hacker News
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
 - [jdm/asknot](https://github.com/jdm/asknot) - Ask not what Mozilla can do for you but what you can do for Mozilla.
@@ -1690,7 +1690,7 @@
 ## CSS 
 
 - [JacobLinCool/JacobLinCool](https://github.com/JacobLinCool/JacobLinCool) - 
-- [wyj0605/douban_library](https://github.com/wyj0605/douban_library) - 浏览豆瓣网时自动查询图书馆的图书信息。
+- [wyj0605/douban_library](https://github.com/wyj0605/douban_library) - 豆瓣读书插件，自动查询图书馆的图书借阅信息。
 - [weitblick/epub](https://github.com/weitblick/epub) - An epub theme for the Static Site Generator HUGO.
 - [LGiki/hugo-theme-knowing-less](https://github.com/LGiki/hugo-theme-knowing-less) - 🎙️ A HUGO theme for podcasts | 一款为播客设计的HUGO主题
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog) - Free, no-nonsense, super fast blogging.
