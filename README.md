@@ -135,6 +135,7 @@
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [hutusi/fellini](https://github.com/hutusi/fellini) - the next-Gen search engine for intellectually curious.
 - [antfu-collective/taze](https://github.com/antfu-collective/taze) - 🥦 A modern cli tool that keeps your deps fresh
+- [Dinoosauro/ffmpeg-web](https://github.com/Dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
 - [ddahan/ui-libs](https://github.com/ddahan/ui-libs) - A UI Lib Picker for Vue 3 / Nuxt 3
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
@@ -546,7 +547,6 @@
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
-- [Dinoosauro/ffmpeg-web](https://github.com/Dinoosauro/ffmpeg-web) - A Web and Native UI for ffmpeg-wasm: convert video, audio and images using the power of ffmpeg, directly from your web browser or from your computer.
 - [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 - [tidoust/media-tests](https://github.com/tidoust/media-tests) - Musings on media
 - [alicescfernandes/random-who](https://github.com/alicescfernandes/random-who) - A random website to sort a random doctor who episode, just because i love doctor who
