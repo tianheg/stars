@@ -884,7 +884,7 @@
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [baurine/vscode-pangu](https://github.com/baurine/vscode-pangu) - VS Code extension for pangu, add whitespace between Chinese and English
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
-- [rockmanvnx6/FireShare](https://github.com/rockmanvnx6/FireShare) - Real-time file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing.
+- [auspham/FireShare](https://github.com/auspham/FireShare) - Real-time file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [privatenumber/github-cdn](https://github.com/privatenumber/github-cdn) - 🛰 Github CDN Server
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
@@ -1515,7 +1515,7 @@
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) - A Quotes / Quotations / Affirmations App Widget.
 - [w3c/web-performance](https://github.com/w3c/web-performance) - W3C Web Performance Working Group repo
-- [TedGoas/Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
