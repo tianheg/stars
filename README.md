@@ -481,7 +481,6 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
 - [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [CloudCannon/staticshape](https://github.com/CloudCannon/staticshape) - A CLI tool to convert a static site into an SSG site to be used as a baseline
@@ -855,6 +854,7 @@
 - [da2x/instapaper-webextension](https://github.com/da2x/instapaper-webextension) - Web extension that adds a button with Read Now and Read Later with Instapaper options to Firefox’s toolbar.
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [rcqed/docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [enhance-dev/enhance-music](https://github.com/enhance-dev/enhance-music) - A music library and audio player built with Enhance
