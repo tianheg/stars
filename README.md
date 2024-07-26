@@ -6,6 +6,7 @@
 ## Contents
 
 - [JavaScript](#javascript)
+- [SVG](#svg)
 - [TypeScript](#typescript)
 - [CSS](#css)
 - [Python](#python)
@@ -14,7 +15,6 @@
 - [Others](#others)
 - [Rust](#rust)
 - [Shell](#shell)
-- [PLpgSQL](#plpgsql)
 - [MDX](#mdx)
 - [Vue](#vue)
 - [Go](#go)
@@ -69,6 +69,8 @@
 
 ## JavaScript 
 
+- [tianheg/api](https://github.com/tianheg/api) - 
+- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration.
 - [chand1012/openai-cf-workers-ai](https://github.com/chand1012/openai-cf-workers-ai) - Replacing OpenAI's API with Cloudflare AI.
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
@@ -560,6 +562,10 @@
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
+## SVG 
+
+- [cyberalien/line-md](https://github.com/cyberalien/line-md) - Animated Material Icons. Icons are animated using SVG Animations Level 2 spec, no scripts.
+
 ## TypeScript 
 
 - [team-openpm/cloudflare-vector-search](https://github.com/team-openpm/cloudflare-vector-search) - A Cloudflare Page showing how to do semantic search
@@ -952,6 +958,7 @@
 ## Python 
 
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
+- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [PancrePal-xiaoyibao/PancrePal-xiaoyibao](https://github.com/PancrePal-xiaoyibao/PancrePal-xiaoyibao) - 面向胰腺癌肿瘤患者的智能RAG平台
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
@@ -1590,10 +1597,6 @@
 - [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [getlantern/lantern-binaries-archive](https://github.com/getlantern/lantern-binaries-archive) - Lantern installers binary downloads.
-
-## PLpgSQL 
-
-- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
 
 ## MDX 
 
