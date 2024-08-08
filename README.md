@@ -445,7 +445,6 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome)
 - [keeganstreet/specificity](https://github.com/keeganstreet/specificity) - A JavaScript module for calculating the specificity of CSS selectors
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [xbrowsersync/app](https://github.com/xbrowsersync/app) - xBrowserSync browser extensions / mobile app
 - [CloudCannon/staticshape](https://github.com/CloudCannon/staticshape) - A CLI tool to convert a static site into an SSG site to be used as a baseline
@@ -516,6 +515,7 @@
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 - [mayooear/notion-chat-langchain](https://github.com/mayooear/notion-chat-langchain) - A notion chatbot for your knowledge base built with langchain, typescript/javascript and pinecone.
 - [mckaywrigley/naval-gpt](https://github.com/mckaywrigley/naval-gpt) - AI search & chat for Naval Ravikant's Twitter thread "How To Get Rich."
+- [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
 - [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
@@ -740,6 +740,7 @@
 - [da2x/instapaper-webextension](https://github.com/da2x/instapaper-webextension) - Web extension that adds a button with Read Now and Read Later with Instapaper options to Firefox’s toolbar.
 - [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 - [rcqed/docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [enhance-dev/enhance-music](https://github.com/enhance-dev/enhance-music) - A music library and audio player built with Enhance
@@ -833,7 +834,6 @@
 - [ymzuiku/aoife](https://github.com/ymzuiku/aoife) - Developing native JavaScript programs using JSX, where each component is a raw HTMLElement, allows for seamless compatibility with all native JavaScript libraries.
 - [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
 - [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-- [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
