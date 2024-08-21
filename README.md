@@ -100,7 +100,7 @@
 - [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine) - Power CLI and Workflow manager for LLMs (core package)
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The memory layer for Personalized AI
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - LLM Proxy to call 100+ LLM APIs using the OpenAI format - Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [KanjiVG/kanjivg](https://github.com/KanjiVG/kanjivg) - Kanji vector graphics
 - [lukew3/mathgenerator](https://github.com/lukew3/mathgenerator) - A math problem generator, created for the purpose of giving self-studying students and teaching organizations the means to easily get access to high-quality, generated math problems to suit their need
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
@@ -110,7 +110,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 NeoDB is a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -164,7 +164,7 @@
 - [kale5195/chilloutai](https://github.com/kale5195/chilloutai) - AI 图片生成
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [ninehills/Chat-GPT-Enhance](https://github.com/ninehills/Chat-GPT-Enhance) - Empower ChatGPT with the ability to perform mathematical calculations, web scraping, PDF analysis, and more.
-- [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple web database
+- [calpaterson/csvbase](https://github.com/calpaterson/csvbase) - a simple website for sharing table data - with an API
 - [awekrx/AutoDoc-ChatGPT](https://github.com/awekrx/AutoDoc-ChatGPT) - AutoDoc-ChatGPT is a Python script that leverages the power of ChatGPT model to automatically generate documentation for any programming language. With AutoDoc-ChatGPT, you can easily generate compreh
 - [freeCodeCamp/awesome-quincy-larson-emails](https://github.com/freeCodeCamp/awesome-quincy-larson-emails) - This repository is an archive of emails that are sent by the awesome Quincy Larson every week.
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
@@ -1001,6 +1001,7 @@
 - [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - Generative AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. It features AI personas, AGI functions, multi-model chats, text-to-image, voice, response streaming, cod
 - [idea2app/Taro-Vant-MobX-ts](https://github.com/idea2app/Taro-Vant-MobX-ts) - Taro project scaffold based on TypeScript, MobX & Vant
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 - [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
 - [Lissy93/raid-calculator](https://github.com/Lissy93/raid-calculator) - 💽 A quick tool for determining and comparing approximate capacity, speed and fault tolerance of different RAID configurations
 - [nuxt-hub/core](https://github.com/nuxt-hub/core) - Build full-stack applications with Nuxt on CloudFlare, with zero configuration.
@@ -1279,7 +1280,6 @@
 ## PLpgSQL 
 
 - [tianheg/api](https://github.com/tianheg/api) - 
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com
 
 ## SVG 
 
