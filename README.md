@@ -16,7 +16,6 @@
 - [C](#c)
 - [HTML](#html)
 - [C++](#c++)
-- [PLpgSQL](#plpgsql)
 - [SVG](#svg)
 - [CSS](#css)
 - [Shell](#shell)
@@ -1562,10 +1561,6 @@
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
-
-## PLpgSQL 
-
-- [tianheg/api](https://github.com/tianheg/api) - 
 
 ## SVG 
 
