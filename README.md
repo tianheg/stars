@@ -167,7 +167,7 @@
 - [linka-app/linka](https://github.com/linka-app/linka) - Cross-platform, Self-hosted & AI powered bookmark management app for linkding, an alternative to linkding front-end, with special optimization for search and quick open functions. Free and open source
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -299,7 +299,6 @@
 - [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [PicGo/vs-picgo](https://github.com/PicGo/vs-picgo) - A VSCode plugin of PicGo
-- [uidotdev/npm-trends](https://github.com/uidotdev/npm-trends) - NPM package comparison
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
 - [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) - A beautiful, customisable New Tab page for Firefox, Chrome, and Edge.
