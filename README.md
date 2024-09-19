@@ -472,7 +472,7 @@
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [drumnickydrum/sequencer64](https://github.com/drumnickydrum/sequencer64) - A 64-step React JS drum sequencer
+- [codenickycode/sequencer64](https://github.com/codenickycode/sequencer64) - A 64-step React JS drum sequencer
 - [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
@@ -1013,7 +1013,7 @@
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website
-- [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - Zero-config PWA plugin for Next.js.
+- [DuCanhGH/next-pwa](https://github.com/DuCanhGH/next-pwa) - PWA for Next.js, powered by Workbox.
 - [kaiyuanshe/kaiyuanshe.github.io](https://github.com/kaiyuanshe/kaiyuanshe.github.io) - The Official Web site of KaiYuanShe
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - Come join the best place on the internet to learn AI skills. Use code "paulgrahamgpt" for an extra 20% off.
 - [jplhomer/superflare](https://github.com/jplhomer/superflare) - A full-stack toolkit for Cloudflare Workers.
