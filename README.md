@@ -48,6 +48,7 @@
 - [EJS](#ejs)
 - [Jsonnet](#jsonnet)
 - [CoffeeScript](#coffeescript)
+- [Spline Font Database](#spline-font-database)
 - [JSON](#json)
 - [Fluent](#fluent)
 - [Makefile](#makefile)
@@ -158,7 +159,7 @@
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge) - 网页里的文件服务器
-- [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents, available in VitePress.
+- [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
@@ -477,7 +478,7 @@
 - [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
 - [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
 - [greglobinski/gatsby-starter-kit-docs](https://github.com/greglobinski/gatsby-starter-kit-docs) - Docs for Gatsby Starter Kit
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
@@ -732,7 +733,6 @@
 - [zhaoolee/ins](https://github.com/zhaoolee/ins) - 🍭互联网从业者的灵感数据库，无广告，Github Actions自动检测网站访问速度
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
-- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary) - One webpage for every book ever published!
@@ -2018,6 +2018,10 @@
 ## CoffeeScript 
 
 - [FurqanSoftware/node-whois](https://github.com/FurqanSoftware/node-whois) - A simple WHOIS client for NodeJS
+
+## Spline Font Database 
+
+- [alerque/libertinus](https://github.com/alerque/libertinus) - The Libertinus font family
 
 ## JSON 
 
