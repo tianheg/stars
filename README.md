@@ -70,6 +70,7 @@
 
 ## C 
 
+- [nfroidure/ttf2woff2](https://github.com/nfroidure/ttf2woff2) - Convert ttf files to woff2.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_
@@ -274,6 +275,7 @@
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
 - [ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge) - 网页里的文件服务器
 - [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
+- [Sv443-Network/JokeAPI](https://github.com/Sv443-Network/JokeAPI) - REST API that serves uniformly and well formatted jokes in JSON, XML, YAML or plain text format that also offers a great variety of filtering methods
 - [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
 - [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 - [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
@@ -803,7 +805,6 @@
 - [PowerSnail/ScoreInUrl](https://github.com/PowerSnail/ScoreInUrl) - Display and edit music score using ABC notations, and encode it in the URL
 - [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 - [stevending1st/open-digger-badges](https://github.com/stevending1st/open-digger-badges) - open-digger badge in SVG
-- [Sv443-Network/JokeAPI](https://github.com/Sv443-Network/JokeAPI) - REST API that serves uniformly and well formatted jokes in JSON, XML, YAML or plain text format that also offers a great variety of filtering methods
 - [rameshvarun/blog-cells](https://github.com/rameshvarun/blog-cells) - Add interactive code snippets to any blog or webpage.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [egoist/openai-proxy](https://github.com/egoist/openai-proxy) - OpenAI proxy on Cloudflare Worker / Vercel Edge
@@ -894,7 +895,7 @@
 - [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 - [vuejs/router](https://github.com/vuejs/router) - 🚦 The official router for Vue.js
 - [gajus/semantic-url-parser](https://github.com/gajus/semantic-url-parser) - Extracts content information from known URL patterns.
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [joeymalvinni/webrtc-ip](https://github.com/joeymalvinni/webrtc-ip) - 🌐 Enhanced IP address querying with WebRTC
 - [Open-Source-Bazaar/Wiki-map](https://github.com/Open-Source-Bazaar/Wiki-map) - Free Map Guider based on OpenStreetMap & Wikipedia API, tells you everything of truth with TTS engine in Web browser.
