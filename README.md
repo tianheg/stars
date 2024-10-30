@@ -5,11 +5,11 @@
 
 ## Contents
 
+- [Go](#go)
 - [Java](#java)
 - [C](#c)
 - [Rust](#rust)
 - [PHP](#php)
-- [Go](#go)
 - [Astro](#astro)
 - [JavaScript](#javascript)
 - [TypeScript](#typescript)
@@ -67,6 +67,79 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## Go 
+
+- [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
+- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
+- [hitalos/pg2hugo](https://github.com/hitalos/pg2hugo) - You already tried to use postgres with hugo? This is the way!
+- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
+- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
+- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
+- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
+- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+- [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+- [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
+- [memospot/memos-builds](https://github.com/memospot/memos-builds) - Builds for https://github.com/usememos/memos
+- [yann0917/alipay-wechat-merge](https://github.com/yann0917/alipay-wechat-merge) - 合并从支付宝、微信下载的 .csv格式账单，使用 echarts 对账单做简单的图表分析
+- [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+- [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
+- [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
+- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
+- [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
+- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
+- [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
+- [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
+- [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
+- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
+- [jvns/mess-with-dns](https://github.com/jvns/mess-with-dns) - Source for Mess With DNS
+- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [tomodian/release](https://github.com/tomodian/release) - A command-line utility to manage Keep-a-changelog formatted changelogs. Written in Go, works nicely on Monorepo.
+- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
+- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+- [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
+- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
+- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
+- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
+- [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
+- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
+- [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## Java 
 
@@ -191,78 +264,6 @@
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 
-## Go 
-
-- [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
-- [hitalos/pg2hugo](https://github.com/hitalos/pg2hugo) - You already tried to use postgres with hugo? This is the way!
-- [dunglas/vulcain](https://github.com/dunglas/vulcain) - 🔨 Fast and idiomatic client-driven REST APIs.
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
-- [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
-- [crazy-max/diun](https://github.com/crazy-max/diun) - Receive notifications when an image is updated on a Docker registry
-- [nalgeon/codapi](https://github.com/nalgeon/codapi) - Interactive code examples for documentation, education and fun
-- [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
-- [zu1k/nali](https://github.com/zu1k/nali) - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-- [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
-- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
-- [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript) - Build AI assistants that interact with your systems
-- [memospot/memos-builds](https://github.com/memospot/memos-builds) - Builds for https://github.com/usememos/memos
-- [yann0917/alipay-wechat-merge](https://github.com/yann0917/alipay-wechat-merge) - 合并从支付宝、微信下载的 .csv格式账单，使用 echarts 对账单做简单的图表分析
-- [yann0917/dedao-dl](https://github.com/yann0917/dedao-dl) - 得到 APP 课程下载工具，可在终端查看文章内容，可生成 PDF，音频文件，markdown 文稿，可下载电子书。
-- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny) - Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [nadoo/glider](https://github.com/nadoo/glider) - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
-- [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-- [fossabot/clash](https://github.com/fossabot/clash) - A rule based proxy in Go.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-- [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth) - A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.
-- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters.
-- [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns) - 一个 DNS 转发器
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) - Cloudflare Tunnel client (formerly Argo Tunnel)
-- [niklasfasching/go-org](https://github.com/niklasfasching/go-org) - Org mode parser with html & pretty printed org rendering. also shitty static site generator.
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [codemicro/readingList](https://github.com/codemicro/readingList) - [MIRROR] A list of articles I've read
-- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [nanmu42/orly](https://github.com/nanmu42/orly) - :football: Generate your own O'RLY animal book cover to troll your colleagues | 生成你自己的O'RLY动物书封面，让你的同事惊掉下巴
-- [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-- [pretty66/iptables-web](https://github.com/pretty66/iptables-web) - golang开发的iptables web 管理程序
-- [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
-- [jvns/mess-with-dns](https://github.com/jvns/mess-with-dns) - Source for Mess With DNS
-- [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [tomodian/release](https://github.com/tomodian/release) - A command-line utility to manage Keep-a-changelog formatted changelogs. Written in Go, works nicely on Monorepo.
-- [Jguer/yay](https://github.com/Jguer/yay) - Yet another Yogurt - An AUR Helper written in Go
-- [vilmibm/gh-screensaver](https://github.com/vilmibm/gh-screensaver) - full terminal animations
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [GoogleChromeLabs/simplehttp2server](https://github.com/GoogleChromeLabs/simplehttp2server) - A simple HTTP/2 server for development
-- [arp242/uni](https://github.com/arp242/uni) - Query the Unicode database from the commandline, with good support for emojis
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-- [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [rh12503/triangula](https://github.com/rh12503/triangula) - Generate high-quality triangulated and polygonal art from images.
-- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [hnrss/hnrss](https://github.com/hnrss/hnrss) - Custom, realtime RSS feeds for Hacker News
-- [yeasy/docker_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker&Container technologies, with real DevOps practice!
-- [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
-- [YouEclipse/waka-box-go](https://github.com/YouEclipse/waka-box-go) - 📊 Update profile README / pinned gist to contain your weekly WakaTime stats.  This is a Golang implementation, see the original version https://github.com/matchai/waka-box.   将你的 WakaTime 每周语言使用统计显示在 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-
 ## Astro 
 
 - [javayhu/haitang](https://github.com/javayhu/haitang) - 海棠诗社，古诗词的数字桃源
@@ -274,7 +275,7 @@
 ## JavaScript 
 
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
 - [tilk/digitaljs](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator
 - [tianheg/read](https://github.com/tianheg/read) - 
@@ -572,7 +573,7 @@
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [beauhaus/Nephele](https://github.com/beauhaus/Nephele) - A react tool to accompany CSS-Tricks article on creating clouds with SVG Filters
-- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [grahammccarthy/linkifyjs](https://github.com/grahammccarthy/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages 📚
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
@@ -1114,7 +1115,7 @@
 - [tantaman/pg2sqlite](https://github.com/tantaman/pg2sqlite) - Convert a Postgres DB to a SQLite DB. Reports metadata to replicate all future changes to SQLite.
 - [xingpingcn/enhanced-FaaS-in-China](https://github.com/xingpingcn/enhanced-FaaS-in-China) - 提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
-- [timescale/pgai](https://github.com/timescale/pgai) - Bring AI models closer to your PostgreSQL data
+- [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [PancrePal-xiaoyibao/PancrePal-xiaoyibao](https://github.com/PancrePal-xiaoyibao/PancrePal-xiaoyibao) - 面向胰腺癌肿瘤患者的智能RAG平台
 - [pwxcoo/chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
@@ -1152,7 +1153,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth local and web research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts local and web research on any topic and generates a comprehensive report with citations.
 - [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 NeoDB is a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -1765,7 +1766,7 @@
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [hoochanlon/fq-book](https://github.com/hoochanlon/fq-book) - 📖《网络代理与VPN应用详解》 详细阐述代理、隧道、VPN运作过程，并对GFW策略如：地址端口封锁、服务器缓存投毒、数字验证攻击、SSL连接阻断做相关的原理说明
 - [SukkaW/CheckSSL](https://github.com/SukkaW/CheckSSL) - :lock:Check your site's SSL status using curl & bash
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [mhausenblas/mkdocs-deploy-gh-pages](https://github.com/mhausenblas/mkdocs-deploy-gh-pages) - GitHub Action to deploy an MkDocs site to GitHub Pages
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [scott-joe/foam--workspace](https://github.com/scott-joe/foam--workspace) - 
