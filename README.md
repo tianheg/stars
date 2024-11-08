@@ -70,7 +70,7 @@
 
 ## Python 
 
-- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
+- [RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR) - 📄 Awesome OCR multiple programing languages toolkits based on ONNXRuntime, OpenVION and PaddlePaddle.
 - [HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp) - Language Technology Platform
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
@@ -287,6 +287,7 @@
 - [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 - [NacedWang/163MusicSpider](https://github.com/NacedWang/163MusicSpider) - 一个获取网易云音乐歌手、专辑、歌曲、评论、歌词等数据的Python爬虫
 - [Higurashi-kagome/pythontools](https://github.com/Higurashi-kagome/pythontools) - ​微信读书笔记助手、Markdown 添加标题、Markdown 标题添加序号...
+- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [JimSunJing/douban_crawler](https://github.com/JimSunJing/douban_crawler) - 备份豆瓣计划
 - [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples) - 告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见  https://ai-jupyter.com
 - [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
@@ -632,7 +633,7 @@
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.
 - [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator) - A translator that uses OpanAI.
-- [openai/openai-node](https://github.com/openai/openai-node) - The official Node.js / Typescript library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [unsplash/unsplash-js](https://github.com/unsplash/unsplash-js) - 🤖 Official JavaScript wrapper for the Unsplash API
 - [lvwzhen/teach-anything](https://github.com/lvwzhen/teach-anything) - Teach any questions in seconds (by OpenAI)
 - [BlackGlory/static](https://github.com/BlackGlory/static) - 🌿
@@ -1576,7 +1577,6 @@
 - [csstools/system-font-css](https://github.com/csstools/system-font-css) - Use the native system font of the OS running the browser
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [daybrush/scenejs-render](https://github.com/daybrush/scenejs-render) - 🎬 Make a movie of CSS animation through scenejs.
-- [reuixiy/o3swap-circle-animation](https://github.com/reuixiy/o3swap-circle-animation) - https://io-oi.me/tech/circles-animation
 - [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
 - [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
 - [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that's a thing
@@ -1781,7 +1781,6 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
-- [offa/android-foss](https://github.com/offa/android-foss) - A list of Free and Open Source Software (FOSS) for Android – saving Freedom and Privacy.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [getlantern/lantern-binaries-archive](https://github.com/getlantern/lantern-binaries-archive) - Lantern installers binary downloads.
 
