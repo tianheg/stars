@@ -864,7 +864,7 @@
 - [lint-md/lint-md](https://github.com/lint-md/lint-md) - :books: 检查中文 markdown 编写格式规范的命令行工具，基于 AST，方便集成 CI，写博客 / 文档必备。支持 API 调用！
 - [dromara/issues-translate-action](https://github.com/dromara/issues-translate-action) - The action for translating Non-English issues content to English.
 - [azu/github-search-rss](https://github.com/azu/github-search-rss) - GitHub Search Results as RSS Feeds via GitHub Actions.
-- [sozonome/pub-apis](https://github.com/sozonome/pub-apis) - Find public APIs, powered by api(dot)publicapis(dot)org
+- [agustinusnathaniel/pub-apis](https://github.com/agustinusnathaniel/pub-apis) - Find public APIs, powered by api(dot)publicapis(dot)org
 - [crablar/podsheets](https://github.com/crablar/podsheets) - Podsheets is a set of open source tools for podcast hosting, ad management, community engagement, and more.
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
