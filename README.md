@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [JavaScript](#javascript)
 - [Rust](#rust)
 - [Python](#python)
 - [Go](#go)
@@ -14,7 +15,6 @@
 - [C](#c)
 - [PHP](#php)
 - [Astro](#astro)
-- [JavaScript](#javascript)
 - [Ruby](#ruby)
 - [Haskell](#haskell)
 - [Svelte](#svelte)
@@ -67,6 +67,499 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## JavaScript 
+
+- [web-platform-dx/baseline-status](https://github.com/web-platform-dx/baseline-status) - 
+- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
+- [tilk/digitaljs](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator
+- [tianheg/read](https://github.com/tianheg/read) - 
+- [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
+- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
+- [chand1012/openai-cf-workers-ai](https://github.com/chand1012/openai-cf-workers-ai) - Replacing OpenAI's API with Cloudflare AI.
+- [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
+- [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
+- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
+- [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
+- [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
+- [tidoust/media-tests](https://github.com/tidoust/media-tests) - Musings on media
+- [alicescfernandes/random-who](https://github.com/alicescfernandes/random-who) - A random website to sort a random doctor who episode, just because i love doctor who
+- [g1eny0ung/waka-box](https://github.com/g1eny0ung/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
+- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
+- [insin/comments-owl-for-hacker-news](https://github.com/insin/comments-owl-for-hacker-news) - Browser extension which makes it easer to follow comment threads on Hacker News across multiple visits, allows you to annotate and mute users, and other UI tweaks and mobile UX improvements
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [tianheg/img](https://github.com/tianheg/img) - 
+- [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library.
+- [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) - 
+- [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
+- [mishoo/ymacs](https://github.com/mishoo/ymacs) - Ymacs is an^W the most Emacs-like code/text editor for the Web
+- [AceAsin/PatreonBadge](https://github.com/AceAsin/PatreonBadge) - Custom badge and scraper that utilizes Patreon's API without the need for authorization.
+- [mohsen1/pretty-json](https://github.com/mohsen1/pretty-json) - Pretty JSON HTML Custom Element
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
+- [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
+- [mattiasw/ExifReader](https://github.com/mattiasw/ExifReader) - A JavaScript Exif info parser.
+- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
+- [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
+- [ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge) - 网页里的文件服务器
+- [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
+- [Sv443-Network/JokeAPI](https://github.com/Sv443-Network/JokeAPI) - REST API that serves uniformly and well formatted jokes in JSON, XML, YAML or plain text format that also offers a great variety of filtering methods
+- [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
+- [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
+- [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
+- [Stack-Studio-Digital-Collective/mail-clipper](https://github.com/Stack-Studio-Digital-Collective/mail-clipper) - An open source Chrome Extension and Firefox Addon to copy email links to your clipboard
+- [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
+- [shmup/firefox-tab-unloader](https://github.com/shmup/firefox-tab-unloader) - unload all but the active tab across all firefox windows
+- [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
+- [jessuni/shikwasa](https://github.com/jessuni/shikwasa) - An audio player born for podcast
+- [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
+- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
+- [alswl/dingmark](https://github.com/alswl/dingmark) - Go CLI and WASM online for DingTalk send markdown message.
+- [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
+- [Lucky-183/PI-Assistant](https://github.com/Lucky-183/PI-Assistant) - 基于树莓派和GPT实现的多功能语音家庭助手
+- [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
+- [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
+- [maxlath/time-capsule](https://github.com/maxlath/time-capsule) - A WebExtension to send links to your future self
+- [ruiduobao/shengshixian.com](https://github.com/ruiduobao/shengshixian.com) - 
+- [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
+- [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
+- [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [da2x/instapaper-webextension](https://github.com/da2x/instapaper-webextension) - Web extension that adds a button with Read Now and Read Later with Instapaper options to Firefox’s toolbar.
+- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+- [rcqed/docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+- [enhance-dev/enhance-music](https://github.com/enhance-dev/enhance-music) - A music library and audio player built with Enhance
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [netgusto/imagejam.net](https://github.com/netgusto/imagejam.net) - 
+- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索
+- [luizbatanero/pomodoro-react](https://github.com/luizbatanero/pomodoro-react) - :tomato: Pomodoro timer built with React
+- [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
+- [wolfgang42/paper-hn](https://github.com/wolfgang42/paper-hn) - Hacker News front page in the style of a print newspaper
+- [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+- [CoreyGinnivan/whocanuse](https://github.com/CoreyGinnivan/whocanuse) - WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
+- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [akira-cn/http-modular](https://github.com/akira-cn/http-modular) - A universal library for converting server-side functions into ES Modules.
+- [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
+- [mumuy/data_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
+- [mumuy/chinese-transverter](https://github.com/mumuy/chinese-transverter) - Simplified Chinese and Traditional Chinese transverter. 中文简繁体转换器-支持地方惯用词汇替换
+- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+- [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
+- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
+- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
+- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
+- [textdiff/textdiff.github.io](https://github.com/textdiff/textdiff.github.io) - Text differ
+- [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that shows relevant discussions on Hacker News
+- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
+- [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
+- [jdm/asknot](https://github.com/jdm/asknot) - Ask not what Mozilla can do for you but what you can do for Mozilla.
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [xOS/Config](https://github.com/xOS/Config) - 私人物品
+- [random-mdn/random-mdn-bot](https://github.com/random-mdn/random-mdn-bot) - Serverless functions tweeting/sending/... random MDN articles
+- [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
+- [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
+- [romainmenke/mdn-support-context](https://github.com/romainmenke/mdn-support-context) - A browser extension and userscript to add support target context on MDN pages
+- [w3c/browser-specs](https://github.com/w3c/browser-specs) - A machine-readable list of Web specifications
+- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
+- [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
+- [PaulKinlan/idb-vector](https://github.com/PaulKinlan/idb-vector) - A simple vector database built on idb
+- [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
+- [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
+- [maxovicsteiner/neural-network](https://github.com/maxovicsteiner/neural-network) - Neural network prototype built from scratch in javascript.
+- [placeAtlas/atlas-2022](https://github.com/placeAtlas/atlas-2022) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's 2022 /r/place event.
+- [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
+- [tuananh/reader2](https://github.com/tuananh/reader2) - Get a reader mode, sharable URL for any webpage.
+- [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
+- [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- [tysonmatanich/elementQuery](https://github.com/tysonmatanich/elementQuery) - An element query polyfill you can use today.
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
+- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
+- [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+- [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
+- [jiacai2050/pageview-worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
+- [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
+- [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
+- [barretlee/chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - Optimize the prompt using ChatGPT, then send it to Replicate to create an image.
+- [vicchi/node-getpocket](https://github.com/vicchi/node-getpocket) - Node.js module for authenticating and accessing the GetPocket API
+- [HugoDF/pocket-personal-access-token](https://github.com/HugoDF/pocket-personal-access-token) - A lightweight OAuth integration with the Pocket API to generate an access token for your personal account
+- [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
+- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
+- [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
+- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
+- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
+- [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
+- [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
+- [soulhighwing/LocalGPT](https://github.com/soulhighwing/LocalGPT) - a html page for you to use GPT API
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
+- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [ymzuiku/aoife](https://github.com/ymzuiku/aoife) - Developing native JavaScript programs using JSX, where each component is a raw HTMLElement, allows for seamless compatibility with all native JavaScript libraries.
+- [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
+- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
+- [tj/term-canvas](https://github.com/tj/term-canvas) - javascript canvas api for your terminal!
+- [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+- [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
+- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
+- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
+- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
+- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
+- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
+- [wenerme/wener](https://github.com/wenerme/wener) - Notes, Stories, Awesomes
+- [pankajparashar/canidev.tools](https://github.com/pankajparashar/canidev.tools) - It is like @CanIUse but for the browser devtools. Created by @pankajparashar & curated by community.
+- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
+- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
+- [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
+- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+- [Hopding/js-visualizer-9000-server](https://github.com/Hopding/js-visualizer-9000-server) - A NodeJS app that produces events to visualize JavaScript's Event Loop
+- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [bioub/dom-visualizer](https://github.com/bioub/dom-visualizer) - Visualize your DOM in SVG (for educational purpose)
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
+- [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
+- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
+- [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
+- [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
+- [tomhodgins/cssplus](https://github.com/tomhodgins/cssplus) - CSSplus is a collection of CSS Reprocessor plugins that dynamically update CSS variables
+- [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
+- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
+- [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
+- [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
+- [Dedas/linux-scroll-speed-fix](https://github.com/Dedas/linux-scroll-speed-fix) - A Chrome app that fixes the slow scroll speed in Chrome for Linux.
+- [sheepzh/poetry-page](https://github.com/sheepzh/poetry-page) - 
+- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
+- [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
+- [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
+- [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE) - WebExtensions port of Right Links extension for Firefox
+- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [jordienr/whatamesh](https://github.com/jordienr/whatamesh) - tool to create mesh gradients
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
+- [richardgirges/express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
+- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
+- [duangsuse/WebExt-URLReplace](https://github.com/duangsuse/WebExt-URLReplace) - Replace URL by regex pattern mapping
+- [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
+- [yannliao/threejs-example-for-miniprogram](https://github.com/yannliao/threejs-example-for-miniprogram) - 这是一个 three.js 在微信小程序里的使用示例
+- [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO
+- [asm-js/validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
+- [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
+- [SamirPaulb/music](https://github.com/SamirPaulb/music) - ♫♪ Music Player🎸 is a simple project developed using JavaScript, CSS, and HTML. This project is an interesting project for listening to our self-made songs collection app.  The user can click the Forw
+- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
+- [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
+- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+- [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+- [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [hanguokai/mdn-search](https://github.com/hanguokai/mdn-search) - a browser extension for MDN search
+- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
+- [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
+- [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
+- [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
+- [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
+- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
+- [CatChen/eslint-suggestion-action](https://github.com/CatChen/eslint-suggestion-action) - This GitHub Action runs ESLint and provides inline feedback to the changes in a Pull Request.
+- [itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js) - 网页英文前部加粗 用户脚本
+- [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
+- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+- [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
+- [daiyi/random-wikipedia-newtab-extension](https://github.com/daiyi/random-wikipedia-newtab-extension) - firefox extension that opens a random unusual wikipedia page in new tabs
+- [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
+- [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
+- [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
+- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
+- [Rayquaza01/note-taker](https://github.com/Rayquaza01/note-taker) - A Firefox addon that adds a text box to a toolbar button for taking notes.
+- [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
+- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee.
+- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
+- [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
+- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
+- [dhairyathedev/mark2pdf](https://github.com/dhairyathedev/mark2pdf) - 
+- [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
+- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
+- [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
+- [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes) - Automatically change Firefox's theme based on the time
+- [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
+- [Mayandev/fe-interview-handwrite](https://github.com/Mayandev/fe-interview-handwrite) - 📖 前端面试常见手写题整理
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- [nt1m/livemarks](https://github.com/nt1m/livemarks) - Extension that restores RSS Feed Livemarks in Firefox.
+- [dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS plugin for gulp
+- [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
+- [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
+- [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [yangxi0126/javaScript](https://github.com/yangxi0126/javaScript) - 前端特效存档
+- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
+- [BetaSu/fe-hunter](https://github.com/BetaSu/fe-hunter) - 每天一道题，3个月后，你就是面试小能手，答题还能赚钱哦
+- [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
+- [iammapping/wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [mumuy/pacman](https://github.com/mumuy/pacman) - 基于HTML5的吃豆人游戏 - 经典游戏开发样例_Pacman based on HTML5
+- [stefansundin/duplicate-tab](https://github.com/stefansundin/duplicate-tab) - Press Alt+Shift+D to duplicate the current tab (Option+Shift+D on Mac).
+- [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
+- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
+- [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
+- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
+- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
+- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
+- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
+- [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
+- [ElemeFE/react-amap](https://github.com/ElemeFE/react-amap) - 基于 React 封装的高德地图组件。AMap Component Based On React.
+- [monmohan/dsjslib](https://github.com/monmohan/dsjslib) - A library implementing several standard data structures and utilities, in JavaScript. Its written and tested using Node.js which is the target platform.
+- [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+- [adlered/CSDNGreener](https://github.com/adlered/CSDNGreener) - 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
+- [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
+- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
+- [mathiasbynens/regexpu](https://github.com/mathiasbynens/regexpu) - A source code transpiler that enables the use of ES2015 Unicode regular expressions in ES5.
+- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
+- [stubbornella/oocss](https://github.com/stubbornella/oocss) - Object Oriented CSS Framework
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
+- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- [beauhaus/Nephele](https://github.com/beauhaus/Nephele) - A react tool to accompany CSS-Tricks article on creating clouds with SVG Filters
+- [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages 📚
+- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+- [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
+- [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
+- [kwin-scripts/kwin-tiling](https://github.com/kwin-scripts/kwin-tiling) - Tiling script for kwin
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
+- [music-stats/timeline](https://github.com/music-stats/timeline) - :headphones: scrobbles plotted on a timeline
+- [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [foamzou/group-by-repo-on-github](https://github.com/foamzou/group-by-repo-on-github) - When you search code using github, this script can help you group by repo
+- [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
+- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+- [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
+- [keginx/species-in-pieces](https://github.com/keginx/species-in-pieces) - 中文版30种濒危动物碎片拼图。该作品是阿姆斯特丹设计师 Bryan James用纯CSS技术表现出30种动物的碎片拼图形象，这30动物，非常的可爱，但不幸的是，它们都是濒临灭绝的动物，它们的生存情况正面临着危机。   你能看到它们在挣扎，它们在反抗...  它们在这个互动的作品里申诉...
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+- [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
+- [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+- [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+- [ryanker/dream_translate](https://github.com/ryanker/dream_translate) - 梦想划词翻译是为阅读和学习外语而开发的一款翻译和查词浏览器扩展程序，聚合数十款在线词典和在线翻译。
+- [peterbe/whatsdeployed](https://github.com/peterbe/whatsdeployed) - What's deployed from a Github repo on various server environments?
+- [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
+- [gauseen/gum](https://github.com/gauseen/gum) - Git multiple user config manager
+- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
+- [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
+- [susam/muboard](https://github.com/susam/muboard) - Self-rendering and distributable mathematics chalkboards
+- [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
+- [Javier-Szyfer/door.link](https://github.com/Javier-Szyfer/door.link) - Web app for curated music mixtapes.
+- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+- [ewlsh/dash-to-dock](https://github.com/ewlsh/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
+- [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
+- [unicar9/jizhi](https://github.com/unicar9/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
+- [Wscats/piano](https://github.com/Wscats/piano) - 🎹Play the piano with the keyboard - 用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
+- [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
+- [baurine/vscode-pangu](https://github.com/baurine/vscode-pangu) - VS Code extension for pangu, add whitespace between Chinese and English
+- [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
+- [auspham/FireShare](https://github.com/auspham/FireShare) - Real-time file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing.
+- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
+- [privatenumber/github-cdn](https://github.com/privatenumber/github-cdn) - 🛰 Github CDN Server
+- [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
+- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [codenickycode/sequencer64](https://github.com/codenickycode/sequencer64) - A 64-step React JS drum sequencer
+- [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
+- [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
+- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
+- [greglobinski/gatsby-starter-kit-docs](https://github.com/greglobinski/gatsby-starter-kit-docs) - Docs for Gatsby Starter Kit
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
+- [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
+- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
+- [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
+- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+- [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
+- [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - 基于谷雨解字的Chrome浏览器插件
+- [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
+- [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
+- [ruanyf/hn](https://github.com/ruanyf/hn) - A personalized Hacker News
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
+- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
+- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
+- [kamidox/weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
+- [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [xiaomingplus/producthunt-trending](https://github.com/xiaomingplus/producthunt-trending) - ProductHunt Trending
+- [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
+- [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+- [paulirish/harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
+- [mrdoob/harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
+- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
+- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+- [7nights/get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
+- [justjavac/awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
+- [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
+- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
+- [jpedroschmitz/gatsby-starter-rocketdocs](https://github.com/jpedroschmitz/gatsby-starter-rocketdocs) - The documentation starter you were looking for ⚡️
+- [filipowm/BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
+- [brainhubeu/gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
+- [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
+- [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
+- [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
+- [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
+- [gr2m/cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
+- [changhuixu/weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
+- [travis-john/05-day-planner](https://github.com/travis-john/05-day-planner) - A meeting scheduler for to plan work days
+- [maple3142/mergemp4](https://github.com/maple3142/mergemp4) - 
+- [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
+- [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now) - 自动跳转某些网站不希望用户直达的外链
+- [miaotony/Telegram-Channel-Mirror](https://github.com/miaotony/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
+- [ibearye/talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
+- [gezhongran/DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
+- [headllines/producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
+- [upupming/Mirror](https://github.com/upupming/Mirror) - Deploy Google and Wikipedia mirror with one command using now.sh.
+- [M0nica/github-issue-tracker](https://github.com/M0nica/github-issue-tracker) - UI to allow users to view all issues associated with their GitHub repositories in a single view
+- [mathieudutour/foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template) - Foam workpace template
+- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
+- [brianlovin/security-checklist](https://github.com/brianlovin/security-checklist) - A checklist for staying safe on the internet
+- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
+- [Sneezry/OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
+- [listen1/listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
+- [junyux/FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
+- [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
+- [i5ting/yrm](https://github.com/i5ting/yrm) - YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao
+- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
+- [shfshanyue/wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
+- [fengerzh/fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
+- [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
+- [hongyangAndroid/wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
+- [ruanyf/lvv2-feed](https://github.com/ruanyf/lvv2-feed) - Lvv2.com's RSS feed
+- [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
+- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
+- [haroldtreen/query-nownownow](https://github.com/haroldtreen/query-nownownow) - Search profiles on http://nownownow.com
+- [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
+- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
+- [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
+- [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+- [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
+- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
+- [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
+- [M0nica/how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
+- [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
+- [linyuxuanlin/Wiki_VuePress](https://github.com/linyuxuanlin/Wiki_VuePress) - 基于 VuePress 的个人知识库（已弃用，仅供参考）
+- [cblgh/monotome](https://github.com/cblgh/monotome) - a personal knowledge base system. markdown markup, runs in the browser
+- [chinese-poetry/poetry-calendar](https://github.com/chinese-poetry/poetry-calendar) - ✨🗓✨一个美炸天的诗词周历 ， 52个周给你新的体验。
+- [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
+- [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
+- [konstantinmuenster/simple-react-js-weather-app](https://github.com/konstantinmuenster/simple-react-js-weather-app) - A simple weather app that allows you to get current weather information, based on the city you enter.
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
+- [adlered/ContentEasyJS](https://github.com/adlered/ContentEasyJS) - :star2:Easily and automatically create directory navigation for your articles without configuration. | 轻松为你的网站文章设置右侧悬浮目录导航，支持点击跳转，不需要复杂的设置！JS | HTML | JQuery
+- [adlered/punctuationCheck](https://github.com/adlered/punctuationCheck) - :art: 修正中英文标点语法混用的句子 | 干掉中英文标点混用，是十分明智且正确的做法。 | Bootstrap
+- [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+- [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
+- [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
+- [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
+- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
+- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
+- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
+- [goessner/mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
+- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
+- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
+- [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
+- [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
+- [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
+- [duty-machine/weixin-archive-action](https://github.com/duty-machine/weixin-archive-action) - 将微信文章保存为jpg和mht格式的github action
+- [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
+- [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest) - Weekly summary of activity on your GitHub repository :calendar:
+- [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
+- [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
+- [jgallen23/toc](https://github.com/jgallen23/toc) - Table of Contents Plugin
+- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+- [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
+- [huijing/blank-html5](https://github.com/huijing/blank-html5) - :construction: Blank HTML5 template for experiments and stuff
+- [huijing/slides](https://github.com/huijing/slides) - :movie_camera: Slides for talks and stuff
+- [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
+- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [jfhbrook/node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
+- [rimi/tw5-telmiger-plugins](https://github.com/rimi/tw5-telmiger-plugins) - 
+- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
+- [NiZerin/WeChatBlog](https://github.com/NiZerin/WeChatBlog) - 💘微信小程序 & 个人博客 & WordPress & WordPress REST API
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [madawei2699/July](https://github.com/madawei2699/July) - 简单的小博客仓库
+- [MakerGYT/markdown-it-latex2img](https://github.com/MakerGYT/markdown-it-latex2img) - LaTex plugin for markdown-it markdown parser,Place LaTeX Math equation on anywhere as &lt;img&gt; tag.
+- [husanfeng/hsf_blog](https://github.com/husanfeng/hsf_blog) - 小程序，云开发，此博客小程序使用的是腾讯的云开发技术，没有繁琐的后台配置，只需操作云数据库就可以对数据进行增删改查。 这个小程序主要为了总结和记录前端一些比较前沿的技术，纯属个人爱好。。。
+- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
+- [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
 ## Rust 
 
@@ -996,498 +1489,6 @@
 - [dgurns/magic-ai-box](https://github.com/dgurns/magic-ai-box) - Experimenting with Astro, HTMX, and Cloudflare AI
 - [aostiles/astro-webauthn-starter](https://github.com/aostiles/astro-webauthn-starter) - Starter template for a serverless website using Astro, WebAuthn, and Cloudflare D1.
 - [bestofjs/javascript-risingstars](https://github.com/bestofjs/javascript-risingstars) - :stars: An overview of the JavaScript landscape in 2023: trends about frontend, Node.js, fullstack frameworks, build tools, testing, Vue.js, React, state management...
-
-## JavaScript 
-
-- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
-- [tilk/digitaljs](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator
-- [tianheg/read](https://github.com/tianheg/read) - 
-- [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
-- [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
-- [chand1012/openai-cf-workers-ai](https://github.com/chand1012/openai-cf-workers-ai) - Replacing OpenAI's API with Cloudflare AI.
-- [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
-- [cmliu/CF-Workers-docker.io](https://github.com/cmliu/CF-Workers-docker.io) - 这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。
-- [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-- [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
-- [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
-- [tidoust/media-tests](https://github.com/tidoust/media-tests) - Musings on media
-- [alicescfernandes/random-who](https://github.com/alicescfernandes/random-who) - A random website to sort a random doctor who episode, just because i love doctor who
-- [g1eny0ung/waka-box](https://github.com/g1eny0ung/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
-- [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
-- [insin/comments-owl-for-hacker-news](https://github.com/insin/comments-owl-for-hacker-news) - Browser extension which makes it easer to follow comment threads on Hacker News across multiple visits, allows you to annotate and mute users, and other UI tweaks and mobile UX improvements
-- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [tianheg/img](https://github.com/tianheg/img) - 
-- [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library.
-- [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar) - 
-- [buxuku/VideoSubtitleGenerator](https://github.com/buxuku/VideoSubtitleGenerator) - 批量为本地视频生成字幕文件，并可将字幕文件翻译成其它语言， 跨平台支持 window, mac 系统
-- [mishoo/ymacs](https://github.com/mishoo/ymacs) - Ymacs is an^W the most Emacs-like code/text editor for the Web
-- [AceAsin/PatreonBadge](https://github.com/AceAsin/PatreonBadge) - Custom badge and scraper that utilizes Patreon's API without the need for authorization.
-- [mohsen1/pretty-json](https://github.com/mohsen1/pretty-json) - Pretty JSON HTML Custom Element
-- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-- [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
-- [PiotrDabkowski/Js2Py](https://github.com/PiotrDabkowski/Js2Py) - JavaScript to Python Translator & JavaScript interpreter written in 100% pure Python🚀 Try it online:
-- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
-- [mattiasw/ExifReader](https://github.com/mattiasw/ExifReader) - A JavaScript Exif info parser.
-- [rastapasta/mapscii](https://github.com/rastapasta/mapscii) - 🗺  MapSCII is a Braille & ASCII world map renderer for your console - enter =&gt; telnet mapscii.me &lt;= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows
-- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
-- [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
-- [ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge) - 网页里的文件服务器
-- [pearmini/genji](https://github.com/pearmini/genji) - The Markdown extension for interactive documents inspired by Observable Notebook, available in VitePress and Docusaurus.
-- [Sv443-Network/JokeAPI](https://github.com/Sv443-Network/JokeAPI) - REST API that serves uniformly and well formatted jokes in JSON, XML, YAML or plain text format that also offers a great variety of filtering methods
-- [timdream/wordcloud2.js](https://github.com/timdream/wordcloud2.js) - Tag cloud/Wordle presentation on 2D canvas or HTML
-- [redom/redom](https://github.com/redom/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
-- [color-js/color.js](https://github.com/color-js/color.js) - Color conversion & manipulation library by the editors of the CSS Color specifications
-- [Stack-Studio-Digital-Collective/mail-clipper](https://github.com/Stack-Studio-Digital-Collective/mail-clipper) - An open source Chrome Extension and Firefox Addon to copy email links to your clipboard
-- [erkserkserks/h264ify](https://github.com/erkserkserks/h264ify) - A Chrome extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos
-- [shmup/firefox-tab-unloader](https://github.com/shmup/firefox-tab-unloader) - unload all but the active tab across all firefox windows
-- [wisniewskit/google-search-fixer](https://github.com/wisniewskit/google-search-fixer) - 
-- [jessuni/shikwasa](https://github.com/jessuni/shikwasa) - An audio player born for podcast
-- [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
-- [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
-- [alswl/dingmark](https://github.com/alswl/dingmark) - Go CLI and WASM online for DingTalk send markdown message.
-- [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
-- [Lucky-183/PI-Assistant](https://github.com/Lucky-183/PI-Assistant) - 基于树莓派和GPT实现的多功能语音家庭助手
-- [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
-- [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
-- [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution 
-- [maxlath/time-capsule](https://github.com/maxlath/time-capsule) - A WebExtension to send links to your future self
-- [ruiduobao/shengshixian.com](https://github.com/ruiduobao/shengshixian.com) - 
-- [proginosko/LeechBlockNG](https://github.com/proginosko/LeechBlockNG) - LeechBlock NG (Next Generation) for Firefox is a simple productivity tool designed to block those time-wasting sites that can suck the life out of your working day. All you need to do is specify which
-- [anvaka/map-of-reddit](https://github.com/anvaka/map-of-reddit) - Interactive map of reddit
-- [CanisLupus/swift-selection-search](https://github.com/CanisLupus/swift-selection-search) - Swift Selection Search (SSS) is a simple Firefox add-on that lets you quickly search for some text in a page using your favorite search engines.
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
-- [da2x/instapaper-webextension](https://github.com/da2x/instapaper-webextension) - Web extension that adds a button with Read Now and Read Later with Instapaper options to Firefox’s toolbar.
-- [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
-- [rcqed/docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js) - 🪄🪄🪄Create a new Markmap instance and render the code content on your Docsify
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-- [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
-- [enhance-dev/enhance-music](https://github.com/enhance-dev/enhance-music) - A music library and audio player built with Enhance
-- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into readable PDF, EPUB, HTML, or Markdown docs.
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [netgusto/imagejam.net](https://github.com/netgusto/imagejam.net) - 
-- [F9y4ng/GreasyFork-Scripts](https://github.com/F9y4ng/GreasyFork-Scripts) - The open source code of this project is used for userscripts (油猴脚本) for desktop browsers, including Font Rendering (Customized) (字体渲染（自用脚本）- Font Rendering.user.js), and Search Engine Assistant (优雅的搜索
-- [luizbatanero/pomodoro-react](https://github.com/luizbatanero/pomodoro-react) - :tomato: Pomodoro timer built with React
-- [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
-- [wolfgang42/paper-hn](https://github.com/wolfgang42/paper-hn) - Hacker News front page in the style of a print newspaper
-- [andy-portmen/open-in](https://github.com/andy-portmen/open-in) - Send URLs from one browser to another one
-- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
-- [gka/chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
-- [CoreyGinnivan/whocanuse](https://github.com/CoreyGinnivan/whocanuse) - WhoCanUse is a tool that brings attention and understanding to how color contrast can affect different people with visual impairments.
-- [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [akira-cn/http-modular](https://github.com/akira-cn/http-modular) - A universal library for converting server-side functions into ES Modules.
-- [hepochen/FarBox](https://github.com/hepochen/FarBox) - FarBox 2.0 Core Framework
-- [mumuy/data_location](https://github.com/mumuy/data_location) - 中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）
-- [mumuy/chinese-transverter](https://github.com/mumuy/chinese-transverter) - Simplified Chinese and Traditional Chinese transverter. 中文简繁体转换器-支持地方惯用词汇替换
-- [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
-- [vasanthv/talk](https://github.com/vasanthv/talk) - Group video call for the web. No signups. No downloads.
-- [krausest/js-framework-benchmark](https://github.com/krausest/js-framework-benchmark) - A comparison of the performance of a few popular javascript frameworks
-- [ethantw/Han](https://github.com/ethantw/Han) - 「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.
-- [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
-- [textdiff/textdiff.github.io](https://github.com/textdiff/textdiff.github.io) - Text differ
-- [browserslist/browsersl.ist](https://github.com/browserslist/browsersl.ist) - This website uses Browserslist and Can I Use to display the compatible browsers for a browsers query.
-- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [imdj/HNRelevant](https://github.com/imdj/HNRelevant) - A browser extension that shows relevant discussions on Hacker News
-- [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
-- [stayradiated/terminal.sexy](https://github.com/stayradiated/terminal.sexy) - Create, view and edit terminal colorschemes.
-- [jdm/asknot](https://github.com/jdm/asknot) - Ask not what Mozilla can do for you but what you can do for Mozilla.
-- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
-- [xOS/Config](https://github.com/xOS/Config) - 私人物品
-- [random-mdn/random-mdn-bot](https://github.com/random-mdn/random-mdn-bot) - Serverless functions tweeting/sending/... random MDN articles
-- [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
-- [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
-- [romainmenke/mdn-support-context](https://github.com/romainmenke/mdn-support-context) - A browser extension and userscript to add support target context on MDN pages
-- [w3c/browser-specs](https://github.com/w3c/browser-specs) - A machine-readable list of Web specifications
-- [jawj/subtls](https://github.com/jawj/subtls) - A proof-of-concept TypeScript TLS 1.3 client
-- [cptn-io/el-cptn](https://github.com/cptn-io/el-cptn) - cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
-- [PaulKinlan/idb-vector](https://github.com/PaulKinlan/idb-vector) - A simple vector database built on idb
-- [homanp/langchain-ui](https://github.com/homanp/langchain-ui) - 🧬 The open source chat-ai toolkit
-- [pim-book/programmers-introduction-to-mathematics](https://github.com/pim-book/programmers-introduction-to-mathematics) - Code for A Programmer's Introduction to Mathematics
-- [maxovicsteiner/neural-network](https://github.com/maxovicsteiner/neural-network) - Neural network prototype built from scratch in javascript.
-- [placeAtlas/atlas-2022](https://github.com/placeAtlas/atlas-2022) - The /r/place Atlas is a project aiming to catalog all the artworks created during Reddit's 2022 /r/place event.
-- [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
-- [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
-- [tuananh/reader2](https://github.com/tuananh/reader2) - Get a reader mode, sharable URL for any webpage.
-- [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
-- [patrickhulce/third-party-web](https://github.com/patrickhulce/third-party-web) - Data on third party entities and their impact on the web.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [tysonmatanich/elementQuery](https://github.com/tysonmatanich/elementQuery) - An element query polyfill you can use today.
-- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
-- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
-- [deck-of-cards/deck-of-cards](https://github.com/deck-of-cards/deck-of-cards) - Deck of Cards (old version)
-- [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
-- [javve/list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
-- [programmerhat/vim-online-editor](https://github.com/programmerhat/vim-online-editor) - Vim Editor. In the Browser
-- [jiacai2050/pageview-worker](https://github.com/jiacai2050/pageview-worker) - Page View backend based on Cloudflare Workers and KV.
-- [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy) - A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
-- [GoogleChromeLabs/quicklink](https://github.com/GoogleChromeLabs/quicklink) - ⚡️Faster subsequent page-loads by prefetching in-viewport links during idle time
-- [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
-- [barretlee/chatgpt-text-to-midjourney-image](https://github.com/barretlee/chatgpt-text-to-midjourney-image) - Optimize the prompt using ChatGPT, then send it to Replicate to create an image.
-- [vicchi/node-getpocket](https://github.com/vicchi/node-getpocket) - Node.js module for authenticating and accessing the GetPocket API
-- [HugoDF/pocket-personal-access-token](https://github.com/HugoDF/pocket-personal-access-token) - A lightweight OAuth integration with the Pocket API to generate an access token for your personal account
-- [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-- [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
-- [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
-- [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
-- [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
-- [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
-- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
-- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
-- [mozilla/sign-addon](https://github.com/mozilla/sign-addon) - Sign a Firefox add-on with Mozilla's web service
-- [soulhighwing/LocalGPT](https://github.com/soulhighwing/LocalGPT) - a html page for you to use GPT API
-- [mozilla/web-ext](https://github.com/mozilla/web-ext) - A command line tool to help build, run, and test web extensions
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
-- [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
-- [catdad/canvas-confetti](https://github.com/catdad/canvas-confetti) - 🎉 performant confetti animation in the browser
-- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
-- [ymzuiku/aoife](https://github.com/ymzuiku/aoife) - Developing native JavaScript programs using JSX, where each component is a raw HTMLElement, allows for seamless compatibility with all native JavaScript libraries.
-- [android-js/androidjs](https://github.com/android-js/androidjs) - Platform to build android app using node js
-- [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-- [nalgeon/sqlime](https://github.com/nalgeon/sqlime) - Online SQLite playground
-- [tj/term-canvas](https://github.com/tj/term-canvas) - javascript canvas api for your terminal!
-- [futurepress/epub.js](https://github.com/futurepress/epub.js) - Enhanced eBooks in the browser.
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) - A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
-- [kimmobrunfeldt/git-hours](https://github.com/kimmobrunfeldt/git-hours) - Estimate time spent on a git repository
-- [vivek9patel/vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io) - Personal portfolio website simulating Ubuntu 20.04, made using NEXT.js & tailwind CSS
-- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) - Node.js example app from the OpenAI API quickstart tutorial
-- [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- [Sunny-117/js-challenges](https://github.com/Sunny-117/js-challenges) - ✨✨✨ Challenge your JavaScript programming limits step by step
-- [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
-- [wenerme/wener](https://github.com/wenerme/wener) - Notes, Stories, Awesomes
-- [pankajparashar/canidev.tools](https://github.com/pankajparashar/canidev.tools) - It is like @CanIUse but for the browser devtools. Created by @pankajparashar & curated by community.
-- [ad-m/github-push-action](https://github.com/ad-m/github-push-action) - GitHub actions to push back to repository eg. updated code
-- [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
-- [thechangelog/transcripts](https://github.com/thechangelog/transcripts) - Changelog episode transcripts in Markdown format 📚
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
-- [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-- [Hopding/js-visualizer-9000-server](https://github.com/Hopding/js-visualizer-9000-server) - A NodeJS app that produces events to visualize JavaScript's Event Loop
-- [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
-- [bioub/dom-visualizer](https://github.com/bioub/dom-visualizer) - Visualize your DOM in SVG (for educational purpose)
-- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [aglent/autoproxy](https://github.com/aglent/autoproxy) - Auto Switch Rule for SwitchyOmega
-- [cnpm/cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for China mirror of npm
-- [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page) - Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storag
-- [htmlcsstoimage/docs](https://github.com/htmlcsstoimage/docs) - The API for generating high quality images from HTML/CSS.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
-- [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
-- [tomhodgins/cssplus](https://github.com/tomhodgins/cssplus) - CSSplus is a collection of CSS Reprocessor plugins that dynamically update CSS variables
-- [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
-- [vernesong/OpenClash](https://github.com/vernesong/OpenClash) - A Clash Client For OpenWrt
-- [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体
-- [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
-- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-- [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
-- [Dedas/linux-scroll-speed-fix](https://github.com/Dedas/linux-scroll-speed-fix) - A Chrome app that fixes the slow scroll speed in Chrome for Linux.
-- [sheepzh/poetry-page](https://github.com/sheepzh/poetry-page) - 
-- [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [blinry/sliderland](https://github.com/blinry/sliderland) - A (very) minimalist creative coding playground. Make animations using only 64 HTML sliders!
-- [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components
-- [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE) - WebExtensions port of Right Links extension for Firefox
-- [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
-- [jordienr/whatamesh](https://github.com/jordienr/whatamesh) - tool to create mesh gradients
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-- [Stuk/jszip](https://github.com/Stuk/jszip) - Create, read and edit .zip files with Javascript
-- [richardgirges/express-fileupload](https://github.com/richardgirges/express-fileupload) - Simple express file upload middleware that wraps around busboy
-- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) - Firefox Translations is a webextension that enables client side translations for web browsers.
-- [duangsuse/WebExt-URLReplace](https://github.com/duangsuse/WebExt-URLReplace) - Replace URL by regex pattern mapping
-- [donmccurdy/three-pathfinding](https://github.com/donmccurdy/three-pathfinding) - Navigation mesh utilities for three.js, based on PatrolJS.
-- [yannliao/threejs-example-for-miniprogram](https://github.com/yannliao/threejs-example-for-miniprogram) - 这是一个 three.js 在微信小程序里的使用示例
-- [ezesundayeze/anonymouse-realtime-chat-app](https://github.com/ezesundayeze/anonymouse-realtime-chat-app) - Realtime Anonymous Chat application with NodeJS, Express, Mongodb and SocketIO
-- [asm-js/validator](https://github.com/asm-js/validator) - A reference validator for asm.js.
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
-- [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
-- [Cveinnt/bionify](https://github.com/Cveinnt/bionify) - Convert any webpage into bionified text!
-- [SamirPaulb/music](https://github.com/SamirPaulb/music) - ♫♪ Music Player🎸 is a simple project developed using JavaScript, CSS, and HTML. This project is an interesting project for listening to our self-made songs collection app.  The user can click the Forw
-- [nuxtlabs/vue-telescope-analyzer](https://github.com/nuxtlabs/vue-telescope-analyzer) - Detect Vue technologies running on a website ✨
-- [netlify-labs/netlify-functions-express](https://github.com/netlify-labs/netlify-functions-express) - How to use Netlify functions + express.js for serverside rendering on the JAMStack
-- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-- [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
-- [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-- [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
-- [hanguokai/mdn-search](https://github.com/hanguokai/mdn-search) - a browser extension for MDN search
-- [jsdelivr/jsdelivr](https://github.com/jsdelivr/jsdelivr) - A free, fast, and reliable Open Source CDN for npm, GitHub, Javascript, and ESM
-- [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
-- [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
-- [keepassxreboot/keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser) - KeePassXC Browser Extension
-- [tholman/generative-artistry](https://github.com/tholman/generative-artistry) - A website for self coding generative art tutorials.
-- [lucaceriani/ooo](https://github.com/lucaceriani/ooo) - 
-- [CatChen/eslint-suggestion-action](https://github.com/CatChen/eslint-suggestion-action) - This GitHub Action runs ESLint and provides inline feedback to the changes in a Pull Request.
-- [itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js) - 网页英文前部加粗 用户脚本
-- [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
-- [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
-- [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
-- [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
-- [daiyi/random-wikipedia-newtab-extension](https://github.com/daiyi/random-wikipedia-newtab-extension) - firefox extension that opens a random unusual wikipedia page in new tabs
-- [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
-- [crittermike/shortkeys](https://github.com/crittermike/shortkeys) - A browser extension for custom keyboard shortcuts
-- [dessant/search-by-image](https://github.com/dessant/search-by-image) - Browser extension for reverse image search, available for Chrome, Edge and Safari
-- [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
-- [dawidd6/action-send-mail](https://github.com/dawidd6/action-send-mail) - :gear: A GitHub Action to send an email to multiple recipients
-- [Rayquaza01/note-taker](https://github.com/Rayquaza01/note-taker) - A Firefox addon that adds a text box to a toolbar button for taking notes.
-- [igrigorik/videospeed](https://github.com/igrigorik/videospeed) - HTML5 video speed controller (for Google Chrome)
-- [electerious/ackee-tracker](https://github.com/electerious/ackee-tracker) - Transfer data to Ackee.
-- [electerious/Ackee](https://github.com/electerious/Ackee) - Self-hosted, Node.js based analytics tool for those who care about privacy.
-- [andy-portmen/native-client](https://github.com/andy-portmen/native-client) - Native Messaging component for Windows, Linux, and Mac OS that is written in NodeJS.
-- [handlebars-lang/handlebars.js](https://github.com/handlebars-lang/handlebars.js) - Minimal templating on steroids.
-- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
-- [dhairyathedev/mark2pdf](https://github.com/dhairyathedev/mark2pdf) - 
-- [soheilpro/mailwind](https://github.com/soheilpro/mailwind) - Use Tailwind CSS to design HTML emails.
-- [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-- [jstrieb/urlpages](https://github.com/jstrieb/urlpages) - Create and view web pages stored entirely in the URL
-- [rishimohan/pika](https://github.com/rishimohan/pika) - Quickly design beautiful screenshots and open graph images
-- [skhzhang/time-based-themes](https://github.com/skhzhang/time-based-themes) - Automatically change Firefox's theme based on the time
-- [lelinhtinh/de4js](https://github.com/lelinhtinh/de4js) - JavaScript Deobfuscator and Unpacker
-- [Mayandev/fe-interview-handwrite](https://github.com/Mayandev/fe-interview-handwrite) - 📖 前端面试常见手写题整理
-- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-- [nt1m/livemarks](https://github.com/nt1m/livemarks) - Extension that restores RSS Feed Livemarks in Firefox.
-- [dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass) - SASS plugin for gulp
-- [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
-- [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
-- [maxwellito/vivus](https://github.com/maxwellito/vivus) - JavaScript library to make drawing animation on SVG
-- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
-- [yangxi0126/javaScript](https://github.com/yangxi0126/javaScript) - 前端特效存档
-- [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
-- [BetaSu/fe-hunter](https://github.com/BetaSu/fe-hunter) - 每天一道题，3个月后，你就是面试小能手，答题还能赚钱哦
-- [josdejong/mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js
-- [iammapping/wedding](https://github.com/iammapping/wedding) - 婚礼大屏互动，微信请柬一站式解决方案
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [mumuy/pacman](https://github.com/mumuy/pacman) - 基于HTML5的吃豆人游戏 - 经典游戏开发样例_Pacman based on HTML5
-- [stefansundin/duplicate-tab](https://github.com/stefansundin/duplicate-tab) - Press Alt+Shift+D to duplicate the current tab (Option+Shift+D on Mac).
-- [umlet/umlet](https://github.com/umlet/umlet) - Free UML Tool for Fast UML Diagrams
-- [jquery/jquery](https://github.com/jquery/jquery) - jQuery JavaScript Library
-- [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
-- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web wit
-- [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
-- [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [CesiumGS/cesium](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D globes and maps :earth_americas:
-- [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
-- [ElemeFE/react-amap](https://github.com/ElemeFE/react-amap) - 基于 React 封装的高德地图组件。AMap Component Based On React.
-- [monmohan/dsjslib](https://github.com/monmohan/dsjslib) - A library implementing several standard data structures and utilities, in JavaScript. Its written and tested using Node.js which is the target platform.
-- [humanwhocodes/computer-science-in-javascript](https://github.com/humanwhocodes/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
-- [adlered/CSDNGreener](https://github.com/adlered/CSDNGreener) - 《专 业 团 队》🕺🏿 🕺🏿 🕺🏿 🕺🏿 ⚰️🕺🏿 🕺🏿 🕺🏿 🕺🏿 | 专治 CSDN 广告与各种灵魂打击 | 🐵 油猴脚本 | TamperMonkey | Chrome | FireFox | CSDN 页面浮窗广告完全过滤净化 | 国服最强 CSDN 绿化脚本
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [jonschlinkert/markdown-toc](https://github.com/jonschlinkert/markdown-toc) - API and CLI for generating a markdown TOC (table of contents) for a README or any markdown files. Uses Remarkable to parse markdown. Used by NASA/openmct, Prisma, Joi, Mocha, Sass, Prettier, Orbit DB,
-- [mrmlnc/fast-glob](https://github.com/mrmlnc/fast-glob) - :rocket: It's a very fast and efficient glob library for Node.js
-- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-- [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
-- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
-- [summernote/summernote](https://github.com/summernote/summernote) - Super simple WYSIWYG editor
-- [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) - An enhancer/customiser for the all-in-one productivity workspace Notion
-- [mathiasbynens/regexpu](https://github.com/mathiasbynens/regexpu) - A source code transpiler that enables the use of ES2015 Unicode regular expressions in ES5.
-- [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
-- [stubbornella/oocss](https://github.com/stubbornella/oocss) - Object Oriented CSS Framework
-- [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
-- [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [beauhaus/Nephele](https://github.com/beauhaus/Nephele) - A react tool to accompany CSS-Tricks article on creating clouds with SVG Filters
-- [nfrasser/linkifyjs](https://github.com/nfrasser/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
-- [tldr-pages/tldr-node-client](https://github.com/tldr-pages/tldr-node-client) - Node.js command-line client for tldr pages 📚
-- [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-- [adrai/flowchart.js](https://github.com/adrai/flowchart.js) - Draws simple SVG flow chart diagrams from textual representation of the diagram
-- [aravindballa/gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy) - A Gatsby theme to build Andy style websites. 📑
-- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
-- [kwin-scripts/kwin-tiling](https://github.com/kwin-scripts/kwin-tiling) - Tiling script for kwin
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
-- [music-stats/timeline](https://github.com/music-stats/timeline) - :headphones: scrobbles plotted on a timeline
-- [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
-- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [foamzou/group-by-repo-on-github](https://github.com/foamzou/group-by-repo-on-github) - When you search code using github, this script can help you group by repo
-- [cnodejs/nodeclub](https://github.com/cnodejs/nodeclub) - :baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统
-- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
-- [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
-- [VickScarlet/lifeRestart](https://github.com/VickScarlet/lifeRestart) - やり直すんだ。そして、次はうまくやる。
-- [keginx/species-in-pieces](https://github.com/keginx/species-in-pieces) - 中文版30种濒危动物碎片拼图。该作品是阿姆斯特丹设计师 Bryan James用纯CSS技术表现出30种动物的碎片拼图形象，这30动物，非常的可爱，但不幸的是，它们都是濒临灭绝的动物，它们的生存情况正面临着危机。   你能看到它们在挣扎，它们在反抗...  它们在这个互动的作品里申诉...
-- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-- [aceakash/string-similarity](https://github.com/aceakash/string-similarity) - Finds degree of similarity between two strings, based on Dice's Coefficient, which is mostly better than Levenshtein distance.
-- [boltpkg/bolt](https://github.com/boltpkg/bolt) - ⚡️ Super-powered JavaScript project management
-- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-- [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-- [ryanker/dream_translate](https://github.com/ryanker/dream_translate) - 梦想划词翻译是为阅读和学习外语而开发的一款翻译和查词浏览器扩展程序，聚合数十款在线词典和在线翻译。
-- [peterbe/whatsdeployed](https://github.com/peterbe/whatsdeployed) - What's deployed from a Github repo on various server environments?
-- [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
-- [gauseen/gum](https://github.com/gauseen/gum) - Git multiple user config manager
-- [feeddd/feeds](https://github.com/feeddd/feeds) - 免费的公众号 RSS，支持扩展任意 APP
-- [segfall/static-wiki](https://github.com/segfall/static-wiki) - Wikipedia using only static assets & no backend
-- [susam/muboard](https://github.com/susam/muboard) - Self-rendering and distributable mathematics chalkboards
-- [mdo/github-buttons](https://github.com/mdo/github-buttons) - Showcase the success of any GitHub repo or user with these simple, static buttons with dynamic counts.
-- [Javier-Szyfer/door.link](https://github.com/Javier-Szyfer/door.link) - Web app for curated music mixtapes.
-- [martinpl/tray-icons-reloaded](https://github.com/martinpl/tray-icons-reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
-- [ewlsh/dash-to-dock](https://github.com/ewlsh/dash-to-dock) - A dock for the Gnome Shell. This extension   moves the dash out of the overview transforming it in a dock for an easier   launching of applications and a faster switching between windows and desktops.
-- [MihaiValentin/lunr-languages](https://github.com/MihaiValentin/lunr-languages) - A collection of languages stemmers and stopwords for Lunr Javascript library
-- [unicar9/jizhi](https://github.com/unicar9/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
-- [Wscats/piano](https://github.com/Wscats/piano) - 🎹Play the piano with the keyboard - 用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
-- [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
-- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
-- [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
-- [baurine/vscode-pangu](https://github.com/baurine/vscode-pangu) - VS Code extension for pangu, add whitespace between Chinese and English
-- [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
-- [auspham/FireShare](https://github.com/auspham/FireShare) - Real-time file sharing system. Using NodeJS, ReactJS, SocketIO, MongoDB. Chai, WebdriverIO for testing.
-- [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
-- [privatenumber/github-cdn](https://github.com/privatenumber/github-cdn) - 🛰 Github CDN Server
-- [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
-- [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-- [codenickycode/sequencer64](https://github.com/codenickycode/sequencer64) - A 64-step React JS drum sequencer
-- [thesephist/monocle](https://github.com/thesephist/monocle) - Universal personal search engine, powered by a full text search algorithm written in pure Ink, indexing Linus's blogs and private note archives, contacts, tweets, and over a decade of journals.
-- [javaLuo/water](https://github.com/javaLuo/water) - waterdrop 3D 《三体 · 水滴计划》
-- [craigary/nobelium](https://github.com/craigary/nobelium) - A static blog build on top of Notion and NextJS, deployed on Vercel.
-- [greglobinski/gatsby-starter-kit-docs](https://github.com/greglobinski/gatsby-starter-kit-docs) - Docs for Gatsby Starter Kit
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
-- [cloudflare/worker-speedtest-template](https://github.com/cloudflare/worker-speedtest-template) - 
-- [0xGG/crossnote-app](https://github.com/0xGG/crossnote-app) - 📝 An interesting markdown note taking application
-- [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-- [chvin/react-tetris](https://github.com/chvin/react-tetris) - Use React, Redux, Immutable to code Tetris. 🎮
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
-- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [pqina/filepond](https://github.com/pqina/filepond) - 🌊 A flexible and fun JavaScript file upload library
-- [guyujiezi/cicada](https://github.com/guyujiezi/cicada) - 基于谷雨解字的Chrome浏览器插件
-- [docker/getting-started](https://github.com/docker/getting-started) - Getting started with Docker
-- [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
-- [ruanyf/hn](https://github.com/ruanyf/hn) - A personalized Hacker News
-- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
-- [ClearURLs/Addon](https://github.com/ClearURLs/Addon) - ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy.
-- [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-- [kamidox/weixin_producthunt](https://github.com/kamidox/weixin_producthunt) - Introduce Product Hunt to China by Wechat(weixin) public account.
-- [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api) - Product Hunt API
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [xiaomingplus/producthunt-trending](https://github.com/xiaomingplus/producthunt-trending) - ProductHunt Trending
-- [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors) - 🇨🇳🎨Chinese traditional color cheatsheet online
-- [darkwire/darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat
-- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
-- [paulirish/harmony](https://github.com/paulirish/harmony) - Procedural Drawing Tool - my fork reduces it down to be integrated elsewhere
-- [mrdoob/harmony](https://github.com/mrdoob/harmony) - Procedural Drawing Tool
-- [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
-- [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-- [7nights/get-v2ex](https://github.com/7nights/get-v2ex) - The back-end of bv2ex web application.
-- [justjavac/awesome-awesomeness-zh_CN](https://github.com/justjavac/awesome-awesomeness-zh_CN) - 一份关于“资料汇总”的汇总。
-- [justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN) - ⚡️ 一个 Chrome 插件：将 Google CDN 替换为国内的。
-- [benweet/stackedit](https://github.com/benweet/stackedit) - In-browser Markdown editor
-- [jpedroschmitz/gatsby-starter-rocketdocs](https://github.com/jpedroschmitz/gatsby-starter-rocketdocs) - The documentation starter you were looking for ⚡️
-- [filipowm/BooGi](https://github.com/filipowm/BooGi) - Generate GitBook-like modern docs/tutorial websites using Gatsby
-- [brainhubeu/gatsby-docs-kit](https://github.com/brainhubeu/gatsby-docs-kit) - 📃Easy to Maintain Markdown/React Documentation Static Websites
-- [hasura/gatsby-gitbook-starter](https://github.com/hasura/gatsby-gitbook-starter) - Generate GitBook style modern docs/tutorial websites using Gatsby + MDX
-- [renzhezhilu/webp2jpg-online](https://github.com/renzhezhilu/webp2jpg-online) - Use the browser's online image format converter, no need to upload files, you can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files to jpeg, png, webp animation, gif, base64,avif,mozjpeg. 使用浏览器的在
-- [skevy/graphiql-app](https://github.com/skevy/graphiql-app) - Light, Electron-based Wrapper around GraphiQL
-- [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
-- [gr2m/cloudflare-worker-github-app-example](https://github.com/gr2m/cloudflare-worker-github-app-example) - A Cloudflare Worker + GitHub App Example
-- [changhuixu/weather-cli-nodejs](https://github.com/changhuixu/weather-cli-nodejs) - A CLI program in Node.js. The program checks weather data in command line.
-- [travis-john/05-day-planner](https://github.com/travis-john/05-day-planner) - A meeting scheduler for to plan work days
-- [maple3142/mergemp4](https://github.com/maple3142/mergemp4) - 
-- [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
-- [OldPanda/Open-the-F-king-URL-Right-Now](https://github.com/OldPanda/Open-the-F-king-URL-Right-Now) - 自动跳转某些网站不希望用户直达的外链
-- [miaotony/Telegram-Channel-Mirror](https://github.com/miaotony/Telegram-Channel-Mirror) - 🎙️ 利用 CloudFlare Worker 搭建 telegram 频道镜像站，使得国内可以访问
-- [ibearye/talk](https://github.com/ibearye/talk) - 建立在腾讯云cloudbase上、使用微信公众号发布内容的说说程序
-- [gezhongran/DougSociety](https://github.com/gezhongran/DougSociety) - 道格学社官方仓库
-- [headllines/producthunt-daily-rss](https://github.com/headllines/producthunt-daily-rss) - The missing RSS feed for ProductHunt daily top posts
-- [upupming/Mirror](https://github.com/upupming/Mirror) - Deploy Google and Wikipedia mirror with one command using now.sh.
-- [M0nica/github-issue-tracker](https://github.com/M0nica/github-issue-tracker) - UI to allow users to view all issues associated with their GitHub repositories in a single view
-- [mathieudutour/foam-gatsby-template](https://github.com/mathieudutour/foam-gatsby-template) - Foam workpace template
-- [sharu725/online-cv](https://github.com/sharu725/online-cv) - A minimal Jekyll Theme to host your resume (CV) on GitHub with a few clicks.
-- [brianlovin/security-checklist](https://github.com/brianlovin/security-checklist) - A checklist for staying safe on the internet
-- [gdtool/cloudflare-workers-blog](https://github.com/gdtool/cloudflare-workers-blog) - A Blog Powered By Cloudflare Workers and KV
-- [Sneezry/OpenHappyHackingCalendar](https://github.com/Sneezry/OpenHappyHackingCalendar) - This is the source code to build Happy Hacking Calender.
-- [listen1/listen1_mobile](https://github.com/listen1/listen1_mobile) - one for all free music in china (iOS, Android)
-- [junyux/FE-Advance](https://github.com/junyux/FE-Advance) - 前端进阶十日谈
-- [anup-a/svgwave](https://github.com/anup-a/svgwave) - SVG Wave is a tiny, free and beautiful SVG gradient waves generator for your next design.
-- [i5ting/yrm](https://github.com/i5ting/yrm) - YARN registry manager, fast switch between different registries: npm, cnpm, nj, taobao
-- [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
-- [shfshanyue/wechat](https://github.com/shfshanyue/wechat) - 黑客增长: 从博客引流到公众号
-- [fengerzh/fengerzh.github.io](https://github.com/fengerzh/fengerzh.github.io) - 我的个人博客的模板
-- [leo-buneev/vuepress-plugin-fulltext-search](https://github.com/leo-buneev/vuepress-plugin-fulltext-search) - Adds full-text search capabilities to your vuepress site with a help of flexsearch library.
-- [hongyangAndroid/wanandroid](https://github.com/hongyangAndroid/wanandroid) - 玩Android网站 -- 努力做一个优质的Android站点
-- [ruanyf/lvv2-feed](https://github.com/ruanyf/lvv2-feed) - Lvv2.com's RSS feed
-- [chr15m/motionless](https://github.com/chr15m/motionless) - Generate static sites with code.
-- [airyland/china-area-data](https://github.com/airyland/china-area-data) - 中国省市区数据
-- [haroldtreen/query-nownownow](https://github.com/haroldtreen/query-nownownow) - Search profiles on http://nownownow.com
-- [amondnet/vercel-action](https://github.com/amondnet/vercel-action) - This action make a deployment with github actions instead of Vercel builder.
-- [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
-- [preactjs/wmr](https://github.com/preactjs/wmr) - 👩‍🚀 The tiny all-in-one development tool for modern web apps.
-- [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
-- [rodi01/RenameIt](https://github.com/rodi01/RenameIt) - Keep your Sketch files organized, batch rename layers and artboards.
-- [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
-- [metcalfc/changelog-generator](https://github.com/metcalfc/changelog-generator) - GitHub Action to generate changelogs, release notes, whatever
-- [M0nica/how-many-days-until](https://github.com/M0nica/how-many-days-until) - A React countdown app of days between today and next year.
-- [lyricat/wechat-format](https://github.com/lyricat/wechat-format) - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-- [vesoft-inc/github-statistics](https://github.com/vesoft-inc/github-statistics) - A react static app for displaying github repo statistics like Star History, Fork History and more.
-- [linyuxuanlin/Wiki_VuePress](https://github.com/linyuxuanlin/Wiki_VuePress) - 基于 VuePress 的个人知识库（已弃用，仅供参考）
-- [cblgh/monotome](https://github.com/cblgh/monotome) - a personal knowledge base system. markdown markup, runs in the browser
-- [chinese-poetry/poetry-calendar](https://github.com/chinese-poetry/poetry-calendar) - ✨🗓✨一个美炸天的诗词周历 ， 52个周给你新的体验。
-- [xuexb/github-bot](https://github.com/xuexb/github-bot) - GitHub 自动处理 issue、PR、releases 机器人
-- [dyarleniber/react-workflow-gh-actions](https://github.com/dyarleniber/react-workflow-gh-actions) - Source code of the post: Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
-- [konstantinmuenster/simple-react-js-weather-app](https://github.com/konstantinmuenster/simple-react-js-weather-app) - A simple weather app that allows you to get current weather information, based on the city you enter.
-- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
-- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-- [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
-- [adlered/ContentEasyJS](https://github.com/adlered/ContentEasyJS) - :star2:Easily and automatically create directory navigation for your articles without configuration. | 轻松为你的网站文章设置右侧悬浮目录导航，支持点击跳转，不需要复杂的设置！JS | HTML | JQuery
-- [adlered/punctuationCheck](https://github.com/adlered/punctuationCheck) - :art: 修正中英文标点语法混用的句子 | 干掉中英文标点混用，是十分明智且正确的做法。 | Bootstrap
-- [bradtraversy/vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-- [yi-Xu-0100/traffic-to-badge](https://github.com/yi-Xu-0100/traffic-to-badge) - 📊 The GitHub action that using repositories Insights/traffic data to generate badges that include views and clones.
-- [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
-- [nslogx/Gitter](https://github.com/nslogx/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
-- [kamranahmedse/pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window
-- [saadpasta/developerFolio](https://github.com/saadpasta/developerFolio) - 🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer. (This is currently not being actively maintained)
-- [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-- [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [goessner/mdmath](https://github.com/goessner/mdmath) - LaTeX Math for Markdown inside of Visual Studio Code.
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [ooade/NextSimpleStarter](https://github.com/ooade/NextSimpleStarter) - :whale: Simple and Accessible PWA boilerplate with Nextjs 12 and MUI
-- [jaywcjlove/hotkeys-js](https://github.com/jaywcjlove/hotkeys-js) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
-- [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with &lt;3 by GitHub
-- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
-- [villeheikkila/fullstackopen](https://github.com/villeheikkila/fullstackopen) - Exercises for the Full Stack Open course.
-- [SukkaW/cloudflare-workers-async-google-analytics](https://github.com/SukkaW/cloudflare-workers-async-google-analytics) - :cloud: The Cloudflare Workers implementation of an async Google Analytics
-- [duty-machine/weixin-archive-action](https://github.com/duty-machine/weixin-archive-action) - 将微信文章保存为jpg和mht格式的github action
-- [falling-sky/source](https://github.com/falling-sky/source) - Main source for falling-sky.  Mostly  HTML, JavaScript.
-- [abhijeetps/weekly-digest](https://github.com/abhijeetps/weekly-digest) - Weekly summary of activity on your GitHub repository :calendar:
-- [visjs/vis-network](https://github.com/visjs/vis-network) - :dizzy: Display dynamic, automatically organised, customizable network views.
-- [felixhayashi/TW5-TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap) - Map drawing and topic visualization for your wiki
-- [jgallen23/toc](https://github.com/jgallen23/toc) - Table of Contents Plugin
-- [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-- [shadowsocksrr/electron-ssr](https://github.com/shadowsocksrr/electron-ssr) - Shadowsocksr client using electron
-- [huijing/blank-html5](https://github.com/huijing/blank-html5) - :construction: Blank HTML5 template for experiments and stuff
-- [huijing/slides](https://github.com/huijing/slides) - :movie_camera: Slides for talks and stuff
-- [aui/font-spider](https://github.com/aui/font-spider) - Smart webfont compression and format conversion tool
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [jfhbrook/node-ecstatic](https://github.com/jfhbrook/node-ecstatic) - A static file server middleware that works with core http, express or on the CLI!
-- [rimi/tw5-telmiger-plugins](https://github.com/rimi/tw5-telmiger-plugins) - 
-- [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart) - :octocat: Generate an image of all your Github contributions
-- [NiZerin/WeChatBlog](https://github.com/NiZerin/WeChatBlog) - 💘微信小程序 & 个人博客 & WordPress & WordPress REST API
-- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [madawei2699/July](https://github.com/madawei2699/July) - 简单的小博客仓库
-- [MakerGYT/markdown-it-latex2img](https://github.com/MakerGYT/markdown-it-latex2img) - LaTex plugin for markdown-it markdown parser,Place LaTeX Math equation on anywhere as &lt;img&gt; tag.
-- [husanfeng/hsf_blog](https://github.com/husanfeng/hsf_blog) - 小程序，云开发，此博客小程序使用的是腾讯的云开发技术，没有繁琐的后台配置，只需操作云数据库就可以对数据进行增删改查。 这个小程序主要为了总结和记录前端一些比较前沿的技术，纯属个人爱好。。。
-- [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
-- [simonguo/f2edocs.com](https://github.com/simonguo/f2edocs.com) - :blue_book: 前端开发-学习资料库 (开源书籍，规范，博客社区，面试题)。前端开发者，是这个互联网时代不可缺少的角色，我们彼此相爱，我们共同学习。
 
 ## Ruby 
 
