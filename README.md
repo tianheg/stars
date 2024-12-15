@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Dart](#dart)
 - [Shell](#shell)
 - [Rust](#rust)
 - [JavaScript](#javascript)
@@ -33,7 +34,6 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Julia](#julia)
 - [LLVM](#llvm)
-- [Dart](#dart)
 - [SCSS](#scss)
 - [Lua](#lua)
 - [Swift](#swift)
@@ -67,6 +67,15 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## Dart 
+
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+- [idealclover/Caritas-APP](https://github.com/idealclover/Caritas-APP) - 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+- [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
+- [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
+- [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 
 ## Shell 
 
@@ -256,7 +265,7 @@
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [alswl/dingmark](https://github.com/alswl/dingmark) - Go CLI and WASM online for DingTalk send markdown message.
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
-- [Lucky-183/PI-Assistant](https://github.com/Lucky-183/PI-Assistant) - 基于树莓派和GPT实现的多功能语音家庭助手
+- [Lucky-183/PI-Assistant](https://github.com/Lucky-183/PI-Assistant) - 基于树莓派和GPT实现的多功能语音家庭助手 A multifunctional voice home assistant based on Raspberry Pi and GPT
 - [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
@@ -1936,14 +1945,6 @@
 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
-## Dart 
-
-- [idealclover/Caritas-APP](https://github.com/idealclover/Caritas-APP) - 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-- [sass/migrator](https://github.com/sass/migrator) - Tool for migrating stylesheets to new Sass versions
-- [hamaluik/nomdebebe](https://github.com/hamaluik/nomdebebe) - A simple, private tool to help pick a baby name.
-- [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
-
 ## SCSS 
 
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
@@ -2072,7 +2073,7 @@
 
 ## Tcl 
 
-- [cea-hpc/modules](https://github.com/cea-hpc/modules) - Environment Modules: provides dynamic modification of a user's environment
+- [envmodules/modules](https://github.com/envmodules/modules) - Environment Modules: provides dynamic modification of a user's environment
 
 ## Vim Script 
 
