@@ -397,7 +397,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [avwo/whistle](https://github.com/avwo/whistle) - HTTP, HTTP2, HTTPS, Websocket debugging proxy
-- [ryanker/dream_translate](https://github.com/ryanker/dream_translate) - 梦想划词翻译是为阅读和学习外语而开发的一款翻译和查词浏览器扩展程序，聚合数十款在线词典和在线翻译。
+- [ryankeep/dream_translate](https://github.com/ryankeep/dream_translate) - 梦想划词翻译是为阅读和学习外语而开发的一款翻译和查词浏览器扩展程序，聚合数十款在线词典和在线翻译。
 - [peterbe/whatsdeployed](https://github.com/peterbe/whatsdeployed) - What's deployed from a Github repo on various server environments?
 - [samueljun/tomato-clock](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity.
 - [gauseen/gum](https://github.com/gauseen/gum) - Git multiple user config manager
