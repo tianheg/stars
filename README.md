@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Emacs Lisp](#emacs-lisp)
 - [Python](#python)
 - [Go](#go)
 - [TypeScript](#typescript)
@@ -31,7 +32,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Pascal](#pascal)
 - [HCL](#hcl)
-- [Emacs Lisp](#emacs-lisp)
 - [Julia](#julia)
 - [LLVM](#llvm)
 - [SCSS](#scss)
@@ -68,6 +68,44 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## Emacs Lisp 
+
+- [rainstormstudio/nerd-icons.el](https://github.com/rainstormstudio/nerd-icons.el) - 
+- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
+- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
+- [justbur/emacs-which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup
+- [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
+- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
+- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
+- [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
+- [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
+- [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
+- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
+- [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
+- [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
+- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
+- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
+- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
+- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
+- [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
+- [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
+- [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
+- [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
+- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
+- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
+- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
+- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
+- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
+- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
+- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
+- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
+- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
+- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
+- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese/Japanese/Korean and English characters.
+- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
+- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
 ## Python 
 
@@ -814,7 +852,7 @@
 - [mozilla/side-view](https://github.com/mozilla/side-view) - An experiment with opening mobile views of pages in the sidebar
 - [web-platform-dx/baseline-status](https://github.com/web-platform-dx/baseline-status) - A Web Component widget displaying Baseline status of a web feature
 - [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
 - [tilk/digitaljs](https://github.com/tilk/digitaljs) - Teaching-focused digital circuit simulator
 - [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
@@ -1911,43 +1949,6 @@
 ## HCL 
 
 - [SadServers/sadservers](https://github.com/SadServers/sadservers) - SadServers: Linux & DevOps Troubleshooting Scenarios SaaS
-
-## Emacs Lisp 
-
-- [tecosaur/emacs-everywhere](https://github.com/tecosaur/emacs-everywhere) - Mirror of https://git.tecosaur.net/tec/emacs-everywhere
-- [emacs-lsp/lsp-mode](https://github.com/emacs-lsp/lsp-mode) - Emacs client/library for the Language Server Protocol
-- [justbur/emacs-which-key](https://github.com/justbur/emacs-which-key) - Emacs package that displays available keybindings in popup
-- [rksm/org-ai](https://github.com/rksm/org-ai) - Emacs as your personal AI assistant. Use LLMs such as ChatGPT or LLaMA for text generation or DALL-E and Stable Diffusion for image generation. Also supports speech input / output.
-- [karthink/gptel](https://github.com/karthink/gptel) - A simple LLM client for Emacs
-- [tarsius/keycast](https://github.com/tarsius/keycast) - Show current command and its key in the mode line
-- [rust-lang/rust-mode](https://github.com/rust-lang/rust-mode) - Emacs configuration for Rust
-- [joaotavora/eglot](https://github.com/joaotavora/eglot) - A client for Language Server Protocol servers
-- [sachac/.emacs.d](https://github.com/sachac/.emacs.d) - Emacs configuration
-- [dengste/org-caldav](https://github.com/dengste/org-caldav) - Caldav sync for Emacs orgmode
-- [Wilfred/helpful](https://github.com/Wilfred/helpful) - A better Emacs *help* buffer
-- [justinbarclay/parinfer-rust-mode](https://github.com/justinbarclay/parinfer-rust-mode) - Simplifying how you write Lisp
-- [tonyaldon/one.el](https://github.com/tonyaldon/one.el) - one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.
-- [kiwanami/emacs-calfw](https://github.com/kiwanami/emacs-calfw) - A calendar framework for Emacs
-- [protesilaos/denote](https://github.com/protesilaos/denote) - Simple notes for Emacs with an efficient file-naming scheme
-- [susam/devil](https://github.com/susam/devil) - Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free non-modal editing experience
-- [manateelazycat/mind-wave](https://github.com/manateelazycat/mind-wave) - Emacs AI plugin based on ChatGPT API
-- [Exafunction/codeium.el](https://github.com/Exafunction/codeium.el) - Free, ultrafast Copilot alternative for Emacs
-- [company-mode/company-mode](https://github.com/company-mode/company-mode) - Modular in-buffer completion framework for Emacs
-- [jwiegley/use-package](https://github.com/jwiegley/use-package) - A use-package declaration for simplifying your .emacs
-- [copilot-emacs/copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
-- [joaotavora/yasnippet](https://github.com/joaotavora/yasnippet) - A template system for Emacs
-- [jorgenschaefer/elpy](https://github.com/jorgenschaefer/elpy) - Emacs Python Development Environment
-- [bbatsov/zenburn-emacs](https://github.com/bbatsov/zenburn-emacs) - The Zenburn colour theme ported to Emacs
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
-- [emacsorphanage/git-gutter](https://github.com/emacsorphanage/git-gutter) - Emacs port of GitGutter which is Sublime Text Plugin
-- [skeeto/emacs-web-server](https://github.com/skeeto/emacs-web-server) - Extensible Emacs HTTP 1.1 server
-- [kaushalmodi/ox-hugo](https://github.com/kaushalmodi/ox-hugo) - A carefully crafted Org exporter back-end for Hugo
-- [bastibe/org-journal](https://github.com/bastibe/org-journal) - A simple org-mode based journaling mode
-- [beancount/beancount-mode](https://github.com/beancount/beancount-mode) - Emacs major-mode to work with Beancount ledger files
-- [joostkremers/pandoc-mode](https://github.com/joostkremers/pandoc-mode) - An Emacs minor mode for interacting with Pandoc.
-- [coldnew/pangu-spacing](https://github.com/coldnew/pangu-spacing) - emacs minor-mode to add space between Chinese/Japanese/Korean and English characters.
-- [purcell/emacs.d](https://github.com/purcell/emacs.d) - An Emacs configuration bundle with batteries included
-- [org-roam/org-roam](https://github.com/org-roam/org-roam) - Rudimentary Roam replica with Org-mode
 
 ## Julia 
 
