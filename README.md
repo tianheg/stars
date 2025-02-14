@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [HTML](#html)
 - [TypeScript](#typescript)
 - [Others](#others)
 - [Kotlin](#kotlin)
@@ -24,7 +25,6 @@
 - [Ruby](#ruby)
 - [Haskell](#haskell)
 - [Svelte](#svelte)
-- [HTML](#html)
 - [PLpgSQL](#plpgsql)
 - [SVG](#svg)
 - [CSS](#css)
@@ -68,6 +68,109 @@
 - [Crystal](#crystal)
 - [Roff](#roff)
 - [VBScript](#vbscript)
+
+## HTML 
+
+- [emacstv/emacstv.github.io](https://github.com/emacstv/emacstv.github.io) - 
+- [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs) - Display paginated content in the browser and generate print books using web technology
+- [urlappgroup/urlapp](https://github.com/urlappgroup/urlapp) - A place for using, publishing, discussing, and developing urlapp.
+- [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
+- [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
+- [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
+- [wyj0605/douban_library](https://github.com/wyj0605/douban_library) - 豆瓣读书插件，自动查询图书馆的图书借阅信息。
+- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
+- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+- [bryanbraun/your-life](https://github.com/bryanbraun/your-life) - 
+- [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
+- [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
+- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
+- [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
+- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
+- [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
+- [yichuang-zh/ycproject](https://github.com/yichuang-zh/ycproject) - web
+- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
+- [mozilla/ai-guide](https://github.com/mozilla/ai-guide) - Mozilla AI Guide
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+- [ruiduobao/gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
+- [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
+- [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
+- [w3c/w3c-api](https://github.com/w3c/w3c-api) - The W3C API
+- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
+- [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
+- [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
+- [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
+- [ghostincoolshell/haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
+- [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
+- [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) - A Quotes / Quotations / Affirmations App Widget.
+- [w3c/web-performance](https://github.com/w3c/web-performance) - W3C Web Performance Working Group repo
+- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
+- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
+- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
+- [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
+- [TimothyGu/es-howto](https://github.com/TimothyGu/es-howto) - How to read the ECMAScript specification (ECMA-262)
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
+- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
+- [captainbrosset/devtools-tips](https://github.com/captainbrosset/devtools-tips) - A collection of useful cross-browser DevTools tips
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [w3c/chinese-ig](https://github.com/w3c/chinese-ig) - Web中文兴趣组
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) - 
+- [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
+- [csstools/system-font-css](https://github.com/csstools/system-font-css) - Use the native system font of the OS running the browser
+- [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
+- [daybrush/scenejs-render](https://github.com/daybrush/scenejs-render) - 🎬 Make a movie of CSS animation through scenejs.
+- [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
+- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
+- [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that's a thing
+- [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+- [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
+- [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
+- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
+- [Vincenius/css-speedrun](https://github.com/Vincenius/css-speedrun) - A small fun app to test your CSS knowledge
+- [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
+- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
+- [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
+- [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
+- [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+- [wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
+- [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
+- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
+- [simonw/til](https://github.com/simonw/til) - Today I Learned
+- [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
+- [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
+- [TopVitamin/static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
+- [changhuixu/css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
+- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
+- [owlling/olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
+- [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
+- [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
+- [zmf963/hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
+- [jsonsite/jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
+- [zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potentia
+- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
+- [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
+- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
+- [jekyller/TravelMap](https://github.com/jekyller/TravelMap) - Minimal Jekyll plugin for your traveling experience
+- [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
+- [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css) - A CSS-only, resolution-independent "Fork me on GitHub" ribbon.
+- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
+- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
+- [bryanbraun/poor-mans-styleguide](https://github.com/bryanbraun/poor-mans-styleguide) - A frontend styleguide for the pragmatic.
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [poozhu/juejin-search](https://github.com/poozhu/juejin-search) - 🔍 掘金搜索，搜索结果二次过滤
+- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - 😝 You can’t spell awesome without MemE!
+- [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## TypeScript 
 
@@ -164,7 +267,7 @@
 - [hehehai/x-hiring](https://github.com/hehehai/x-hiring) - 🤗 每日最新招聘信息，使用 Google AI 提取摘要
 - [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - an application based on gesture recognition for controlling desktop softwares「手势识别操控程序」
+- [RylanBot/awesome-hands-control](https://github.com/RylanBot/awesome-hands-control) - 👋 Gesture recognition for software control「手势操控软件」
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -545,7 +648,7 @@
 - [barretlee/performance-column](https://github.com/barretlee/performance-column) - 🚅 性能专栏（Performance Column）
 - [tanpero/JavaScript-Art-Tour](https://github.com/tanpero/JavaScript-Art-Tour) - 一本从头开始的 JavaScript 书，为了纪念我小学六年级时那段温暖祥和的日子。（请务必参看 README 文件）
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-- [perklet/reverse-interview-zh](https://github.com/perklet/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [perkfly/reverse-interview-zh](https://github.com/perkfly/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [88250/awesome-seeds](https://github.com/88250/awesome-seeds) - 🌱 发现新鲜有趣的小型开源项目，欢迎投稿！
 - [b1f6c1c4/learn-git-the-super-hard-way](https://github.com/b1f6c1c4/learn-git-the-super-hard-way) - 不走寻常路的Git教程
 - [conanhujinming/tips_for_interview](https://github.com/conanhujinming/tips_for_interview) - 我的一些面试心得；自学CS历程分享；找工作求职经验分享
@@ -674,7 +777,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [yihong0618/tg_bot_collections](https://github.com/yihong0618/tg_bot_collections) - collections of yihong0618's telegram bot
 - [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama, Mistral, as OpenAI compatible API endpoint in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud.
 - [arxiv-vanity/arxiv-vanity](https://github.com/arxiv-vanity/arxiv-vanity) - Renders papers from arXiv as responsive web pages so you don't have to squint at a PDF.
 - [jianboy/github-host](https://github.com/jianboy/github-host) - auto get github host ip
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
@@ -1753,108 +1856,6 @@
 - [cnanney/dev-toolbox](https://github.com/cnanney/dev-toolbox) - Dev Toolbox provides quick offline access to various development tools.
 - [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
 
-## HTML 
-
-- [pagedjs/pagedjs](https://github.com/pagedjs/pagedjs) - Display paginated content in the browser and generate print books using web technology
-- [urlappgroup/urlapp](https://github.com/urlappgroup/urlapp) - A place for using, publishing, discussing, and developing urlapp.
-- [plctlab/PLCT-Weekly](https://github.com/plctlab/PLCT-Weekly) - 软件所PLCT实验室在开源领域的不定期简报
-- [meatfighter/ascii-silhouettify](https://github.com/meatfighter/ascii-silhouettify) - 
-- [edwardtufte/et-book](https://github.com/edwardtufte/et-book) - A webfont of the typeface used in Edward Tufte’s books.
-- [wyj0605/douban_library](https://github.com/wyj0605/douban_library) - 豆瓣读书插件，自动查询图书馆的图书借阅信息。
-- [stephband/scribe](https://github.com/stephband/scribe) - Renders music in HTML.
-- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-- [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [bryanbraun/your-life](https://github.com/bryanbraun/your-life) - 
-- [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
-- [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
-- [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [yusanshi/emgithub](https://github.com/yusanshi/emgithub) - Embed a file from GitHub repository just like GitHub Gist.
-- [MarginaliaSearch/MarginaliaSearch](https://github.com/MarginaliaSearch/MarginaliaSearch) - Internet search engine for text-oriented websites. Indexing the small, old and weird web.
-- [slorber/trailing-slash-guide](https://github.com/slorber/trailing-slash-guide) - Understand and fix your static website trailing slash issues!
-- [yichuang-zh/ycproject](https://github.com/yichuang-zh/ycproject) - web
-- [plaintextaccounting/plaintextaccounting](https://github.com/plaintextaccounting/plaintextaccounting) - The plaintextaccounting.org website, a portal to Ledger, hledger, beancount and co. Also the PTA wiki.
-- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
-- [mozilla/ai-guide](https://github.com/mozilla/ai-guide) - Mozilla AI Guide
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
-- [ruiduobao/gaode_MAP_CUN](https://github.com/ruiduobao/gaode_MAP_CUN) - 1
-- [pdf2htmlEX/pdf2htmlEX](https://github.com/pdf2htmlEX/pdf2htmlEX) - Convert PDF to HTML without losing text or format.
-- [pengan1987/computer-museum-dnbwg](https://github.com/pengan1987/computer-museum-dnbwg) - 电脑博物馆 - compumuseum.com
-- [w3c/w3c-api](https://github.com/w3c/w3c-api) - The W3C API
-- [steveruizok/perfect-freehand](https://github.com/steveruizok/perfect-freehand) - Draw perfect pressure-sensitive freehand lines.
-- [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
-- [shadawck/awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic) - Tools and packages that are used for countering forensic activities, including encryption, steganography, and anything that modify attributes. This all includes tools to work with anything in general 
-- [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
-- [ghostincoolshell/haoel-articles](https://github.com/ghostincoolshell/haoel-articles) - The public articles / tweets / microblogs published by or related to @haoel
-- [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
-- [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) - A Quotes / Quotations / Affirmations App Widget.
-- [w3c/web-performance](https://github.com/w3c/web-performance) - W3C Web Performance Working Group repo
-- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
-- [viebel/klipse](https://github.com/viebel/klipse) - Klipse is a JavaScript plugin for embedding interactive code snippets in tech blogs.
-- [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
-- [whatwg/html](https://github.com/whatwg/html) - HTML Standard
-- [r3hab-media/whatsmyscreensize](https://github.com/r3hab-media/whatsmyscreensize) - 
-- [TimothyGu/es-howto](https://github.com/TimothyGu/es-howto) - How to read the ECMAScript specification (ECMA-262)
-- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [speced/bikeshed](https://github.com/speced/bikeshed) - :bike: A preprocessor for anyone writing specifications that converts source files into actual specs.
-- [captainbrosset/devtools-tips](https://github.com/captainbrosset/devtools-tips) - A collection of useful cross-browser DevTools tips
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [w3c/chinese-ig](https://github.com/w3c/chinese-ig) - Web中文兴趣组
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [arantius/web-color-wheel](https://github.com/arantius/web-color-wheel) - 
-- [jiji262/wooyun_articles](https://github.com/jiji262/wooyun_articles) - drops.wooyun.org 乌云Drops文章备份
-- [csstools/system-font-css](https://github.com/csstools/system-font-css) - Use the native system font of the OS running the browser
-- [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
-- [daybrush/scenejs-render](https://github.com/daybrush/scenejs-render) - 🎬 Make a movie of CSS animation through scenejs.
-- [jmstfv/rectangles](https://github.com/jmstfv/rectangles) - Visualize your day as 144 rectangles, where each rectangle represents 10 minutes.
-- [stevezease/tailwind-converter](https://github.com/stevezease/tailwind-converter) - Website for converting css to tailwind
-- [KrauseFx/howisFelix.today](https://github.com/KrauseFx/howisFelix.today) - Yes, that's a thing
-- [jvns/dns-lookup](https://github.com/jvns/dns-lookup) - 
-- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
-- [whatwg/dom](https://github.com/whatwg/dom) - DOM Standard
-- [manateelazycat/manateelazycat.github.io](https://github.com/manateelazycat/manateelazycat.github.io) - My personal blog
-- [kevquirk/simple.css](https://github.com/kevquirk/simple.css) - Simple.css is a CSS template that allows you to make a good looking website really quickly.
-- [Vincenius/css-speedrun](https://github.com/Vincenius/css-speedrun) - A small fun app to test your CSS knowledge
-- [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
-- [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
-- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
-- [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
-- [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
-- [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-- [wx-chevalier/Web-Notes](https://github.com/wx-chevalier/Web-Notes) - :books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。
-- [sikaozhe1997/Xin-Yue](https://github.com/sikaozhe1997/Xin-Yue) - 岳昕：致北大师生与北大外国语学院的一封公开信
-- [apankrat/nullboard](https://github.com/apankrat/nullboard) - Nullboard is a minimalist kanban board, focused on compactness and readability.
-- [simonw/til](https://github.com/simonw/til) - Today I Learned
-- [cassidoo/HTML-CSS-Tutorial](https://github.com/cassidoo/HTML-CSS-Tutorial) - Tutorial for HTML and CSS
-- [brennanbrown/enjoyment-work](https://github.com/brennanbrown/enjoyment-work) - 🗃️ A Digital Garden: Capturing my daily thoughts and progress, as well as curated ideas with unique synthesis—a personal zettelkasten. Built on Simply Jekyll by Raghuveer S.
-- [TopVitamin/static-nav](https://github.com/TopVitamin/static-nav) - 静态导航页面
-- [changhuixu/css-collection](https://github.com/changhuixu/css-collection) - A collection of CSS card designs
-- [wesbos/JavaScript30](https://github.com/wesbos/JavaScript30) - 30 Day Vanilla JS Challenge
-- [owlling/olicons](https://github.com/owlling/olicons) - olicons is a completely open-source icon set with crafted for designer and coder.
-- [pinoceniccola/what-hn-says-webext](https://github.com/pinoceniccola/what-hn-says-webext) - Web Extension: Easily find Hacker News discussions about the page you're currently browsing.
-- [daibor/nonsense.fun](https://github.com/daibor/nonsense.fun) - 废话胶囊，你说话的地方 #保卫表达#
-- [zmf963/hot_invitation](https://github.com/zmf963/hot_invitation) - 生成邀请函的小工具
-- [jsonsite/jsonsite](https://github.com/jsonsite/jsonsite) - Create a simple website with a JSON file and have it hosted for free! Sites update every hour (at :00)
-- [zhaoolee/ProgrammingWithChrome](https://github.com/zhaoolee/ProgrammingWithChrome) - 《用Chrome学编程(如何用Chrome优雅装B)》, 用Gif图展示Chrome的骚操作, 充分挖掘Chrome的编程潜力!《Programming with Chrome(How to Use Chrome elegantly install B)》, Show Chrome Sao operation with Gif, Fully tap the programming potentia
-- [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
-- [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
-- [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
-- [jekyller/TravelMap](https://github.com/jekyller/TravelMap) - Minimal Jekyll plugin for your traveling experience
-- [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting) - So your teacher asked you to upload written assignments? Hate writing assigments? This tool will help you convert your text to handwriting xD
-- [simonwhitaker/github-fork-ribbon-css](https://github.com/simonwhitaker/github-fork-ribbon-css) - A CSS-only, resolution-independent "Fork me on GitHub" ribbon.
-- [daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) - ✨ Build a beautiful and simple website in literally minutes. Demo at https://beautifuljekyll.com
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [cnych/qikqiak.com](https://github.com/cnych/qikqiak.com) - 关注 chatgpt、容器、kubernetes、devops、python、golang、微服务等技术 🎉🎉🎉
-- [bryanbraun/poor-mans-styleguide](https://github.com/bryanbraun/poor-mans-styleguide) - A frontend styleguide for the pragmatic.
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
-- [poozhu/juejin-search](https://github.com/poozhu/juejin-search) - 🔍 掘金搜索，搜索结果二次过滤
-- [reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - 😝 You can’t spell awesome without MemE!
-- [doocs/doocs.github.io](https://github.com/doocs/doocs.github.io) - 💁‍♀️ Welcome to the Doocs Open Source organization | 欢迎加入 Doocs 开源社区
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
 ## PLpgSQL 
 
 - [tianheg/api](https://github.com/tianheg/api) - 
@@ -2023,7 +2024,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [aegis-icons/aegis-icons](https://github.com/aegis-icons/aegis-icons) - Unofficial 2FA entry icons for open source Android authenticator Aegis.
 
 ## Rich Text Format 
