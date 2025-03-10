@@ -161,7 +161,7 @@
 - [drunkdream/weread-exporter](https://github.com/drunkdream/weread-exporter) - 将微信读书中的书籍导出成epub、pdf、mobi等格式
 - [anderspitman/SirTunnel](https://github.com/anderspitman/SirTunnel) - Minimal, self-hosted, 0-config alternative to ngrok. Caddy+OpenSSH+50 lines of Python.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
-- [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 NeoDB is a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub.
+- [neodb-social/neodb](https://github.com/neodb-social/neodb) - 🧩 a self-hosted server tracking what you read/watch/listen/play, powering a global distributed community federating via ActivityPub and (a bit of) ATProto.
 - [lllyasviel/stable-diffusion-webui-forge](https://github.com/lllyasviel/stable-diffusion-webui-forge) - 
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
 - [Cirn09/calibre-do-not-translate-my-path](https://github.com/Cirn09/calibre-do-not-translate-my-path) - Switch my calibre library from ascii path to plain Unicode path. 将我的书库从拼音目录切换至非纯英文（中文）命名
@@ -408,7 +408,7 @@
 - [tianheg/blog](https://github.com/tianheg/blog) - Blog Source Files
 - [tginfo/Telegram-Limits](https://github.com/tginfo/Telegram-Limits) - This project describes Telegram limitations
 - [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository
-- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2024中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
+- [vpncn/vpncn.github.io](https://github.com/vpncn/vpncn.github.io) - 2025中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐，访问Chatgpt。
 - [haixiangyan/make-wheels](https://github.com/haixiangyan/make-wheels) - 🔥 🔥 《造轮子》系列小书 —— 带你造 10 个实用的 npm 库 📦
 - [nihaojob/markdown-css-smartisan](https://github.com/nihaojob/markdown-css-smartisan) - 按照锤子便签调整的markdown-css 主题。
 - [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
@@ -548,6 +548,7 @@
 - [whitphx/stlite](https://github.com/whitphx/stlite) - In-browser Streamlit 🎈🚀
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [xyxc0673/calendar-remark](https://github.com/xyxc0673/calendar-remark) - A simple calendar with nice design for remarking a date
+- [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 - [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片。
 - [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 - [NetEase/tango](https://github.com/NetEase/tango) - A code driven low-code builder, develop low-code app on your codebase.
@@ -1305,7 +1306,6 @@
 - [pinokiocomputer/pinokio](https://github.com/pinokiocomputer/pinokio) - AI Browser
 - [alswl/dingmark](https://github.com/alswl/dingmark) - Go CLI and WASM online for DingTalk send markdown message.
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
-- [Yuyz0112/dewhale](https://github.com/Yuyz0112/dewhale) - GitHub-Powered AI for effortless development. Start as an open-source alternative to v0.dev.
 - [nicolevanderhoeven/mastobot](https://github.com/nicolevanderhoeven/mastobot) - Mastodon bot for sending Mastodon toots to Readwise
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
@@ -1390,7 +1390,6 @@
 - [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 - [Fyrd/caniuse](https://github.com/Fyrd/caniuse) - Raw browser/feature support data from caniuse.com
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - The easy way to create CSS scroll animations that react to the position of your HTML element on screen. Animate on scroll (AOS) your CSS.
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1593,7 +1592,7 @@
 - [unicar9/jizhi](https://github.com/unicar9/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors
 - [Wscats/piano](https://github.com/Wscats/piano) - 🎹Play the piano with the keyboard - 用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
-- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
+- [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
 - [baurine/vscode-pangu](https://github.com/baurine/vscode-pangu) - VS Code extension for pangu, add whitespace between Chinese and English
 - [documentationjs/documentation](https://github.com/documentationjs/documentation) - :book: documentation for modern JavaScript
@@ -1878,6 +1877,7 @@
 - [astroud/pomodoro-react-app](https://github.com/astroud/pomodoro-react-app) - ⏲ React Pomodoro timer + Frontend Mentor's visual design
 - [jdan/98.css](https://github.com/jdan/98.css) - A design system for building faithful recreations of old UIs
 - [philipwalton/solved-by-flexbox](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.
+- [iDev-Games/Trig-JS](https://github.com/iDev-Games/Trig-JS) - Trig.js makes it easy to create custom CSS scroll animations, while trig-animations.css provides a library of predefined animations out of the box for effortless animation. Whether you want full contr
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 - [Philo-Li/philoart](https://github.com/Philo-Li/philoart) - Art gallery. https://philoart.io/
