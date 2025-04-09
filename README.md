@@ -25,11 +25,11 @@
 - [Ruby](#ruby)
 - [Haskell](#haskell)
 - [Svelte](#svelte)
-- [PLpgSQL](#plpgsql)
+- [Vue](#vue)
 - [SVG](#svg)
 - [CSS](#css)
+- [PLpgSQL](#plpgsql)
 - [MDX](#mdx)
-- [Vue](#vue)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Pascal](#pascal)
 - [HCL](#hcl)
@@ -92,6 +92,7 @@
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code) - 表白代码收藏馆~谁说程序猿不懂浪漫❤️
 - [tidoust/media-tests](https://github.com/tidoust/media-tests) - Musings on media
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [alicescfernandes/random-who](https://github.com/alicescfernandes/random-who) - A random website to sort a random doctor who episode, just because i love doctor who
 - [g1eny0ung/waka-box](https://github.com/g1eny0ung/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [bokub/github-stats-box](https://github.com/bokub/github-stats-box) - 📌 Update a gist to contain your GitHub stats
@@ -308,7 +309,7 @@
 - [imcvampire/vue-axios](https://github.com/imcvampire/vue-axios) - A small wrapper for integrating axios to Vuejs
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
-- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦🇪🇺
 - [s0urcelab/serverless-cloud-notepad](https://github.com/s0urcelab/serverless-cloud-notepad) - ☁ Yet Another Cloud Notepad.
 - [daiyi/random-wikipedia-newtab-extension](https://github.com/daiyi/random-wikipedia-newtab-extension) - firefox extension that opens a random unusual wikipedia page in new tabs
 - [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
@@ -574,7 +575,7 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash.
 - [agentsea/r1-computer-use](https://github.com/agentsea/r1-computer-use) - Applying the ideas of Deepseek R1 to computer use
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
-- [Evernight/lazy-beancount](https://github.com/Evernight/lazy-beancount) - Beancount accounting system packaged in a Docker image together with a few libraries and some additional UIs. Privacy-focused and comprehensive approach to personal finances.
+- [Evernight/lazy-beancount](https://github.com/Evernight/lazy-beancount) - Beancount accounting system packaged in a Docker image together with Fava, few other libraries and some additional UIs. Privacy-focused and comprehensive approach to personal finances.
 - [jiegec/china_bean_importers](https://github.com/jiegec/china_bean_importers) - Beancount importers for Chinese users
 - [kensanata/mastodon-archive](https://github.com/kensanata/mastodon-archive) - Archive your statuses, favorites and media using the Mastodon API (i.e. login required)
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -594,7 +595,7 @@
 - [jarun/ddgr](https://github.com/jarun/ddgr) - :duck: DuckDuckGo from the terminal
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build lightning-fast Reasoning Agents with memory, knowledge, tools and native multi-modal support.
 - [unum-cloud/uform](https://github.com/unum-cloud/uform) - Pocket-Sized Multimodal AI for content understanding and generation across multilingual texts, images, and 🔜 video, up to 5x faster than OpenAI CLIP and LLaVA 🖼️ & 🖋️
 - [okaris/omni-zero](https://github.com/okaris/omni-zero) - A diffusers pipeline for zero shot stylised portrait creation
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
@@ -1855,7 +1856,6 @@
 ## Svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query
 - [null-dev/firefox-profile-switcher](https://github.com/null-dev/firefox-profile-switcher) - Create, manage and switch between browser profiles seamlessly.
 - [ttu-ttu/ebook-reader](https://github.com/ttu-ttu/ebook-reader) - Online e-book reader that supports Yomichan
@@ -1863,10 +1863,42 @@
 - [cnanney/dev-toolbox](https://github.com/cnanney/dev-toolbox) - Dev Toolbox provides quick offline access to various development tools.
 - [plastic-editor/editor](https://github.com/plastic-editor/editor) - 
 
-## PLpgSQL 
+## Vue 
 
 - [tianheg/api](https://github.com/tianheg/api) - 
-- [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+- [imba97/playing-music](https://github.com/imba97/playing-music) - Show the music I am currently listening to through last.fm API
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [wobsoriano/vue-wrap-balancer](https://github.com/wobsoriano/vue-wrap-balancer) - Simple Vue Component That Makes Titles More Readable.
+- [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
+- [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) - 
+- [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
+- [emersonbottero/vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search) - Provide local search to your documentation site.
+- [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
+- [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
+- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
+- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
+- [tianheg/mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
+- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
+- [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
+- [lework/lemonitor](https://github.com/lework/lemonitor) - 列出开源软件的中国境内镜像站点 (List of mirror sites in China for open source software)
+- [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Transform any link into an elegant visual web bookmark with just one click to copy the stunning bookmark image.
+- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
+- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
+- [n3-rd/Mojo](https://github.com/n3-rd/Mojo) - A web app to get similar artists
+- [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
+- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+- [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
+- [daidr/truth-table](https://github.com/daidr/truth-table) - 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)
+- [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
+- [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
+- [ubaldop/vuemodoro](https://github.com/ubaldop/vuemodoro) - Vue component implementing a Pomodoro timer
+- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
+- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
+- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## SVG 
 
@@ -1924,6 +1956,10 @@
 - [hubisan/emacs-wsl](https://github.com/hubisan/emacs-wsl) - Install and run Emacs with the Windows Subsystem for Linux (WSL 2) in Windows 10 or 11.
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
 
+## PLpgSQL 
+
+- [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
+
 ## MDX 
 
 - [syhily/yufan.me](https://github.com/syhily/yufan.me) - My Chinese blog which captures my past memories and thoughts.
@@ -1933,42 +1969,6 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [Xe/site](https://github.com/Xe/site) - The new frontend/backend code for https://xeiaso.net
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-## Vue 
-
-- [imba97/playing-music](https://github.com/imba97/playing-music) - Show the music I am currently listening to through last.fm API
-- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [wobsoriano/vue-wrap-balancer](https://github.com/wobsoriano/vue-wrap-balancer) - Simple Vue Component That Makes Titles More Readable.
-- [eslint/config-inspector](https://github.com/eslint/config-inspector) - A visual tool for inspecting and understanding your ESLint flat configs.
-- [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [struy-cn/Y-TOC](https://github.com/struy-cn/Y-TOC) - 
-- [fayazara/onelink](https://github.com/fayazara/onelink) - Onelink is an experimental link-in-bio tool, where the data lives in the URL.
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more!
-- [emersonbottero/vitepress-plugin-search](https://github.com/emersonbottero/vitepress-plugin-search) - Provide local search to your documentation site.
-- [palxiao/poster-design](https://github.com/palxiao/poster-design) - 迅排设计 - 美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!
-- [CatsJuice/svg-drawing](https://github.com/CatsJuice/svg-drawing) - A canvas for easy sketching and replay, exportable in SVG format.
-- [CareyWang/sub-web](https://github.com/CareyWang/sub-web) - 
-- [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
-- [tianheg/mirrors-china](https://github.com/tianheg/mirrors-china) - 列出中国镜像站点包含的开源软件（List the open source software included in China mirror sites）
-- [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client
-- [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
-- [lework/lemonitor](https://github.com/lework/lemonitor) - 列出开源软件的中国境内镜像站点 (List of mirror sites in China for open source software)
-- [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Transform any link into an elegant visual web bookmark with just one click to copy the stunning bookmark image.
-- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
-- [heyui/heyui](https://github.com/heyui/heyui) - 🎉UI Toolkit for Web, Vue3.0
-- [n3-rd/Mojo](https://github.com/n3-rd/Mojo) - A web app to get similar artists
-- [jperals/zerodivs](https://github.com/jperals/zerodivs) - UI Editor for creating CSS illustrations with a single HTML element
-- [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-- [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
-- [daidr/truth-table](https://github.com/daidr/truth-table) - 根据逻辑表达式生成对应真值表 (Generate corresponding truth table from logical expression)
-- [topfullstack/node-vue-moba](https://github.com/topfullstack/node-vue-moba) - Node.js (Express.js) + Vue.js (Element UI) 全栈开发王者荣耀手机端官网和管理后台
-- [hallee9000/wedding-invitation-for-programmers](https://github.com/hallee9000/wedding-invitation-for-programmers) - 程序猿的婚礼邀请函。
-- [ubaldop/vuemodoro](https://github.com/ubaldop/vuemodoro) - Vue component implementing a Pomodoro timer
-- [eugena/github-animated-corners](https://github.com/eugena/github-animated-corners) - :octocat: Several new animated variants of "Fork me on GitHub" or "View source on GitHub" link
-- [spencerwooo/portfolio](https://github.com/spencerwooo/portfolio) - 🍌 My personal portfolio / homepage / showcase
-- [thelittlewonder/gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 
 ## Jupyter Notebook 
 
