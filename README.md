@@ -1589,7 +1589,7 @@
 
 ## Dockerfile 
 
-- [coollabsio/documentation-coolify](https://github.com/coollabsio/documentation-coolify) - Documentation for Coolify
+- [coollabsio/coolify-docs](https://github.com/coollabsio/coolify-docs) - Documentation for Coolify
 - [jscausey/vscode-nginx-certbot](https://github.com/jscausey/vscode-nginx-certbot) - Host VSCode with SSL via Nginx and Certbot
 - [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [yegle/fava-docker](https://github.com/yegle/fava-docker) - A Dockerfile for beancount-fava
